@@ -1,0 +1,2602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrderPaper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <House>Commons</House>
+  <Type>Effectives</Type>
+  <Days>
+    <Day>
+      <Date>2024-02-21T00:00:00</Date>
+      <Sections>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54614</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Prayers</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time>11:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Followed by]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>16699</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>Questions</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54394</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Questions to the Secretary of State for Science, Innovation and Technology</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Substantive Question</BusinessItemType>
+                <Time>11:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Science, Innovation and Technology</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54396</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Topical Questions to the Secretary of State for Science, Innovation and Technology</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Substantive Question</BusinessItemType>
+                <Time>11:53:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Science, Innovation and Technology</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54397</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>Questions to the Prime Minister</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Substantive Question</BusinessItemType>
+                <Time>12:00:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Prime Minister</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>16700</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>Urgent Questions and Statements</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54615</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>Urgent Questions (if any)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time>12:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54616</DayItemId>
+              <TabledOrder>8</TabledOrder>
+              <Title>Ministerial Statements (if any)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>16701</DayItemId>
+              <TabledOrder>9</TabledOrder>
+              <Title>Business of the Day</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54170</DayItemId>
+              <TabledOrder>10</TabledOrder>
+              <Title>Motor Vehicles (Driving Licences) (Reform): Ten Minute Rule Motion</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4098</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Dr Thérèse Coffey</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 23</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;The Member moving and a Member opposing this Motion may each speak for up to 10 minutes.&lt;/p&gt;</Notes>
+                <Time />
+                <Duration>Up to 20 minutes</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[That leave be given to bring in a Bill to make provision about licences authorising the driving of motor vehicles of certain classes; and for connected purposes.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54568</DayItemId>
+              <TabledOrder>11</TabledOrder>
+              <Title>OPPOSITION DAY (5TH ALLOTTED DAY)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems>
+                  <DayItem>
+                    <DayItemType>BusinessItem</DayItemType>
+                    <DayItemId>54603</DayItemId>
+                    <TabledOrder>12</TabledOrder>
+                    <Title>Ceasefire in Gaza</Title>
+                    <BusinessItemDetail>
+                      <ChildDayItems />
+                      <Sponsors>
+                        <Sponsor>
+                          <MemberId>4735</MemberId>
+                          <SortOrder>0</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Stephen Flynn</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4371</MemberId>
+                          <SortOrder>1</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Brendan O'Hara</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4430</MemberId>
+                          <SortOrder>2</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Alison Thewliss</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4443</MemberId>
+                          <SortOrder>3</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Carol Monaghan</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4640</MemberId>
+                          <SortOrder>4</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>David Linden</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4482</MemberId>
+                          <SortOrder>5</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Owen Thompson</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>1440</MemberId>
+                          <SortOrder>6</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Pete Wishart</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>1514</MemberId>
+                          <SortOrder>7</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Stewart Hosie</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4390</MemberId>
+                          <SortOrder>8</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Ian Blackford</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4486</MemberId>
+                          <SortOrder>9</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Hannah Bardell</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4421</MemberId>
+                          <SortOrder>10</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Mhairi Black</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4357</MemberId>
+                          <SortOrder>11</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Kirsty Blackman</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4748</MemberId>
+                          <SortOrder>12</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Steven Bonnar</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4417</MemberId>
+                          <SortOrder>13</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Deidre Brock</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4470</MemberId>
+                          <SortOrder>14</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Alan Brown</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4770</MemberId>
+                          <SortOrder>15</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Amy Callaghan</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4402</MemberId>
+                          <SortOrder>16</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Douglas Chapman</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4419</MemberId>
+                          <SortOrder>17</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Joanna Cherry</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4465</MemberId>
+                          <SortOrder>18</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Ronnie Cowan</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4469</MemberId>
+                          <SortOrder>19</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Angela Crawley</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4488</MemberId>
+                          <SortOrder>20</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Martyn Day</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4374</MemberId>
+                          <SortOrder>21</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Martin Docherty-Hughes</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4736</MemberId>
+                          <SortOrder>22</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Dave Doogan</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4740</MemberId>
+                          <SortOrder>23</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Allan Dorans</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4440</MemberId>
+                          <SortOrder>24</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Marion Fellows</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4435</MemberId>
+                          <SortOrder>25</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Patricia Gibson</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4432</MemberId>
+                          <SortOrder>26</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Patrick Grady</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4466</MemberId>
+                          <SortOrder>27</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Peter Grant</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4467</MemberId>
+                          <SortOrder>28</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Drew Hendry</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4403</MemberId>
+                          <SortOrder>29</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Chris Law</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4461</MemberId>
+                          <SortOrder>30</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Stewart Malcolm McDonald</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4393</MemberId>
+                          <SortOrder>31</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Stuart C McDonald</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4437</MemberId>
+                          <SortOrder>32</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Anne McLaughlin</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4424</MemberId>
+                          <SortOrder>33</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>John McNally</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4420</MemberId>
+                          <SortOrder>34</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Gavin Newlands</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4415</MemberId>
+                          <SortOrder>35</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>John Nicolson</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4413</MemberId>
+                          <SortOrder>36</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Kirsten Oswald</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4917</MemberId>
+                          <SortOrder>37</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Ms Anum Qaisar</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4453</MemberId>
+                          <SortOrder>38</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Tommy Sheppard</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4738</MemberId>
+                          <SortOrder>39</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Alyn Smith</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4463</MemberId>
+                          <SortOrder>40</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Chris Stephens</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4796</MemberId>
+                          <SortOrder>41</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Richard Thomson</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4385</MemberId>
+                          <SortOrder>42</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Dr Philippa Whitford</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4521</MemberId>
+                          <SortOrder>43</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Liz Saville Roberts</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>1397</MemberId>
+                          <SortOrder>44</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Hywel Williams</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4630</MemberId>
+                          <SortOrder>45</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Ben Lake</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4846</MemberId>
+                          <SortOrder>46</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Colum Eastwood</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>185</MemberId>
+                          <SortOrder>47</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Jeremy Corbyn</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4848</MemberId>
+                          <SortOrder>48</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Claudia Webbe</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4827</MemberId>
+                          <SortOrder>49</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Claire Hanna</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                      </Sponsors>
+                      <StandingOrders />
+                      <Amendments>
+                        <Amendment>
+                          <FriendlyDescription>Leave out from "House" to end and add: 
+
+"believes that an Israeli ground offensive in Rafah risks catastrophic humanitarian consequences and therefore must not take place; notes the intolerable loss of Palestinian life, the majority being women and children; condemns the terrorism of Hamas who continue to hold hostages; supports Australia, Canada and New Zealand’s calls for Hamas to release and return all hostages and for an immediate humanitarian ceasefire, which means an immediate stop to the fighting and a ceasefire that lasts and is observed by all sides, noting that Israel cannot be expected to cease fighting if Hamas continues with violence and that Israelis have the right to the assurance that the horror of 7 October 2023 cannot happen again; therefore supports diplomatic mediation efforts to achieve a lasting ceasefire; demands that rapid and unimpeded humanitarian relief is provided in Gaza; further demands an end to settlement expansion and violence; urges Israel to comply with the International Court of Justice’s provisional measures; calls for the UN Security Council to meet urgently; and urges all international partners to work together to establish a diplomatic process to deliver the peace of a two-state solution, with a safe and secure Israel alongside a viable Palestinian state, including working with international partners to recognise a Palestinian state as a contribution to rather than outcome of that process, because statehood is the inalienable right of the Palestinian people and not in the gift of any neighbour."</FriendlyDescription>
+                          <Sponsors>
+                            <Sponsor>
+                              <MemberId>4514</MemberId>
+                              <SortOrder>0</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Keir Starmer</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4356</MemberId>
+                              <SortOrder>1</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Angela Rayner</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>206</MemberId>
+                              <SortOrder>2</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mr David Lammy</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4082</MemberId>
+                              <SortOrder>3</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Lisa Nandy</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>400</MemberId>
+                              <SortOrder>4</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>John Healey</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>529</MemberId>
+                              <SortOrder>5</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Sir Alan Campbell</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4871</MemberId>
+                              <SortOrder>6</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Christian Wakeford</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4126</MemberId>
+                              <SortOrder>7</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mary Glindon</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4378</MemberId>
+                              <SortOrder>8</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Colleen Fletcher</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4657</MemberId>
+                              <SortOrder>9</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Anneliese Dodds</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4976</MemberId>
+                              <SortOrder>10</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Samantha Dixon</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4979</MemberId>
+                              <SortOrder>11</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Andrew Western</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>298</MemberId>
+                              <SortOrder>12</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Steve McCabe</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4456</MemberId>
+                              <SortOrder>13</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Jeff Smith</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4433</MemberId>
+                              <SortOrder>14</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Thangam Debbonaire</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4501</MemberId>
+                              <SortOrder>15</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Gerald Jones</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4572</MemberId>
+                              <SortOrder>16</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Chris Elmore</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4923</MemberId>
+                              <SortOrder>17</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Kim Leadbeater</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4504</MemberId>
+                              <SortOrder>18</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Wes Streeting</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4425</MemberId>
+                              <SortOrder>19</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Jo Stevens</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>413</MemberId>
+                              <SortOrder>20</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Hilary Benn</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4788</MemberId>
+                              <SortOrder>21</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Fleur Anderson</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4822</MemberId>
+                              <SortOrder>22</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Feryal Clark</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1506</MemberId>
+                              <SortOrder>23</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Andrew Gwynne</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>5000</MemberId>
+                              <SortOrder>24</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Alistair Strathern</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4645</MemberId>
+                              <SortOrder>25</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Emma Hardy</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1588</MemberId>
+                              <SortOrder>26</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Barbara Keeley</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4943</MemberId>
+                              <SortOrder>27</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Simon Lightwood</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4031</MemberId>
+                              <SortOrder>28</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Rachel Reeves</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4623</MemberId>
+                              <SortOrder>29</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Tonia Antoniazzi</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1521</MemberId>
+                              <SortOrder>30</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mrs Sharon Hodgson</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4849</MemberId>
+                              <SortOrder>31</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Alex Davies-Jones</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4061</MemberId>
+                              <SortOrder>32</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Bill Esterson</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4797</MemberId>
+                              <SortOrder>33</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>James Murray</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4473</MemberId>
+                              <SortOrder>34</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Louise Haigh</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>3952</MemberId>
+                              <SortOrder>35</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mr Toby Perkins</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4603</MemberId>
+                              <SortOrder>36</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Preet Kaur Gill</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4491</MemberId>
+                              <SortOrder>37</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Vicky Foxcroft</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4034</MemberId>
+                              <SortOrder>38</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Yvonne Fovargue</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4029</MemberId>
+                              <SortOrder>39</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Lilian Greenwood</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>394</MemberId>
+                              <SortOrder>40</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mr Clive Betts</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>3928</MemberId>
+                              <SortOrder>41</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Nick Smith</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>483</MemberId>
+                              <SortOrder>42</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Maria Eagle</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4480</MemberId>
+                              <SortOrder>43</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Carolyn Harris</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4268</MemberId>
+                              <SortOrder>44</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Steve Reed</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1491</MemberId>
+                              <SortOrder>45</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Kerry McCarthy</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>62</MemberId>
+                              <SortOrder>46</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Dr Alan Whitehead</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4520</MemberId>
+                              <SortOrder>47</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Matthew Pennycook</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4653</MemberId>
+                              <SortOrder>48</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Stephen Morgan</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1510</MemberId>
+                              <SortOrder>49</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Edward Miliband</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>5011</MemberId>
+                              <SortOrder>50</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Gen Kitchen</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4993</MemberId>
+                              <SortOrder>51</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Keir Mather</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4359</MemberId>
+                              <SortOrder>52</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Stephen Kinnock</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>411</MemberId>
+                              <SortOrder>53</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mr Barry Sheerman</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4389</MemberId>
+                              <SortOrder>54</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Ruth Cadbury</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1446</MemberId>
+                              <SortOrder>55</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Sir Chris Bryant</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4370</MemberId>
+                              <SortOrder>56</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Jess Phillips</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4641</MemberId>
+                              <SortOrder>57</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Alex Norris</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>420</MemberId>
+                              <SortOrder>58</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Yvette Cooper</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>230</MemberId>
+                              <SortOrder>59</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mr Ben Bradshaw</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4243</MemberId>
+                              <SortOrder>60</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Dan Jarvis</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4382</MemberId>
+                              <SortOrder>61</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Daniel Zeichner</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4569</MemberId>
+                              <SortOrder>62</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Jim McMahon</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4030</MemberId>
+                              <SortOrder>63</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Karl Turner</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1398</MemberId>
+                              <SortOrder>64</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Wayne David</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4525</MemberId>
+                              <SortOrder>65</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Christina Rees</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1489</MemberId>
+                              <SortOrder>66</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Dawn Butler</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>473</MemberId>
+                              <SortOrder>67</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Sir Mark Hendrick</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1604</MemberId>
+                              <SortOrder>68</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mr Virendra Sharma</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>3966</MemberId>
+                              <SortOrder>69</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Ian Murray</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4998</MemberId>
+                              <SortOrder>70</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Michael Shanks</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>199</MemberId>
+                              <SortOrder>71</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Ms Karen Buck</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4621</MemberId>
+                              <SortOrder>72</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Darren Jones</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4119</MemberId>
+                              <SortOrder>73</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Jonathan Reynolds</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>150</MemberId>
+                              <SortOrder>74</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Ms Harriet Harman</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1548</MemberId>
+                              <SortOrder>75</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Jessica Morden</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1587</MemberId>
+                              <SortOrder>76</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Pat McFadden</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4244</MemberId>
+                              <SortOrder>77</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Jonathan Ashworth</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4479</MemberId>
+                              <SortOrder>78</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Nick Thomas-Symonds</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4046</MemberId>
+                              <SortOrder>79</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Bridget Phillipson</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4620</MemberId>
+                              <SortOrder>80</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Ellie Reeves</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>3914</MemberId>
+                              <SortOrder>81</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Shabana Mahmood</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1536</MemberId>
+                              <SortOrder>82</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Emily Thornberry</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4263</MemberId>
+                              <SortOrder>83</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Lucy Powell</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4505</MemberId>
+                              <SortOrder>84</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Peter Kyle</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4026</MemberId>
+                              <SortOrder>85</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Liz Kendall</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>181</MemberId>
+                              <SortOrder>86</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>John Cryer</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>5001</MemberId>
+                              <SortOrder>87</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Sarah Edwards</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1541</MemberId>
+                              <SortOrder>88</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Dame Nia Griffith</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4638</MemberId>
+                              <SortOrder>89</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mr Tanmanjeet Singh Dhesi</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4682</MemberId>
+                              <SortOrder>90</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Luke Pollard</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4616</MemberId>
+                              <SortOrder>91</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Rosie Duffield</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>163</MemberId>
+                              <SortOrder>92</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Sir Stephen Timms</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1406</MemberId>
+                              <SortOrder>93</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Jon Cruddas</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4828</MemberId>
+                              <SortOrder>94</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Paula Barker</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1524</MemberId>
+                              <SortOrder>95</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Dame Meg Hillier</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4472</MemberId>
+                              <SortOrder>96</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Holly Lynch</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4124</MemberId>
+                              <SortOrder>97</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Chi Onwurah</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4667</MemberId>
+                              <SortOrder>98</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mike Amesbury</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4799</MemberId>
+                              <SortOrder>99</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Charlotte Nichols</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4631</MemberId>
+                              <SortOrder>100</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Sarah Jones</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4436</MemberId>
+                              <SortOrder>101</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Cat Smith</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>523</MemberId>
+                              <SortOrder>102</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mr Nicholas Brown</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4127</MemberId>
+                              <SortOrder>103</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Julie Elliott</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1516</MemberId>
+                              <SortOrder>104</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Andy Slaughter</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4523</MemberId>
+                              <SortOrder>105</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Catherine West</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4264</MemberId>
+                              <SortOrder>106</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Stephen Doughty</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4040</MemberId>
+                              <SortOrder>107</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Chris Evans</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4607</MemberId>
+                              <SortOrder>108</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Stephanie Peacock</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>481</MemberId>
+                              <SortOrder>109</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Sir George Howarth</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>429</MemberId>
+                              <SortOrder>110</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Derek Twigg</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4418</MemberId>
+                              <SortOrder>111</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Justin Madders</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>165</MemberId>
+                              <SortOrder>112</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Clive Efford</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4083</MemberId>
+                              <SortOrder>113</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Alison McGovern</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4632</MemberId>
+                              <SortOrder>114</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Anna McMorrin</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>328</MemberId>
+                              <SortOrder>115</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Dame Margaret Beckett</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4316</MemberId>
+                              <SortOrder>116</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mike Kane</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4617</MemberId>
+                              <SortOrder>117</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Matt Western</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4873</MemberId>
+                              <SortOrder>118</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Rachel Hopkins</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4277</MemberId>
+                              <SortOrder>119</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mrs Emma Lewell-Buck</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4510</MemberId>
+                              <SortOrder>120</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Helen Hayes</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4698</MemberId>
+                              <SortOrder>121</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Janet Daby</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4820</MemberId>
+                              <SortOrder>122</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Abena Oppong-Asare</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4058</MemberId>
+                              <SortOrder>123</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Paul Blomfield</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4981</MemberId>
+                              <SortOrder>124</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Ashley Dalton</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4618</MemberId>
+                              <SortOrder>125</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Liz Twist</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4253</MemberId>
+                              <SortOrder>126</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Seema Malhotra</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4088</MemberId>
+                              <SortOrder>127</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Stella Creasy</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4716</MemberId>
+                              <SortOrder>128</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Ruth Jones</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4571</MemberId>
+                              <SortOrder>129</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Gill Furniss</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4654</MemberId>
+                              <SortOrder>130</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Matt Rodda</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4138</MemberId>
+                              <SortOrder>131</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Rushanara Ali</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4864</MemberId>
+                              <SortOrder>132</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Olivia Blake</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>140</MemberId>
+                              <SortOrder>133</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Dame Margaret Hodge</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1400</MemberId>
+                              <SortOrder>134</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Kevin Brennan</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4391</MemberId>
+                              <SortOrder>135</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Judith Cummins</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4397</MemberId>
+                              <SortOrder>136</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Peter Dowd</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4363</MemberId>
+                              <SortOrder>137</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Kate Hollern</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4753</MemberId>
+                              <SortOrder>138</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mary Kelly Foy</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4139</MemberId>
+                              <SortOrder>139</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Ian Lavery</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1583</MemberId>
+                              <SortOrder>140</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Ms Lyn Brown</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4511</MemberId>
+                              <SortOrder>141</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Dr Rupa Huq</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                          </Sponsors>
+                          <Numbering>a</Numbering>
+                        </Amendment>
+                        <Amendment>
+                          <FriendlyDescription>Leave out from “House” to end and add:
+
+“supports Israel’s right to self-defence, in compliance with international humanitarian law, against the terror attacks perpetrated by Hamas; condemns the slaughter, abuse and gender-based violence perpetrated on 7 October 2023; further condemns the use of civilian areas by Hamas and others for terrorist operations; urges negotiations to agree an immediate humanitarian pause as the best way to stop the fighting and to get aid in and hostages out; supports moves towards a permanent sustainable ceasefire; acknowledges that achieving this will require all hostages to be released, the formation of a new Palestinian Government, Hamas to be unable to launch further attacks and to be no longer in charge in Gaza, and a credible pathway to a two-state solution which delivers peace, security and justice for both Israelis and Palestinians; expresses concern at the humanitarian crisis in Gaza and at the prospect of a military offensive in Rafah; reaffirms the urgent need to significantly scale up the flow of aid into Gaza, where too many innocent civilians have died; and calls on all parties to take immediate steps to stop the fighting and ensure unhindered humanitarian access.”
+</FriendlyDescription>
+                          <Sponsors>
+                            <Sponsor>
+                              <MemberId>4483</MemberId>
+                              <SortOrder>0</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Rishi Sunak</Name>
+                              <LayingMinisterName>The Prime Minister</LayingMinisterName>
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>1211</MemberId>
+                              <SortOrder>1</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Mr Andrew Mitchell</Name>
+                              <LayingMinisterName>Mr Andrew Mitchell</LayingMinisterName>
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4531</MemberId>
+                              <SortOrder>2</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Anne-Marie Trevelyan</Name>
+                              <LayingMinisterName>Anne-Marie Trevelyan</LayingMinisterName>
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4033</MemberId>
+                              <SortOrder>3</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>David Rutley</Name>
+                              <LayingMinisterName>David Rutley</LayingMinisterName>
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4600</MemberId>
+                              <SortOrder>4</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Leo Docherty</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>3944</MemberId>
+                              <SortOrder>5</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Simon Hart</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                          </Sponsors>
+                          <Numbering>b</Numbering>
+                        </Amendment>
+                        <Amendment>
+                          <FriendlyDescription>Leave out from “House” to end and add:
+
+"expresses its devastation at the mounting humanitarian disaster in Gaza with tens of thousands of innocent Palestinians killed, millions displaced and thousands of homes destroyed; calls on the Prime Minister to oppose publicly and at the UN Security Council the proposed IDF offensive in Rafah; further urges Hamas to unconditionally and immediately release the over 100 hostages taken following the deplorable attacks on 7 October 2023; notes the unprecedented levels of illegal settler violence in the Occupied Palestinian Territories left unchecked by the Israeli Government; welcomes the recent sanctions by the UK Government against four extremist Israeli settlers who have committed human rights abuses against Palestinian communities in the West Bank; urges the UK Government to sanction all violent settlers and their connected entities; calls on the UK Government to uphold international law and the judgments of international courts under all circumstances; further notes that the only path to regional security is a two-state solution based on 1967 borders with Hamas not in power; condemns Israeli Prime Minister Netanyahu’s repeated assertions that there is no future for a Palestinian state; and further urges the UK Government to call for an immediate bilateral ceasefire in Gaza, which will allow an end to the humanitarian devastation, get the hostages out and provide an opportunity for a political process leading to a two-state solution, providing security and dignity for all peoples in Palestine and Israel."</FriendlyDescription>
+                          <Sponsors>
+                            <Sponsor>
+                              <MemberId>4656</MemberId>
+                              <SortOrder>0</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Layla Moran</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>188</MemberId>
+                              <SortOrder>1</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Ed Davey</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4769</MemberId>
+                              <SortOrder>2</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Daisy Cooper</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4765</MemberId>
+                              <SortOrder>3</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Wendy Chamberlain</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                            <Sponsor>
+                              <MemberId>4634</MemberId>
+                              <SortOrder>4</SortOrder>
+                              <HasRelevantInterest>false</HasRelevantInterest>
+                              <Name>Christine Jardine</Name>
+                              <LayingMinisterName />
+                            </Sponsor>
+                          </Sponsors>
+                          <Numbering>c</Numbering>
+                        </Amendment>
+                      </Amendments>
+                      <Links />
+                      <RenderedFields />
+                      <BusinessItemType>Motion</BusinessItemType>
+                      <SponsorNotes>On behalf of </SponsorNotes>
+                      <Time />
+                      <DateSubmitted xsi:nil="true" />
+                      <RelevantDocuments>&lt;p class="xxxmsonormal"&gt;&lt;span style="mso-fareast-font-family: 'Times New Roman';"&gt;Eighth Report of the International Development Committee of Session 2022-23, UK aid for refugee host countries, HC 426, and the Government response, HC 1917&lt;/span&gt;&lt;span style="mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="xxxmsonormal"&gt;Oral evidence taken before the International Development Committee on 14 November 2023 and 9 January 2024, on the Humanitarian situation in Gaza, HC 110&lt;/p&gt;</RelevantDocuments>
+                      <ItemText><![CDATA[That this House calls for an immediate ceasefire in Gaza and Israel; notes with shock and distress that the death toll has now risen beyond 28,000, the vast majority of whom were women and children; further notes that there are currently 1.5 million Palestinians sheltering in Rafah, 610,000 of whom are children; also notes that they have nowhere else to go; condemns any military assault on what is now the largest refugee camp in the world; further calls for the immediate release of all hostages taken by Hamas and an end to the collective punishment of the Palestinian people; and recognises that the only way to stop the slaughter of innocent civilians is to press for a ceasefire now.]]></ItemText>
+                    </BusinessItemDetail>
+                  </DayItem>
+                  <DayItem>
+                    <DayItemType>BusinessItem</DayItemType>
+                    <DayItemId>54604</DayItemId>
+                    <TabledOrder>13</TabledOrder>
+                    <Title>Commitment to £28 billion annual funding for green energy</Title>
+                    <BusinessItemDetail>
+                      <ChildDayItems />
+                      <Sponsors>
+                        <Sponsor>
+                          <MemberId>4736</MemberId>
+                          <SortOrder>0</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Dave Doogan</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4735</MemberId>
+                          <SortOrder>1</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Stephen Flynn</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4748</MemberId>
+                          <SortOrder>2</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Steven Bonnar</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4430</MemberId>
+                          <SortOrder>3</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Alison Thewliss</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4417</MemberId>
+                          <SortOrder>4</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Deidre Brock</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4482</MemberId>
+                          <SortOrder>5</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Owen Thompson</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>1440</MemberId>
+                          <SortOrder>6</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Pete Wishart</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>1514</MemberId>
+                          <SortOrder>7</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Stewart Hosie</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4390</MemberId>
+                          <SortOrder>8</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Ian Blackford</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4486</MemberId>
+                          <SortOrder>9</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Hannah Bardell</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4421</MemberId>
+                          <SortOrder>10</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Mhairi Black</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4357</MemberId>
+                          <SortOrder>11</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Kirsty Blackman</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4470</MemberId>
+                          <SortOrder>12</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Alan Brown</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4770</MemberId>
+                          <SortOrder>13</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Amy Callaghan</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4402</MemberId>
+                          <SortOrder>14</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Douglas Chapman</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4419</MemberId>
+                          <SortOrder>15</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Joanna Cherry</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4465</MemberId>
+                          <SortOrder>16</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Ronnie Cowan</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4469</MemberId>
+                          <SortOrder>17</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Angela Crawley</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4488</MemberId>
+                          <SortOrder>18</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Martyn Day</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4374</MemberId>
+                          <SortOrder>19</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Martin Docherty-Hughes</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4740</MemberId>
+                          <SortOrder>20</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Allan Dorans</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4440</MemberId>
+                          <SortOrder>21</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Marion Fellows</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4435</MemberId>
+                          <SortOrder>22</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Patricia Gibson</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4432</MemberId>
+                          <SortOrder>23</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Patrick Grady</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4466</MemberId>
+                          <SortOrder>24</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Peter Grant</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4467</MemberId>
+                          <SortOrder>25</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Drew Hendry</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4403</MemberId>
+                          <SortOrder>26</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Chris Law</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4640</MemberId>
+                          <SortOrder>27</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>David Linden</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4461</MemberId>
+                          <SortOrder>28</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Stewart Malcolm McDonald</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4393</MemberId>
+                          <SortOrder>29</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Stuart C McDonald</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4437</MemberId>
+                          <SortOrder>30</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Anne McLaughlin</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4424</MemberId>
+                          <SortOrder>31</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>John McNally</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4443</MemberId>
+                          <SortOrder>32</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Carol Monaghan</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4420</MemberId>
+                          <SortOrder>33</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Gavin Newlands</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4415</MemberId>
+                          <SortOrder>34</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>John Nicolson</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4371</MemberId>
+                          <SortOrder>35</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Brendan O'Hara</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4413</MemberId>
+                          <SortOrder>36</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Kirsten Oswald</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4917</MemberId>
+                          <SortOrder>37</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Ms Anum Qaisar</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4453</MemberId>
+                          <SortOrder>38</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Tommy Sheppard</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4738</MemberId>
+                          <SortOrder>39</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Alyn Smith</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4463</MemberId>
+                          <SortOrder>40</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Chris Stephens</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4796</MemberId>
+                          <SortOrder>41</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Richard Thomson</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4385</MemberId>
+                          <SortOrder>42</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Dr Philippa Whitford</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                      </Sponsors>
+                      <StandingOrders />
+                      <Amendments />
+                      <Links />
+                      <RenderedFields />
+                      <BusinessItemType>Motion</BusinessItemType>
+                      <Notes>&lt;p&gt;The selection of the matters to be debated&amp;nbsp;has been made by the Leader of the Scottish National Party (Standing Order No. 14(2)).&lt;/p&gt;</Notes>
+                      <SponsorNotes>On behalf of </SponsorNotes>
+                      <Time />
+                      <DateSubmitted xsi:nil="true" />
+                      <ItemText><![CDATA[That this House fully recognises that the urgent transition to green energy offers an enormous economic opportunity for the UK in general but for energy-rich Scotland in particular; notes that the United States, through the Inflation Reduction Act of 2022, and the European Union, through the European Green Deal, have already committed the equivalent of trillions of pounds in public investment to capitalise on the global race to net zero; further recognises that business investment is lower in the UK than in any other country in the G7; further notes that a lack of ambition will fail to deliver energy security, cleaner energy and cheaper bills for consumers; and therefore calls on the Government to commit to a public investment programme at a minimum of &pound;28 billion per annum to secure jobs, fight climate change and grow the economy.]]></ItemText>
+                    </BusinessItemDetail>
+                  </DayItem>
+                </ChildDayItems>
+                <Sponsors />
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 9(3) </Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>Until 7.00pm</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54136</DayItemId>
+              <TabledOrder>14</TabledOrder>
+              <Title>Banks and Banking</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4639</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Bim Afolami</Name>
+                    <LayingMinisterName>Bim Afolami</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 118(6)</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>SI</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;span style="color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif; font-size: 16px;"&gt;If this item is opposed after 7.00pm, the division will be deferred.&lt;/span&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <Duration>No debate </Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[That the draft&nbsp;<span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;">Bank of England Levy (Amount of Levy Payable) </span><span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;"><span><span>Regulations 2024,&nbsp;</span></span></span>which&nbsp;were laid before this House on&nbsp;22 January, be approved.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>53813</DayItemId>
+              <TabledOrder>15</TabledOrder>
+              <Title>Pensions</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4806</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Claire Coutinho</Name>
+                    <LayingMinisterName>Secretary Claire Coutinho</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 118(6)</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>SI</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;span style="color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif; font-size: 16px;"&gt;If this item is opposed after&amp;nbsp;&lt;/span&gt;&lt;span style="color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif; font-size: 16px;"&gt;7&lt;/span&gt;&lt;span style="color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif; font-size: 16px;"&gt;.00pm, the division will be deferred.&lt;/span&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <Duration>No debate </Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[That the draft Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024, which were laid before this House on&nbsp;19 December 2023, be approved.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>16825</DayItemId>
+              <TabledOrder>16</TabledOrder>
+              <Title>Presentation of Public Petitions</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54638</DayItemId>
+              <TabledOrder>17</TabledOrder>
+              <Title>Ceasefire in Palestine </Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4488</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Martyn Day</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 153</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Petition</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>16702</DayItemId>
+              <TabledOrder>18</TabledOrder>
+              <Title>Adjournment Debate</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54552</DayItemId>
+              <TabledOrder>19</TabledOrder>
+              <Title>Water pollution on the east Durham coastline</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>3973</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Grahame Morris</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 9(7)</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Adjournment Debate</BusinessItemType>
+                <Time />
+                <Duration>Until 7.30pm or for half an hour (whichever is later)</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>1</SectionId>
+          <Name>Chamber</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>16782</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Order of Business</Title>
+              <Notes>The first part of the sitting will last for two hours. The second part of the sitting will last for three hours (Standing Order No. 10(1)).</Notes>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54479</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>That this House has considered the future of the steel industry in Wales</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>1541</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Dame Nia Griffith</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time>09:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <RelevantDocuments>&lt;p&gt;&lt;span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ligatures: standardcontextual; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Oral evidence taken before the Welsh Affairs Committee on 31 January 2024, on The Steel Industry in Wales, HC 508&lt;/span&gt;&lt;/p&gt;</RelevantDocuments>
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54480</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>That this House has considered junction 10A on the A14 at Kettering</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>1537</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Mr Philip Hollobone</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;The sitting will be suspended from 11.30am to 2.30pm.&lt;/p&gt;</Notes>
+                <Time>11:00:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54481</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>That this House has considered access to education in south east Northumberland</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4139</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Ian Lavery</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time>14:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54482</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>That this House has considered Government support for cavity wall insulation</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>1397</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Hywel Williams</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time>16:00:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54483</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>That this House has considered independent school fees and VAT</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4659</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Andrew Lewer</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;span style="color: #333333; font-family: 'helvetica neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;&lt;span style="color: #333333; font-family: 'helvetica neue', Helvetica, Arial, sans-serif;"&gt;&lt;span style="font-size: 14px;"&gt;The debate at 4.30pm will last for up to an hour.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #333333; font-family: 'helvetica neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;The sitting will be suspended and time added if divisions take place in the main Chamber (Standing Order No. 10(3)).&lt;/span&gt;&lt;/p&gt;</Notes>
+                <Time>16:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>2</SectionId>
+          <Name>Westminster Hall</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>16823</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Statements to be Made Today</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54627</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>Terms of Reference for the Omagh Bombing Inquiry</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-02-20T12:36:36.657</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Northern Ireland</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54637</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Firearms licensing controls: sound moderators</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-02-20T14:48:47.573</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Home Office</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54639</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Returning Officer indemnities</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-02-20T16:13:25.01</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Levelling Up, Housing and Communities</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54641</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>Update on Independent Chief Inspector of Borders and Immigration</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-02-20T17:00:42.807</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Home Office</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54640</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>Martha's Rule Update</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-02-20T16:56:52.63</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Health and Social Care</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54643</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>Consumer Protection in the Green Heating and Insulation Sectors Update</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-02-20T17:28:30.773</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Energy Security and Net Zero</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54645</DayItemId>
+              <TabledOrder>8</TabledOrder>
+              <Title>Nuclear Deterrent </Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-02-20T18:15:27.823</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Defence</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>4</SectionId>
+          <Name>Written Statements</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>16820</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Forthcoming End of Day Adjournment Debates</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54618</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Applications for 30-minute end of day adjournment debates should be made to the Table Office by 7.00pm or rise of the House, whichever is the earlier, on the Wednesdays listed below. Members can submit their application via MemberHub, from their own email account or in hard copy. Application forms are available on the Table Office page on ParliNet. The ballot takes place on the day following the deadline. Members who are successful will be contacted by the Speaker&rsquo;s Office.
+<strong></strong>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54619</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Tuesday 27 February to Monday 4 March (deadline Wednesday 21 February 7.00pm or the rise of the House, whichever is earlier)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Adjournment Debate</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54621</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Tuesday 5 to Monday 11 March (deadline Wednesday 28 February 7.00pm or the rise of the House, whichever is earlier)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Adjournment Debate</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54622</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>Tuesday 12 to Monday 18 March (deadline Wednesday 6 March 7.00pm or the rise of the House, whichever is earlier)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Adjournment Debate</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>16821</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>Forthcoming Westminster Hall Debates</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54623</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[The rota for answering Departments is listed below. Applications for 90, 60 and 30-minute debates should be made to the Table Office by 10.00pm or the rise of the House, whichever is the earlier, on the Mondays listed below. Members can submit their application via MemberHub, from their own email account or in hard copy. Application forms are available on the Table Office page on ParliNet. The ballot takes place on the day following the deadline. Members who are successful will be contacted by the Speaker's Office.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54624</DayItemId>
+              <TabledOrder>8</TabledOrder>
+              <Title>Tuesday 5 and Wednesday 6 March (deadline Monday 26 February 10.00pm or the rise of the House, whichever is earlier)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<span style="color: #333333; font-family: 'helvetica neue', Helvetica, Arial, sans-serif; font-size: 14px;">The following Departments will answer:&nbsp;</span>
+<p style="margin: 0cm;">
+<p style="margin: 0cm;"><span class="ui-provider ec bqq bqh bqr bqs bqt bqu bqv bqw bqx bqy bqz bra brb brc brd bre brf brg brh bri brj brk brl brm brn bro brp brq brr brs brt bru brv brw">Attorney General; Cabinet Office; Education; Energy Security and Net Zero; Environment, Food and Rural Affairs; Foreign, Commonwealth and Development Office; Home Office; Northern Ireland; Transport; Treasury; Wales</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54625</DayItemId>
+              <TabledOrder>9</TabledOrder>
+              <Title>Tuesday 12 and Wednesday 13 March (deadline Monday 4 March 10.00pm or the rise of the House, whichever is earlier)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<span style="color: #333333; font-family: 'helvetica neue', Helvetica, Arial, sans-serif; font-size: 14px;">The following Departments will answer:&nbsp;</span>
+<p style="margin: 0cm;">
+<p style="margin: 0cm;">Business and Trade; Culture, Media and Sport; Defence; Health and Social Care; Justice; Levelling Up, Housing and Communities; Science, Innovation and Technology; Scotland; Women and Equalities; Work and Pensions]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>16822</DayItemId>
+              <TabledOrder>10</TabledOrder>
+              <Title>Applications for Estimates Day debates to the Backbench Business Committee</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>54626</DayItemId>
+              <TabledOrder>11</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<span class="ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak">The Supplementary Estimates are expected to be laid in February. There is expected to be one day of debate on the Supplementary Estimates in mid-March. Backbench Members will lead these debates. Application forms are now available on the Backbench Business Committee website and should be submitted to <span style="color: #1e53a3;"><strong><u>BBCom@parliament.uk</u></strong></span> by the rise of the House on Monday 4 March. Applicants will be invited to appear before the Committee at 4.15pm on Tuesday 5 March.</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>7</SectionId>
+          <Name>Announcements</Name>
+        </Section>
+      </Sections>
+    </Day>
+  </Days>
+</OrderPaper>

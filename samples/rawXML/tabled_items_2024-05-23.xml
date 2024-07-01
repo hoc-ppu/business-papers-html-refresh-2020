@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrderPaper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <House>Commons</House>
+  <Type>Effectives</Type>
+  <Days>
+    <Day>
+      <Date>2024-05-23T00:00:00</Date>
+      <Sections>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56463</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Prayers</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Notes>
+                <Time>09:30:00</Time>
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</RelevantDocuments>
+                <ItemText><![CDATA[Followed by]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17197</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>Questions</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>55871</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Questions to the Secretary of State for Culture, Media and Sport</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Substantive Question</BusinessItemType>
+                <Time>09:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Culture, Media and Sport</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>55872</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Topical Questions to the Secretary of State for Culture, Media and Sport</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Substantive Question</BusinessItemType>
+                <Time>10:00:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Culture, Media and Sport</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>55873</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>Questions to the Church Commissioners, House of Commons Commission, Public Accounts Commission and Speaker’s Committee on the Electoral Commission</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Substantive Question</BusinessItemType>
+                <Time>10:10:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Church Commissioners</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17198</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>Urgent Questions and Statements</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56464</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>Urgent Questions (if any)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</RelevantDocuments>
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56465</DayItemId>
+              <TabledOrder>8</TabledOrder>
+              <Title>Business Question to the Leader of the House</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</RelevantDocuments>
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56466</DayItemId>
+              <TabledOrder>9</TabledOrder>
+              <Title>Ministerial Statements (if any)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</RelevantDocuments>
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17432</DayItemId>
+              <TabledOrder>10</TabledOrder>
+              <Title>Presentation of Bills</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56488</DayItemId>
+              <TabledOrder>11</TabledOrder>
+              <Title>Prime Minister (Nomination) and Cabinet (Appointment) Bill</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4432</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Patrick Grady</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 57</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Legislation</BusinessItemType>
+                <Time />
+                <Duration>No debate</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<p class="MsoNormal">A Bill to make provision for the House of Commons to nominate the Prime Minister and approve appointments to the Cabinet; and for connected purposes.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56494</DayItemId>
+              <TabledOrder>12</TabledOrder>
+              <Title>Scotland (Independence) Bill</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4432</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Patrick Grady</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Legislation</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<p class="MsoNormal">A Bill to make provision for the dissolution of the Union between Scotland and the rest of the United Kingdom; to make provision for the transfer of powers from the UK Parliament to the Scottish Parliament; and for connected purposes.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17199</DayItemId>
+              <TabledOrder>13</TabledOrder>
+              <Title>Business of the Day</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56496</DayItemId>
+              <TabledOrder>14</TabledOrder>
+              <Title>BUSINESS OF THE HOUSE (23 AND 24 MAY)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4017</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Penny Mordaunt</Name>
+                    <LayingMinisterName>Penny Mordaunt</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>Until any hour (if the 5.00pm Business of the House motion is agreed to)</Duration>
+                <DateSubmitted>2024-05-22T19:53:41.607</DateSubmitted>
+                <ItemText><![CDATA[<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">House to sit on Friday 24 May</span>
+<p style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(1)&nbsp; &nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">That, notwithstanding the Order of 30 January 2024 (Adjournment (February, Easter, May Bank Holiday and Whitsun Recesses)), the House shall meet on Friday 24 May at 9.30 am.</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span>
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Order to make provision about Thursday 23 May and Friday 24 May</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+
+</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(2)&nbsp; &nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">That paragraphs (3) to (13) shall apply to today&rsquo;s sitting and to the sitting on Friday 24 May.</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+
+</span>
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Government business to have precedence</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+
+</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(3)&nbsp; &nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Notwithstanding anything in Standing Order No. 14, government business shall have precedence.</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+
+</span>
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Deferred divisions</span>
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;">
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(4)&nbsp; &nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Standing Order No. 41A (Deferred divisions) shall not apply.</span>
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;">
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Motions by Ministers</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+
+</span>
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(5)&nbsp; &nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">No notice shall be required of any Motion made by a Minister of the Crown.</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(6)&nbsp; &nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Any Motion made by a Minister of the Crown may be proceeded with, though opposed, after the moment of interruption and shall not be interrupted under any Standing Order relating to the sittings of the House.</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(7)&nbsp; &nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">No Motion shall be made, except by a Minister of the Crown, to alter the order in which proceedings on a Bill are taken, to recommit a Bill or to vary or supplement the provisions of this Order.</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(8)&nbsp; &nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Such a Motion may be considered forthwith without any Question being put; and any proceedings interrupted for that purpose shall be suspended accordingly.</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(9)&nbsp; &nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Question on such a Motion shall be put forthwith; and any proceedings suspended under paragraph (7) shall thereupon be resumed.</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;">
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Consideration of Lords amendments</span>
+<p style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;">
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(10)&nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Proceedings on Lords Amendments or any subsequent Lords Message in respect of any Bill may be considered forthwith without any further Question being put.</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(11)&nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Such proceedings shall be brought to a conclusion (unless already concluded) one hour after&mdash;</span>
+<p style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(a)&nbsp; &nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">the commencement of those proceedings, or</span>
+<p style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(b)&nbsp; &nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">if earlier, the commencement of any proceedings in relation to the Bill&nbsp;</span>
+<p style="line-height: 1.38; margin-left: 108pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">concerned on a Money motion, Ways and Means motion, Procedure motion or motion to alter the order in which proceedings on or in respect of the Bill are considered.</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(12)&nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Standing Orders Nos. 83F to 83I shall apply to such proceedings as if paragraph (11) were a provision of a programme order.</span>
+<p style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;">
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Private business</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span>
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(13)&nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">No private business may be considered after this Order has been agreed</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">.</span>
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;">
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Emergency debates</span>
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;">
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(14)&nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The start of any emergency debate under Standing Order No. 24 (Emergency debates) to be held at today&rsquo;s sitting shall be postponed until the conclusion of government business; and no such debate shall be held at the sitting on Friday 24 May.</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;">
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Urgent business on Friday</span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(15)&nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">That at the sitting on Friday 24 May, notwithstanding Standing Order No. 11(4) and (5), urgent questions and statements may be taken before the commencement of public business.</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+
+</span>
+<p style="line-height: 1.38; text-indent: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Close of business</span>
+<p style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 12pt 0pt 0pt 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span>
+<span></span>
+<p style="line-height: 1.38; margin-left: 36pt; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(16)&nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">That at today&rsquo;s sitting, the Speaker shall not adjourn the House until any Messages from the Lords have been received and any Committee to draw up Reasons has reported.</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">
+</span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">(17)&nbsp; </span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span class="Apple-tab-span" style="white-space: pre;"> </span></span><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">That at the sitting on Friday 24 May, the Speaker shall not adjourn the House until a Message has been received from the Lords Commissioners.</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17434</DayItemId>
+              <TabledOrder>15</TabledOrder>
+              <Title>Business to be taken at 5.00pm</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56497</DayItemId>
+              <TabledOrder>16</TabledOrder>
+              <Title>BUSINESS OF THE HOUSE</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4483</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Rishi Sunak</Name>
+                    <LayingMinisterName>The Prime Minister</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Orders Nos. 15 and 41A</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>No debate</Duration>
+                <DateSubmitted>2024-05-22T19:56:28.617</DateSubmitted>
+                <ItemText><![CDATA[<span><span style="font-size: 12pt; font-family: Lora, serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That, at this day&rsquo;s sitting, the Motion in the name of Penny Mordaunt, relating to Business of the House (23 and 24 May) may be proceeded with, though opposed, until any hour and Standing Order No. 41A (Deferred divisions) shall not apply.</span></span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17435</DayItemId>
+              <TabledOrder>17</TabledOrder>
+              <Title>Business of the Day</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56492</DayItemId>
+              <TabledOrder>18</TabledOrder>
+              <Title>FINANCE (NO. 2) BILL: PROGRAMME (NO. 2)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>1572</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Jeremy Hunt</Name>
+                    <LayingMinisterName>The Chancellor of the Exchequer</LayingMinisterName>
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 83A(10)</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>Up to 45 minutes</Duration>
+                <DateSubmitted>2024-05-22T18:38:19.88</DateSubmitted>
+                <ItemText><![CDATA[That the Order of 17 April 2024 (Finance (No. 2) Bill: Programme) be varied as follows:
+(1) Paragraphs (8) and (9) of the Order shall be omitted.
+(2) Proceedings on Consideration shall (so far as not previously concluded) be brought to a conclusion two hours after the commencement of proceedings on the Motion for this Order.
+(3) Proceedings on Third Reading shall (so far as not previously concluded) be brought to a conclusion three hours after the commencement of proceedings on the Motion for this Order.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56442</DayItemId>
+              <TabledOrder>19</TabledOrder>
+              <Title>Finance (No. 2) Bill: Remaining Stages</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Legislation</BusinessItemType>
+                <Notes>&lt;p&gt;This Bill is expected to be certified as a Money Bill.&lt;/p&gt;</Notes>
+                <Time />
+                <Duration>Up to three hours (if the Finance (No. 2) Bill: Programme (No. 2) motion is agreed to)</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Not amended in Committee and Public Bill Committee, to be considered.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56498</DayItemId>
+              <TabledOrder>20</TabledOrder>
+              <Title>If necessary, consideration of lords messages</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17433</DayItemId>
+              <TabledOrder>21</TabledOrder>
+              <Title>Presentation of Public Petitions</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56146</DayItemId>
+              <TabledOrder>22</TabledOrder>
+              <Title>Annual swimming lessons in schools</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4839</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Jane Hunt</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 153</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Petition</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56495</DayItemId>
+              <TabledOrder>23</TabledOrder>
+              <Title>Road network in Shropshire</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>1542</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Philip Dunne</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Petition</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17200</DayItemId>
+              <TabledOrder>24</TabledOrder>
+              <Title>Adjournment Debate</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56347</DayItemId>
+              <TabledOrder>25</TabledOrder>
+              <Title>Potential impact of National Grid proposals on the environment and economy of North East Lincolnshire</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>3957</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Martin Vickers</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 9(7)</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Adjournment Debate</BusinessItemType>
+                <Time />
+                <Duration>Until 5.30pm or for half an hour (whichever is later)</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>1</SectionId>
+          <Name>Chamber</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17396</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Order of Business</Title>
+              <Notes>Up to three hours (Standing Order No. 10(1))</Notes>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56330</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>That this House has considered floating offshore wind and Allocation Round 6 of the Contracts for Difference scheme</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4863</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Selaine Saxby</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>&lt;p&gt;The subject for this debate was determined by the Backbench Business Committee. This debate will begin at 12.30pm (Order of 25 March on Westminster Hall: Sitting Times). The sitting will be suspended and time added if divisions take place in the main Chamber (Standing Order No. 10(3)).&lt;/p&gt;</Notes>
+                <Time>12:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>2</SectionId>
+          <Name>Westminster Hall</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17427</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Statements to be Made Today</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56483</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>Disease Control Framework for Bluetongue Virus Serotype 3 in England in 2024</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-05-22T16:24:06.447</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Environment, Food and Rural Affairs</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56484</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Dentistry Update</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-05-22T17:07:03.007</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Health and Social Care</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56487</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Contingencies Fund Advance</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2024-05-22T17:43:52.247</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Health and Social Care</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>4</SectionId>
+          <Name>Written Statements</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56467</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[The Prorogation of Parliament will take place on Friday 24 May and Dissolution on Thursday 30 May.
+<strong></strong>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17423</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>EFFECT OF PROROGATION AND DISSOLUTION ON QUESTIONS</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56471</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<p style="margin-bottom: 0cm;">No further&nbsp;Questions may be tabled this Parliament as there is no remaining sitting day on which a Question could be answered. All Questions fall at Prorogation, and Questions cannot be answered after Prorogation. Any unanswered, carded or withdrawn Questions will not be saved on MemberHub.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17436</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>EFFECT OF PROROGATION AND DISSOLUTION ON MOTIONS</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56479</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<p style="margin-bottom: 0cm;">Subject to the approval of the Business of the House (23 and 24 May) motion (today), which makes provision for Friday 24 May to be a sitting day, the deadline for tabling of Early Day Motions and adding names to Early Day Motions will be the rise of the House today (Thursday 23 May). Early Day Motions fall at Prorogation. Any carded or withdrawn Early Day Motions will not be saved on MemberHub.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>17437</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>ARRANGEMENTS IN THE NEW PARLIAMENT</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>56482</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<p style="margin-bottom: 0cm;">Members may submit Questions and Motions from 9.00am on Tuesday 9 July, but those Questions and Motions will not be tabled until the day of the State Opening of Parliament, planned for Wednesday 17 July. Detailed guidance on arrangements for tabling Questions and Motions, and on submitting applications for end of day Adjournment and Westminster Hall debates, will be issued once the new Parliament has met.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>7</SectionId>
+          <Name>Announcements</Name>
+        </Section>
+      </Sections>
+    </Day>
+  </Days>
+</OrderPaper>
