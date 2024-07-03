@@ -17,5 +17,5 @@ Redesign of House of Commons business papers pages
 
 
 ## Publishing
-* To publish files to [github pages](https://markfawcett.github.io/business-papers/) for external review do `npm run deploy`.
+* To publish files to [github pages](https://hoc-ppu.github.io/business-papers-redesign/) for external review do `npm run deploy`.
 
