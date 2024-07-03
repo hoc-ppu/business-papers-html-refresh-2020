@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Presentation of Bills</OPHeading2>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 57)</SOReference></DebateTimingRubric>
 <Heading3Underlined>Support for Infants and Parents etc (Information)</Heading3Underlined>
@@ -25,7 +25,7 @@
 <NoteText><from_cdata><p>The Member moving and a Member opposing this Motion may each speak for up to 10 minutes.</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>Opposition Day (4th Allotted Day)</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 7.00pm<SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 7.00pm<SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <NumberedHeadingIndented>Banning knives and swords from UK streets</NumberedHeadingIndented>
 <MotionSponsorIndented>Keir Starmer</MotionSponsorIndented>
 <MotionSponsorIndented>Angela Rayner</MotionSponsorIndented>

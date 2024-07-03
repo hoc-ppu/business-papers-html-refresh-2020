@@ -5,11 +5,11 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>3.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>GENERAL DEBATE ON UKRAINE </BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata>That this House has considered the situation in Ukraine.</from_cdata></MotionText>
 <Line_Interstitial> </Line_Interstitial>
@@ -27,7 +27,7 @@
 <OPHeading2>Order of Business</OPHeading2>
 <DebateTimingRubric>Up to three hours (Standing Order No. 10(1))</DebateTimingRubric>
 <DebateTimingRubric>4.30pm</DebateTimingRubric>
-<MotionText><from_cdata>That this House has considered e-petitions 632748 and 651094 relating to Low Traffic Neighbourhoods and accessibility</from_cdata><PresenterSponsor>Marsha De Cordova</PresenterSponsor></MotionText>: 
+<MotionText><from_cdata>That this House has considered e-petitions 632748 and 651094 relating to Low Traffic Neighbourhoods and accessibility</from_cdata>: <PresenterSponsor>Marsha De Cordova</PresenterSponsor></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p><span style="font-size: 10.5pt; line-height: 107%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: EN-GB; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA;">The subject for this debate was determined by the Petitions Committee. The sitting will last for up to three hours. The sitting will be suspended and time added if divisions take place in the main Chamber (Standing Order No. 10(3)).</span></p></from_cdata></NoteText>
 <NoteHeading>Relevant Documents:</NoteHeading>

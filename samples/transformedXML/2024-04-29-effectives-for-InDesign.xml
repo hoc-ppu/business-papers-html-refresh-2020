@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>3.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>POST OFFICE (HORIZON SYSTEM) OFFENCES BILL: PROGRAMME (NO. 2)</BusinessItemHeadingNumbered>
 <DebateTimingRubric>Up to 45 minutes<SOReference> (Standing Order No. 83A(10))</SOReference></DebateTimingRubric>
@@ -64,14 +64,14 @@
 <NoteText><from_cdata><p><span style="color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif; font-size: 16px;"> If this item is opposed after 10.00pm, the division will be deferred.</span></p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>HOUSE OF COMMONS MEMBERS&#8217; FUND</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>Penny Mordaunt</MotionSponsor>
 <MotionText><from_cdata>That the sum to be deducted from the salaries of Members of the House of Commons in pursuance of section 4(1) and (2) of the House of Commons Members&#8217; Fund Act 2016 shall for the financial year 2024-25 be &#163;2.20 per month.</from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p><span style="color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif; font-size: 16px;"> If this item is opposed after 10.00pm, the division will be deferred.</span></p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>SPEAKER&#8217;S COMMITTEE FOR THE INDEPENDENT PARLIAMENTARY STANDARDS AUTHORITY</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>Penny Mordaunt</MotionSponsor>
 <MotionText><from_cdata>That, in pursuance of paragraph 2A of Schedule 3 of the Parliamentary Standards Act 2009, Ms Tina Fahm be appointed as a lay member of the Speaker&#8217;s Committee for the Independent Parliamentary Standards Authority for a period of five years from 6 May 2024 to 4 May 2029.</from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>
@@ -87,7 +87,7 @@
 <OPHeading1>Business Today: Westminster Hall</OPHeading1>
 <OPHeading2>Order of Business</OPHeading2>
 <DebateTimingRubric>4.30pm</DebateTimingRubric>
-<MotionText><from_cdata>That this House has considered e-petition 653593 relating to assisted dying</from_cdata><PresenterSponsor>Tonia Antoniazzi</PresenterSponsor></MotionText>: 
+<MotionText><from_cdata>That this House has considered e-petition 653593 relating to assisted dying</from_cdata>: <PresenterSponsor>Tonia Antoniazzi</PresenterSponsor></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p>The subject for this debate was determined by the Petitions Committee. The sitting will last for up to three hours. The sitting will be suspended and time added if divisions take place in the main Chamber (Standing Order No. 10(3)).</p></from_cdata></NoteText>
 <NoteHeading>Relevant Documents:</NoteHeading>

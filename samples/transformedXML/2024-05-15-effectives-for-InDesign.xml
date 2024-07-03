@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Presentation of Bills</OPHeading2>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 57)</SOReference></DebateTimingRubric>
 <Heading3Underlined>Delivery Services (Driving Licence Requirements) </Heading3Underlined>
@@ -14,7 +14,7 @@
 <MotionText><from_cdata><p class="xmsonormal" style="margin-left: 36.0pt;">Bill to require a person carrying out delivery services by motorcycle or moped to hold a full licence; to provide for penalties for an employer who employs a delivery rider who holds a provisional licence; and for connected purposes.</p></from_cdata></MotionText>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Child Sexual Abuse Material (Digital Devices): Ten Minute Rule Motion</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 20 minutes<SOReference> (Standing Order No. 23 )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 20 minutes<SOReference> (Standing Order No. 23)</SOReference></DebateTimingRubric>
 <MotionSponsor>Mrs Pauline Latham</MotionSponsor>
 <MotionText><from_cdata>That leave be given to bring in a Bill <span style="font-family: Calibri, sans-serif; font-size: 11pt;">to provide for a power to require a person to grant access to their digital devices in the course of a lawful inspection under the Customs and Excise Management Act 1979 where there is a reasonable suspicion that the device may contain child sexual abuse material; to provide that refusal to grant such access constitutes an offence; and for connected purposes. </span></from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>
@@ -41,7 +41,7 @@
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p>For amendments, see separate paper (also available on the publications webpage for the Bill).</p></from_cdata></NoteText>
 <OPHeading2>Business to be taken at 7.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>DEFERRED DIVISIONS</BusinessItemHeadingBulleted>
+<DebateTimingRubric>DEFERRED DIVISIONS</DebateTimingRubric>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 41A(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That, at this day&#8217;s sitting, Standing Order No. 41A (Deferred divisions) shall not apply to the Motion in the name of Secretary Alex Chalk relating to Legal Aid and Advice.</span></from_cdata></MotionText>

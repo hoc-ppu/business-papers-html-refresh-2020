@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Presentation of Bills</OPHeading2>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 57)</SOReference></DebateTimingRubric>
 <Heading3Underlined>Telecommunications Infrastructure (Requirement to Share Apparatus) </Heading3Underlined>
@@ -28,13 +28,13 @@
 <NoteText><from_cdata><p>For amendments, see separate paper (also available on the publications webpage for the Bill).</p>
 <p>Proceedings in Committee of the whole House will (so far as not previously concluded) be brought to a conclusion three hours after their start. Any proceedings on Consideration and proceedings on Third Reading will (so far as not previously concluded) be brought to a conclusion four hours after the start of proceedings in Committee of the whole House (Order of 28 February).</p></from_cdata></NoteText>
 <OPHeading2>Business to be Taken at 7.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>DEFERRED DIVISIONS</BusinessItemHeadingBulleted>
+<DebateTimingRubric>DEFERRED DIVISIONS</DebateTimingRubric>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 41A(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That, at this day&#8217;s sitting, Standing Order No. 41A (Deferred divisions) shall not apply to the Motion in the name of Secretary Mark Harper relating to Planning.</span></from_cdata></MotionText>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Planning</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>Mr Mark Harper</MotionSponsor>
 <MotionText><from_cdata><p class="m-3641261804255646233paramotiontext" style="margin: 0cm; background: white; vertical-align: baseline;"><span style="color: black;">That this House approves the National Policy Statement for National Networks, which was laid before this House on 6 March.</span></p></from_cdata></MotionText>
 <NoteHeading>Relevant Documents:</NoteHeading>

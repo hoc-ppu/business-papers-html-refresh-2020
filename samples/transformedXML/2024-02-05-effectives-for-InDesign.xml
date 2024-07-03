@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>3.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Finance Bill: Ways and Means</BusinessItemHeadingNumbered>
 <DebateTimingRubric>Up to 45 minutes<SOReference> (Standing Order No. 52(1)(b))</SOReference></DebateTimingRubric>
@@ -54,7 +54,7 @@ proceedings on those Motions may continue, though opposed, after the moment of i
 <DebateTimingRubric>Until 10.30pm or for half an hour (whichever is later)<SOReference> (Standing Order No. 9(7))</SOReference></DebateTimingRubric>
 <MotionText>Tri-service safety officers in Devon and Cornwall: <PresenterSponsor>Steve Double</PresenterSponsor></MotionText>
 <OPHeading1>Business Today: Westminster Hall</OPHeading1>
-<MotionText><from_cdata>Westminster Hall will not be sitting.</from_cdata></MotionText>: 
+<DebateTimingRubric><from_cdata>Westminster Hall will not be sitting.</from_cdata></DebateTimingRubric>
 <OPHeading1>Written Statements</OPHeading1>
 <OPHeading2>Statements to be Made Today</OPHeading2>
 <MotionCrossHeading>Secretary of State for Culture, Media and Sport</MotionCrossHeading>

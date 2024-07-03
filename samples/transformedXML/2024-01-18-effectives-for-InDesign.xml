@@ -4,22 +4,22 @@
 <OPHeading2>Questions</OPHeading2>
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Business Question to the Leader of the House</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Business Question to the Leader of the House</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Prevention and Suppression of Terrorism</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>James Cleverly</MotionSponsor>
 <MotionText><from_cdata>That the draft <span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;">Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order</span> 2024<span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;">, </span>which was laid before this House on 15 January, be approved.</from_cdata></MotionText>
 <OPHeading2>Business to be Taken at 5.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>DEFERRED DIVISIONS</BusinessItemHeadingBulleted>
+<DebateTimingRubric>DEFERRED DIVISIONS</DebateTimingRubric>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 41A(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That, at this day&#8217;s sitting, Standing Order No. 41A (Deferred divisions) shall not apply to the Motion in the name of Secretary James Cleverly relating to Prevention and Suppression of Terrorism.</span></from_cdata></MotionText>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>BACKBENCH BUSINESS</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 5.00pm  <SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 5.00pm  <SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <NumberedHeadingIndented>Loan Charge</NumberedHeadingIndented>
 <MotionSponsorIndented>Sammy Wilson</MotionSponsorIndented>
 <MotionSponsorIndented>Sir Mike Penning</MotionSponsorIndented>

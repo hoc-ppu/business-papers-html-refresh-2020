@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>3.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Motor Vehicles (Driving Licences) (New Drivers): Ten Minute Rule Motion</BusinessItemHeadingNumbered>
 <DebateTimingRubric>Up to 20 minutes<SOReference> (Standing Order No.23)</SOReference></DebateTimingRubric>
@@ -16,7 +16,7 @@
 <NoteText><from_cdata><p>The Member moving and a Member opposing this Motion may each speak for up to 10 minutes.</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>GENERAL DEBATE ON DEFENCE</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That this House has considered defence.</span></from_cdata></MotionText>
 <Line_Interstitial> </Line_Interstitial>

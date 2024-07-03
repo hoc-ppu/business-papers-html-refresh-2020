@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Horticultural Peat (Prohibition of Sale): Ten Minute Rule Motion</BusinessItemHeadingNumbered>
 <DebateTimingRubric>Up to 20 minutes<SOReference> (Standing Order No. 23)</SOReference></DebateTimingRubric>
@@ -16,7 +16,7 @@
 <NoteText><from_cdata><p>The Member moving and a Member opposing this Motion may each speak for up to 10 minutes.</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>Tobacco and Vapes Bill: Second Reading</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 7.00pm<SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 7.00pm<SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <NoteHeading>Relevant Documents:</NoteHeading>
 <NoteText><from_cdata><p><span class="normaltextrun">Oral evidence taken before the Health and Social Care Committee on 5 February and 6 February (Qq 391-412) 2024, on Prevention in health and social care, HC 141</span></p>
 </from_cdata></NoteText>
@@ -38,14 +38,14 @@ Other proceedings
 (7) Any other proceedings on the Bill may be programmed.</from_cdata></MotionText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>Tobacco and Vapes Bill: Money</BusinessItemHeadingNumbered>
-<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a))</SOReference></DebateTimingRubric>
 <MotionSponsor>Nigel Huddleston</MotionSponsor>
 <MotionText><from_cdata>That, for the purposes of any Act resulting from the Tobacco and Vapes Bill, it is expedient to authorise the payment out of money provided by Parliament of any increase attributable to the Act in the sums payable under any other Act out of money so provided.</from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p>King&#8217;s Recommendation signified.</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>Tobacco and Vapes Bill: Ways and Means</BusinessItemHeadingNumbered>
-<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a))</SOReference></DebateTimingRubric>
 <MotionSponsor>Nigel Huddleston</MotionSponsor>
 <MotionText><from_cdata>That, for the purposes of any Act resulting from the Tobacco and Vapes Bill, it is expedient to authorise the charging of fees under or by virtue of the Act.</from_cdata></MotionText>
 <OPHeading2>Presentation of Public Petitions</OPHeading2>

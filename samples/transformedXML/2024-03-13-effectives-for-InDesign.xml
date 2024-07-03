@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Presentation of Bills</OPHeading2>
 <DebateTimingRubric>No debate <SOReference>(Standing Order No. 57)</SOReference></DebateTimingRubric>
 <Heading3Underlined>Post Office (Horizon System) Offences</Heading3Underlined>
@@ -71,7 +71,7 @@ Miscellaneous
 (19) (a) Any private business which has been set down for consideration at a time falling after the commencement of proceedings on this Order or on the Bill on a day on which the Bill has been set down to be taken as an Order of the Day shall, instead of being considered as provided by Standing Orders or by any Order of the House, be considered at the conclusion of the proceedings on the Bill on that day.
 (b) Standing Order No. 15(1) (Exempted business) shall apply to the private business so far as necessary for the purpose of securing that the business may be considered for a period of three hours.</from_cdata></MotionText>
 <OPHeading2>Business to be Taken at 7.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>BUSINESS OF THE HOUSE</BusinessItemHeadingBulleted>
+<DebateTimingRubric>BUSINESS OF THE HOUSE</DebateTimingRubric>
 <DebateTimingRubric>No debate.<SOReference> (Standing Order No. 15(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That, at this day&#8217;s sitting, proceedings on the motion in the name of the Chancellor of the Exchequer relating to the National Insurance Contributions (Reduction in Rates) (No. 2) Bill: Allocation of Time may be entered upon and proceeded with, though opposed, at any hour.</span></from_cdata></MotionText>
@@ -94,7 +94,7 @@ Miscellaneous
 <MotionText><from_cdata><p class="xxmsonormal" style="margin: 0cm;"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; color: #212121;">That this House </span><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif;">declines to give a Second Reading to the National Insurance Contributions (Reduction in Rates) (No. 2) Bill because, while acknowledging that the measures in the Bill reduce the National Insurance Contributions (NIC) burden on some employees, it considers the Government should prioritise investment in public services spending over yet more cuts in spending which would be the result of lowering tax revenue by reducing NIC rates.</span></p></from_cdata></MotionText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>NATIONAL INSURANCE CONTRIBUTIONS (REDUCTION IN RATES) (NO. 2) BILL: MONEY</BusinessItemHeadingNumbered>
-<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a))</SOReference></DebateTimingRubric>
 <MotionSponsor>Nigel Huddleston</MotionSponsor>
 <MotionText><from_cdata>That, for the purposes of any Act resulting from the National Insurance Contributions (Reduction in Rates) (No. 2) Bill, it is expedient to authorise the payment out of money provided by Parliament of any increase in the sums payable under any other Act out of money so provided that is attributable to:
 a)<span style="white-space: pre;"> </span>reducing the main primary percentage for Class 1 primary national insurance contributions to 8% (and reducing the percentage specified in regulation 131 of the Social Security Contributions Regulations 2001 to 1.85%), and

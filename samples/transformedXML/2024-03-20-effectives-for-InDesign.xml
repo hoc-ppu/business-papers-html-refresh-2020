@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Presentation of Bills</OPHeading2>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 57)</SOReference></DebateTimingRubric>
 <Heading3Underlined>Tobacco and Vapes </Heading3Underlined>
@@ -24,7 +24,7 @@
 <NoteText><from_cdata><p>The Member moving and a Member opposing this Motion may each speak for up to 10 minutes.</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>Post Office (Horizon System) Offences Bill: Second Reading</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 7.00pm <SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 7.00pm <SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <NoteHeading>Relevant Documents:</NoteHeading>
 <NoteText><from_cdata><p class="MsoNormal">Third Report of the Business and Trade Committee, Post Office and Horizon redress: Instruction to deliver, HC 477</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
@@ -49,7 +49,7 @@
 (7) Any other proceedings on the Bill may be programmed.</from_cdata></MotionText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>POST OFFICE (HORIZON SYSTEM) OFFENCES BILL: MONEY</BusinessItemHeadingNumbered>
-<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a))</SOReference></DebateTimingRubric>
 <MotionSponsor>Nigel Huddleston</MotionSponsor>
 <MotionText><from_cdata>That, for the purposes of any Act resulting from the Post Office (Horizon System) Offences Bill, it is expedient to authorise the payment out of money provided by Parliament of any expenditure incurred by the Secretary of State by virtue of the Act.</from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>

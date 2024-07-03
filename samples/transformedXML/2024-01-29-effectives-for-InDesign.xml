@@ -5,11 +5,11 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>3.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>TRADE (COMPREHENSIVE AND PROGRESSIVE AGREEMENT FOR TRANS-PACIFIC PARTNERSHIP) BILL [LORDS]: SECOND READING</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <NoteHeading>Relevant Documents:</NoteHeading>
 <NoteText><from_cdata><p>Oral evidence taken before the Environment, Food and Rural Affairs Committee on 21 November 2023, on UK trade policy: food and agriculture, HC 162</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
@@ -75,7 +75,7 @@
 <OPHeading2>Order of Business</OPHeading2>
 <DebateTimingRubric>The sitting will last for up to three hours (Standing Order No. 10(1)).</DebateTimingRubric>
 <DebateTimingRubric>4.30pm</DebateTimingRubric>
-<MotionText><from_cdata>That this House has considered e-petition 641904 relating to the next general election</from_cdata><PresenterSponsor>Tonia Antoniazzi</PresenterSponsor></MotionText>: 
+<MotionText><from_cdata>That this House has considered e-petition 641904 relating to the next general election</from_cdata>: <PresenterSponsor>Tonia Antoniazzi</PresenterSponsor></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p>The subject for this debate was determined by the Petitions Committee. The sitting will last for up to three hours. The sitting will be suspended and time added if divisions take place in the main Chamber (Standing Order No. 10(3)).</p></from_cdata></NoteText>
 <OPHeading1>Written Statements</OPHeading1>

@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Higher Education (Student Finance and Skills Shortages): Ten Minute Rule Motion</BusinessItemHeadingNumbered>
 <DebateTimingRubric>Up to 20 minutes<SOReference> (Standing Order No. 23)</SOReference></DebateTimingRubric>
@@ -25,7 +25,7 @@
 <NoteHeading>Relevant Documents:</NoteHeading>
 <NoteText><from_cdata><p><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ligatures: standardcontextual; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Twelfth Report of the Communities and Local Government Committee of Session 2017-19, Leasehold Reform, HC 1468, and the Government response, CP 99</span></p></from_cdata></NoteText>
 <OPHeading2>Business to be Taken at 7.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>DEFERRED DIVISIONS</BusinessItemHeadingBulleted>
+<DebateTimingRubric>DEFERRED DIVISIONS</DebateTimingRubric>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 41A(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That, at this day&#8217;s sitting, Standing Order No. 41A (Deferred divisions) shall not apply to the Motion in the name of Penny Mordaunt relating to the Committee on Standards.</span></from_cdata></MotionText>
