@@ -5,23 +5,23 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Bathing Waters (Monitoring and Reporting): Ten Minute Rule Motion</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 20 minutes<SOReference> (Standing Order No. 23 )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 20 minutes<SOReference> (Standing Order No. 23)</SOReference></DebateTimingRubric>
 <MotionSponsor>Selaine Saxby</MotionSponsor>
 <MotionText><from_cdata>That leave be given to bring in a Bill <span style="font-family: Calibri, sans-serif; font-size: 11pt;">to make provision about monitoring </span><span style="font-family: Calibri, sans-serif; font-size: 11pt;">and reporting</span> <span style="font-family: Calibri, sans-serif; font-size: 11pt;">of water quality in bathing water sites in coastal areas; and for connected purposes.</span></from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p>The Member moving and a Member opposing this Motion may each speak for up to 10 minutes.</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>Terms and Conditions of Employment</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>Kemi Badenoch</MotionSponsor>
 <MotionText><from_cdata>That the draft <span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;">Trade Union and Labour Relations (Consolidation) Act 1992 (Amendment of Schedule A2)</span> Order 2024,<span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;"> </span>which was laid before this House on 22 April, be approved.</from_cdata></MotionText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>Employment (Allocation of Tips)</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>Kemi Badenoch</MotionSponsor>
 <MotionText><from_cdata>That the draft <span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;">Code of Practice on Fair and Transparent Distribution of Tips</span>,<span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;"> </span>which was laid before this House on 22 April, be approved.</from_cdata></MotionText>
 <Line_Interstitial> </Line_Interstitial>
@@ -30,8 +30,8 @@
 <MotionSponsor>Penny Mordaunt</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; color: #222222; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That, at this day&#8217;s sitting, the Speaker shall put the Question necessary to dispose of proceedings on the Motion in the name of the Prime Minister relating to War Graves Week not later than 7.00pm or not later than three hours after their commencement, whichever is the later; proceedings on that Motion may continue, though opposed, after the moment of interruption; and Standing Order No. 41A (Deferred divisions) and provisions of Standing Order No. 9(3) relating to motions that this House has considered a specified matter shall not apply.</span></from_cdata></MotionText>
 <OPHeading2>Business to be taken at 7.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>BUSINESS OF THE HOUSE</BusinessItemHeadingBulleted>
-<DebateTimingRubric>No debate<SOReference> (Standing Orders Nos. 15 and 41A(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>BUSINESS OF THE HOUSE</DebateTimingRubric>
+<DebateTimingRubric>No debate<SOReference> (Standing Orders Nos. 15 and 41A(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><p style="line-height: 1.3800000000000001; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">That, at this day&#8217;s sitting</span><span style="color: #252528; font-family: 'LFT Etica', arial, sans-serif; font-size: 18px;">&#8212;</span>
 </p>

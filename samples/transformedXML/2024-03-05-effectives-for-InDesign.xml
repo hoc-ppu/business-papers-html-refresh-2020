@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Senior civil service (accountability and appointment): Ten Minute Rule Motion</BusinessItemHeadingNumbered>
 <DebateTimingRubric>Up to 20 minutes<SOReference> (Standing Order No. 23)</SOReference></DebateTimingRubric>
@@ -16,7 +16,7 @@
 <NoteText><from_cdata><p>The Member moving and a Member opposing this Motion may each speak for up to 10 minutes.</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>AUTOMATED VEHICLES BILL [LORDS]: SECOND READING</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 7.00pm<SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 7.00pm<SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <NoteHeading>Relevant Documents:</NoteHeading>
 <NoteText><from_cdata><p>Seventh Report of the Transport Committee of Session 2022-23, Self-driving vehicles, HC 519, and the Government response, Session 2023-24, HC 264</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
@@ -37,14 +37,14 @@
 (7) Any other proceedings on the Bill may be programmed.</from_cdata></MotionText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>AUTOMATED VEHICLES BILL [LORDS]: MONEY</BusinessItemHeadingNumbered>
-<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a))</SOReference></DebateTimingRubric>
 <MotionSponsor>Nigel Huddleston</MotionSponsor>
 <MotionText><from_cdata>That, for the purposes of any Act resulting from the Automated Vehicles Bill [Lords], it is expedient to authorise the payment out of money provided by Parliament of any expenditure incurred under or by virtue of the Act by the Secretary of State.</from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p>King&#8217;s Recommendation signified.</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>AUTOMATED VEHICLES BILL [LORDS]: WAYS AND MEANS</BusinessItemHeadingNumbered>
-<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a))</SOReference></DebateTimingRubric>
 <MotionSponsor>Nigel Huddleston</MotionSponsor>
 <MotionText><from_cdata>That, for the purposes of any Act resulting from the Automated Vehicles Bill [Lords], it is expedient to authorise:
 (1)<span style="white-space: pre;"> </span>the charging of fees under the Act; and
@@ -61,8 +61,8 @@
 </p>
 <p style="line-height: 1.3800000000000001; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">such Questions shall include the Questions on any Amendments selected by the Speaker which may then be moved; proceedings on those Motions may continue, though opposed, after the moment of interruption; and Standing Order No. 41A (Deferred divisions) shall not apply to those motions or to the motion in the name of Nigel Huddleston relating to High Streets (Designation, Review and Improvement Plan) Bill: Money.</span></p></from_cdata></MotionText>
 <OPHeading2>Business to be Taken at 7.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>BUSINESS OF THE HOUSE</BusinessItemHeadingBulleted>
-<DebateTimingRubric>No debate<SOReference> (Standing Order No. 15 )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>BUSINESS OF THE HOUSE</DebateTimingRubric>
+<DebateTimingRubric>No debate<SOReference> (Standing Order No. 15)</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That, at this day&#8217;s sitting, the Motion in the name of Penny Mordaunt, relating to Business of the House (Today) may be proceeded with, though opposed, until any hour and Standing Order No. 41A (Deferred divisions) shall not apply.</span></from_cdata></MotionText>
 <OPHeading2>Business of the Day</OPHeading2>

@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>3.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Presentation of Bills</OPHeading2>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 57)</SOReference></DebateTimingRubric>
 <Heading3Underlined>Thames Water (Special Administration)</Heading3Underlined>
@@ -21,7 +21,7 @@
 <NoteHeading>Relevant Documents:</NoteHeading>
 <NoteText><from_cdata><p><span style="color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif; font-size: 16px;">Second Report of the Joint Committee on Human Rights, Safety of Rwanda (Asylum and Immigration) Bill, </span>HC 435, <span style="color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif; font-size: 16px;">and the Government response,</span> HC 647</p></from_cdata></NoteText>
 <OPHeading2>Business to be Taken at 10.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>BUSINESS OF THE HOUSE</BusinessItemHeadingBulleted>
+<DebateTimingRubric>BUSINESS OF THE HOUSE</DebateTimingRubric>
 <DebateTimingRubric>No debate<SOReference> (Standing Order Nos. 15 and 41A(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata>That, at this day&#8217;s sitting: 
@@ -68,7 +68,7 @@ not later than one and a half hours after the commencement of proceedings on the
 <NoteText><from_cdata><p>King&#8217;s Recommendation signified.</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>BACKBENCH BUSINESS</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <NumberedHeadingIndented>Hospice funding</NumberedHeadingIndented>
 <MotionSponsorIndented>Sally-Ann Hart</MotionSponsorIndented>
 <MotionSponsorIndented>Peter Gibson</MotionSponsorIndented>

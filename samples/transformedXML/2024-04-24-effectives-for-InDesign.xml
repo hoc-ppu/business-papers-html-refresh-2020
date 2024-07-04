@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Heritage Public Houses: Ten Minute Rule Motion</BusinessItemHeadingNumbered>
 <DebateTimingRubric>Up to 20 minutes<SOReference> (Standing Order No. 23)</SOReference></DebateTimingRubric>
@@ -23,13 +23,13 @@
 <p>Proceedings on Consideration will (so far as not previously concluded) be brought to a conclusion at 6.00pm; and proceedings on Third Reading will (so far as not previously concluded) be brought to a conclusion at 7.00pm (Order of 23 October 2023, in the last Session of Parliament).</p>
 <p>King&#8217;s Consent to be signified on Third Reading.</p></from_cdata></NoteText>
 <OPHeading2>Business to be Taken at 7.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>DEFERRED DIVISIONS</BusinessItemHeadingBulleted>
+<DebateTimingRubric>DEFERRED DIVISIONS</DebateTimingRubric>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 41A(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That, at this day&#8217;s sitting, Standing Order No. 41A (Deferred divisions) shall not apply to the Motion in the name of Secretary James Cleverly relating to Prevention and Suppression of Terrorism.</span></from_cdata></MotionText>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Prevention and Suppression of Terrorism</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>James Cleverly</MotionSponsor>
 <MotionText><from_cdata>That the draft <span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;">Terrorism Act 2000 (Proscribed Organisations) (Amendment) (No. 2) Order</span> 2024,<span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;"> </span>which was laid before this House on 22 April, be approved.</from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>
@@ -76,7 +76,7 @@
 <OPHeading1>Deferred Divisions</OPHeading1>
 <OPHeading2>Deferred Divisions to be Held Today </OPHeading2>
 <DebateTimingRubric>Deferred Divisions will take place in the &#8216;No&#8217; Lobby between 11.30am and 2.00pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Regulatory Reform</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Regulatory Reform</DebateTimingRubric>
 <MotionSponsor>Kemi Badenoch</MotionSponsor>
 <MotionText><from_cdata>That the draft <span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;">Economic Growth (Regulatory Functions) (Amendment) Order</span> 2024, which was laid before this House on 6 March, be approved.</from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>

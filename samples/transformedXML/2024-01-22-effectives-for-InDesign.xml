@@ -5,11 +5,11 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>3.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>OFFSHORE PETROLEUM LICENSING BILL: SECOND READING</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>No title </BusinessItemHeadingNumbered>
 <MotionSponsor>Caroline Lucas</MotionSponsor>
@@ -140,7 +140,7 @@
 <OPHeading2>Order of Business</OPHeading2>
 <DebateTimingRubric>The sitting will last for up to three hours (Standing Order No. 10(1)).</DebateTimingRubric>
 <DebateTimingRubric>4.30pm</DebateTimingRubric>
-<MotionText><from_cdata><span style="font-size: 13px;">That this House has considered e-petition 643216, relating to the Groceries Supply Code of Practice</span></from_cdata><PresenterSponsor>Christina Rees</PresenterSponsor></MotionText>: 
+<MotionText><from_cdata><span style="font-size: 13px;">That this House has considered e-petition 643216, relating to the Groceries Supply Code of Practice</span></from_cdata><PresenterSponsor>Christina Rees</PresenterSponsor></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p>The subject for this debate was determined by the Petitions Committee. The sitting will last for up to three hours. The sitting will be suspended and time added if divisions take place in the main Chamber (Standing Order No. 10(3)).</p></from_cdata></NoteText>
 <NoteHeading>Relevant Documents:</NoteHeading>

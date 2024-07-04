@@ -4,8 +4,8 @@
 <OPHeading2>Questions</OPHeading2>
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Investigatory Powers (Amendment) Bill [Lords]: Remaining Stages</BusinessItemHeadingNumbered>
 <DebateTimingRubric>Until 10.00pm <SOReference> (Order of 19 February 2024)</SOReference></DebateTimingRubric>
@@ -15,13 +15,13 @@
 <NoteHeading>Relevant Documents:</NoteHeading>
 <NoteText><from_cdata><p class="elementtoproof">Correspondence between the Joint Committee on Human Rights and the Home Secretary, on the Investigatory Powers (Amendment) Bill, reported to the House on 6 March and 22 March [correspondence chain]</p></from_cdata></NoteText>
 <OPHeading2>Business to be Taken at 10.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>DEFERRED DIVISIONS</BusinessItemHeadingBulleted>
+<DebateTimingRubric>DEFERRED DIVISIONS</DebateTimingRubric>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 41A(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That, at this day&#8217;s sitting, Standing Order No. 41A (Deferred divisions) shall not apply to the Motion in the name of the Prime Minister relating to Acting Parliamentary Commissioner for Administration and Acting Health Service Commissioner for England (Appointment).</span></from_cdata></MotionText>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>ACTING PARLIAMENTARY COMMISSIONER FOR ADMINISTRATION AND ACTING HEALTH SERVICE COMMISSIONER FOR ENGLAND (APPOINTMENT)</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="color: #500050; font-family: Arial, Helvetica, sans-serif; font-size: small;">That an humble Address be presented to His Majesty, praying that His Majesty will appoint Rebecca Hilsenrath to the offices of acting Parliamentary Commissioner for Administration and acting Health Service Commissioner for England, in accordance with section 3A of the Parliamentary Commissioner Act 1967 and paragraph 2 of Schedule 1 to the Health Service Commissioners Act 1993.</span></from_cdata></MotionText>
 <NoteHeading>Relevant Documents:</NoteHeading>
@@ -52,7 +52,7 @@ In Standing Order No. 10 (Sittings in Westminster Hall), paragraph (1)(c), leave
 <OPHeading2>Order of Business</OPHeading2>
 <DebateTimingRubric>The sitting may last for up to three hours (Standing Order No. 10(1)).</DebateTimingRubric>
 <DebateTimingRubric>4.30pm</DebateTimingRubric>
-<MotionText><from_cdata>That this House has considered e-petition 206851 relating to a public inquiry into the James Bulger murder case</from_cdata><PresenterSponsor>Sir George Howarth</PresenterSponsor></MotionText>: 
+<MotionText><from_cdata>That this House has considered e-petition 206851 relating to a public inquiry into the James Bulger murder case</from_cdata>: <PresenterSponsor>Sir George Howarth</PresenterSponsor></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p>The subject for this debate was determined by the Petitions Committee. The debate will last for up to 90 minutes. The sitting will be suspended and time added if divisions take place in the main Chamber (Standing Order No. 10(3)).</p></from_cdata></NoteText>
 <OPHeading1>Written Statements</OPHeading1>

@@ -5,25 +5,25 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Immigration and Asylum: Ten Minute Rule Motion</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 20 minutes<SOReference> (Standing Order No. 23 )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 20 minutes<SOReference> (Standing Order No. 23)</SOReference></DebateTimingRubric>
 <MotionSponsor>Bob Seely</MotionSponsor>
 <MotionText><from_cdata>That leave be given to bring in a Bill <span style="font-family: Calibri, sans-serif; font-size: 11pt;">to make provision for the annual approval by the House of Commons of maximum numbers in respect of immigration and asylum; to provide that asylum may only be granted to individuals identified as refugees by the UN Refugee Agency, other than in specified circumstances; and for connected purposes. </span></from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p>The Member moving and a Member opposing this Motion may each speak for up to 10 minutes.</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>Prevention and Suppression of Terrorism </BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 90 minutes <SOReference> (Standing Order No. 16(1) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 90 minutes <SOReference> (Standing Order No. 16(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>James Cleverly</MotionSponsor>
 <MotionText><from_cdata>That the draft <span style="color: #333333; font-family: Arial, Verdana, sans-serif; font-size: 14px;">Counter-Terrorism and Security Act 2015 (Risk of Being Drawn into Terrorism) (Revised Guidance) Regulations</span> 2024, which were laid before this House on 7 May, be approved.</from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #4d4d4d; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Instrument is scheduled to be considered by the Joint Committee on Statutory Instruments at its meeting today at 3.40pm.</span></p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>Licences and Licensing</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 90 minutes <SOReference> (Standing Order No. 16(1) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 90 minutes <SOReference> (Standing Order No. 16(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>James Cleverly</MotionSponsor>
 <MotionText><from_cdata>That the draft Licensing Act 2003 (UEFA European Football Championship Licensing Hours) Order 2024, which was laid before this House on 8 May, be approved.</from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>
@@ -77,8 +77,8 @@ Miscellaneous
 (19) (a) Any private business which has been set down for consideration at a time falling after the commencement of proceedings on this Order or on the Bill on a day on which the Bill has been set down to be taken as an Order of the Day shall, instead of being considered as provided by Standing Orders or by any Order of the House, be considered at the conclusion of the proceedings on the Bill on that day.
 (b) Standing Order No. 15(1) (Exempted business) shall apply to the private business so far as necessary for the purpose of securing that the business may be considered for a period of three hours.</from_cdata></MotionText>
 <OPHeading2>Business to be Taken at 7.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>BUSINESS OF THE HOUSE</BusinessItemHeadingBulleted>
-<DebateTimingRubric>No debate<SOReference> (Standing Orders Nos. 15 and 41A(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>BUSINESS OF THE HOUSE</DebateTimingRubric>
+<DebateTimingRubric>No debate<SOReference> (Standing Orders Nos. 15 and 41A(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><p style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: Lora,serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">That, at this day&#8217;s sitting,</span>
 </p>

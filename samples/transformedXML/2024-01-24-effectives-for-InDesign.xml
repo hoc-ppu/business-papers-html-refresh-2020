@@ -4,8 +4,8 @@
 <OPHeading2>Questions</OPHeading2>
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Presentation of Bills</OPHeading2>
 <Heading3Underlined>Northern Ireland (Executive Formation)</Heading3Underlined>
 <MotionSponsor>Chris Heaton-Harris</MotionSponsor>
@@ -72,7 +72,7 @@ Miscellaneous
 (b) Standing Order No. 15(1) (Exempted business) shall apply to proceedings in respect of such a debate.
 (19) Proceedings to which this Order applies shall not be interrupted under any Standing Order relating to the sittings of the House.</from_cdata></MotionText>
 <OPHeading2>Business to be Taken at 7.00pm</OPHeading2>
-<BusinessItemHeadingBulleted>BUSINESS OF THE HOUSE</BusinessItemHeadingBulleted>
+<DebateTimingRubric>BUSINESS OF THE HOUSE</DebateTimingRubric>
 <DebateTimingRubric>No debate<SOReference> (Standing Order Nos. 15 and 41A)</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That, at this day&#8217;s sitting, the Motion in the name of Secretary Chris Heaton-Harris, relating to Northern Ireland (Executive Formation) Bill: Business of the House, may be proceeded with, though opposed, until any hour and Standing Order No. 41A (Deferred divisions) shall not apply.</span></from_cdata></MotionText>
@@ -86,7 +86,7 @@ Miscellaneous
 <NoteText><from_cdata><p><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-GB; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">If the Bill is not amended in Committee, Third Reading will follow immediately after Committee stage. If the Bill is amended in Committee, there will be a Report (Consideration) stage, followed by Third Reading. </span></p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>General debate on the situation in the Red Sea</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 7.00pm <SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 7.00pm <SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That this House has considered the situation in the Red Sea.</span></from_cdata></MotionText>
 <Line_Interstitial> </Line_Interstitial>

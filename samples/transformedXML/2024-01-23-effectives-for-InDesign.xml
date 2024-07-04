@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>12.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Presentation of Bills</OPHeading2>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 57)</SOReference></DebateTimingRubric>
 <Heading3Underlined> Children Not in School (National Register and Support) </Heading3Underlined>
@@ -21,7 +21,7 @@
 <NoteText><from_cdata><p>The Member moving and a Member opposing this Motion may each speak for up to 10 minutes.</p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>Opposition Day (3rd allotted day)</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 7.00pm<SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 7.00pm<SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <NumberedHeadingIndented>Children not in school (national register and support)</NumberedHeadingIndented>
 <MotionSponsorIndented>Keir Starmer</MotionSponsorIndented>
 <MotionSponsorIndented>Angela Rayner</MotionSponsorIndented>

@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>3.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Presentation of Bills</OPHeading2>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 57)</SOReference></DebateTimingRubric>
 <Heading3Underlined>Airports (Prohibition of Night Flights) </Heading3Underlined>
@@ -14,7 +14,7 @@
 <MotionText><from_cdata>Bill to require the Secretary of State to report to Parliament on the merits of prohibiting scheduled flights from landing or taking off between the hours of 11pm and 6am.</from_cdata></MotionText>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>THE SPEAKER&#8217;S ABSENCE</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <MotionSponsor>Penny Mordaunt</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; color: #222222; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That the Speaker have leave of absence on Tuesday 16 January to attend the memorial service of the Right Honourable the Baroness Boothroyd, former Speaker of this House.</span></from_cdata></MotionText>
 <Line_Interstitial> </Line_Interstitial>
@@ -50,7 +50,7 @@
 <NoteText><from_cdata><p><span style="color: #4d4d4d; font-family: National, Arial, Helvetica, sans-serif; font-size: 18px;">If this item is opposed after 10.00pm, the division will be deferred.</span></p></from_cdata></NoteText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>INTELLIGENCE AND SECURITY COMMITTEE OF PARLIAMENT</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Up to 90 minutes<SOReference> (Standing Order No. 16(1))</SOReference></DebateTimingRubric>
 <MotionSponsor>Rishi Sunak</MotionSponsor>
 <MotionText><from_cdata><span style="font-size: 12pt; font-family: Lora, serif; color: #222222; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;">That Maria Eagle be removed from the Intelligence and Security Committee of Parliament under Schedule 1 to the Justice and Security Act 2013 and Dame Angela Eagle be appointed to that Committee under section 1 of that Act.</span></from_cdata></MotionText>
 <NoteHeading>Notes:</NoteHeading>
@@ -87,6 +87,6 @@
 <OPHeading2>Order of Business</OPHeading2>
 <DebateTimingRubric>The sitting will last for up to three hours (Standing Order No. 10(1)).</DebateTimingRubric>
 <DebateTimingRubric>4.30pm</DebateTimingRubric>
-<MotionText><from_cdata>That this House has considered e-petition 625515, relating to allowances and tax arrangements for foster carers</from_cdata><PresenterSponsor>Martyn Day</PresenterSponsor></MotionText>: 
+<MotionText><from_cdata>That this House has considered e-petition 625515, relating to allowances and tax arrangements for foster carers</from_cdata>: <PresenterSponsor>Martyn Day</PresenterSponsor></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p>The subject for this debate was determined by the Petitions Committee. The sitting will last for up to three hours. The sitting will be suspended and time added if divisions take place in the main Chamber (Standing Order No. 10(3)).</p></from_cdata></NoteText></root>

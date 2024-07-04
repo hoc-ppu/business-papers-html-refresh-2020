@@ -5,8 +5,8 @@
 <QUESTIONS/>
 <OPHeading2>Urgent Questions and Statements</OPHeading2>
 <DebateTimingRubric>3.30pm</DebateTimingRubric>
-<BusinessItemHeadingBulleted>Urgent Questions (if any)</BusinessItemHeadingBulleted>
-<BusinessItemHeadingBulleted>Ministerial Statements (if any)</BusinessItemHeadingBulleted>
+<DebateTimingRubric>Urgent Questions (if any)</DebateTimingRubric>
+<DebateTimingRubric>Ministerial Statements (if any)</DebateTimingRubric>
 <OPHeading2>Presentation of Bills</OPHeading2>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 57)</SOReference></DebateTimingRubric>
 <Heading3Underlined>Family Visas (Minimum Income)</Heading3Underlined>
@@ -14,7 +14,7 @@
 <MotionText><from_cdata>Bill to prohibit any increase in the minimum income requirement for family visas; and for connected purposes.</from_cdata></MotionText>
 <OPHeading2>Business of the Day</OPHeading2>
 <BusinessItemHeadingNumbered>Investigatory Powers (Amendment) Bill [Lords]: Second Reading</BusinessItemHeadingNumbered>
-<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>Until 10.00pm<SOReference> (Standing Order No. 9(3))</SOReference></DebateTimingRubric>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>INVESTIGATORY POWERS (AMENDMENT) BILL [LORDS]: PROGRAMME</BusinessItemHeadingNumbered>
 <DebateTimingRubric>No debate<SOReference> (Standing Order No. 83A(7))</SOReference></DebateTimingRubric>
@@ -34,7 +34,7 @@ Bill [Lords]:
 (7) Any other proceedings on the Bill may be programmed.</from_cdata></MotionText>
 <Line_Interstitial> </Line_Interstitial>
 <BusinessItemHeadingNumbered>INVESTIGATORY POWERS (AMENDMENT) BILL [LORDS]: MONEY</BusinessItemHeadingNumbered>
-<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a) )</SOReference></DebateTimingRubric>
+<DebateTimingRubric>No debate<SOReference> (Standing Order No. 52(1)(a))</SOReference></DebateTimingRubric>
 <MotionSponsor>Nigel Huddleston</MotionSponsor>
 <MotionText><from_cdata>That, for the purposes of any Act resulting from the Investigatory Powers (Amendment) Bill [Lords], it is expedient to authorise the payment out of money provided by Parliament of:
 (a) any expenditure incurred under or by virtue of the Act by the Secretary of State or a government department, and
@@ -72,7 +72,7 @@ Bill [Lords]:
 <OPHeading2>Order of Business</OPHeading2>
 <DebateTimingRubric>The sitting will last for up to three hours (Standing Order No. 10(1)).</DebateTimingRubric>
 <DebateTimingRubric>4.30pm</DebateTimingRubric>
-<MotionText><from_cdata>That this House has considered e-petitions 633591 and 645885 relating to animal testing and non-animal research methods</from_cdata><PresenterSponsor>Elliot Colburn</PresenterSponsor></MotionText>: 
+<MotionText><from_cdata>That this House has considered e-petitions 633591 and 645885 relating to animal testing and non-animal research methods</from_cdata>: <PresenterSponsor>Elliot Colburn</PresenterSponsor></MotionText>
 <NoteHeading>Notes:</NoteHeading>
 <NoteText><from_cdata><p>The subject for this debate was determined by the Petitions Committee. The sitting will last for up to three hours. The sitting will be suspended and time added if divisions take place in the main Chamber (Standing Order No. 10(3)).</p></from_cdata></NoteText>
 <OPHeading1>Written Statements</OPHeading1>
