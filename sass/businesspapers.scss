@@ -1,3 +1,4 @@
+@use 'sass:math';
 // override font location
 // $font-path: 'https://designsystem.parliament.uk/apps/commons-business/v1.0/fonts';
 $font-path: 'https://commonsbusiness.parliament.uk/external/html-papers/v1.0';
@@ -71,7 +72,7 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
     @include font-bold();
 }
 .paraMotionSponsor > p + p{
-    margin-top: -$para-spacing;
+    margin-top: - $para-spacing;
 }
 @media (min-width: 768px) {
     .paraAmendmentSponsor {
@@ -95,12 +96,12 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
     margin-bottom: 0;
 }
 .paraNotesText{
-    margin-bottom: $para-spacing/2;
+    margin-bottom: math.div($para-spacing, 2);
 }
 // need less space after a motion
 .paraMotionText+.paraNotesTag,
 .paraBusinessListItem+.paraNotesTag{
-    margin-top: -$para-spacing/2;
+    margin-top: math.div( - $para-spacing, 2);
 }
 
 // --------------- Headings -----------------
@@ -141,7 +142,7 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
 }
 .paraBusinessItemHeading-bulleted{
 
-    margin-top: $para-spacing/2;
+    margin-top: math.div($para-spacing, 2);
     margin-bottom: 0;
     @include font-bold();
 }
@@ -173,14 +174,14 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
 // --------------paragraphs ----------------
 .paraOrderofBusinessItemTiming{
     // margin-bottom: 0;
-    margin-top: $para-spacing / 2;
-    margin-bottom: $para-spacing / 2;
+    margin-top: math.div($para-spacing, 2);
+    margin-bottom: math.div($para-spacing, 2);
 }
 .paraBusinessListItem+.paraBusinessListItem,
 .paraMotionText+.paraMotionText,
 .paraMinisterialStatement+.paraMinisterialStatement,
 .paraFutureBusinessItemHeadingwithTiming+.paraFutureBusinessItemHeadingwithTiming{
-    margin-top: -$para-spacing/2;
+    margin-top: math.div(-$para-spacing, 2);
 }
 .paraMinisterialStatement{
     .number-span{
