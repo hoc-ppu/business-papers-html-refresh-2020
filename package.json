@@ -1,11 +1,11 @@
 {
-  "name": "business-papers",
+  "name": "business-papers-redesign",
   "version": "1.1.0",
   "description": "Redesign of House of Commons business papers pages",
   "main": "index.html",
   "scripts": {
     "deploy": "gh-pages -d demo",
-    "watch-sass": "node-sass sass/ --output=demo/css/  --watch --recursive --source-map=demo/css/ --output-style=compressed",
+    "watch-sass": "sass --watch sass:demo/css --style=compressed",
     "liveserver": "live-server --port=80 --wait=400 demo/",
     "serve": "concurrently --kill-others \"npm:watch-sass\" \"npm:liveserver\""
   },
@@ -16,13 +16,13 @@
   "author": "Mark Fawcett",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/markfawcett/business-papers/issues"
+    "url": "https://github.com/hoc-ppu/business-papers-redesign/issues"
   },
   "homepage": "https://github.com/hoc-ppu/business-papers-redesign#readme",
   "devDependencies": {
-    "concurrently": "^6.1.0",
-    "gh-pages": "^3.1.0",
-    "sass": "^1.53.0"
+    "concurrently": "^8.2.2",
+    "gh-pages": "^6.1.1",
+    "sass": "^1.77.6"
   },
   "dependencies": {
     "@compodoc/live-server": "^1.2.2"
