@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestionBlock xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionBlock>
+    <Date>2024-05-17</Date>
+    <Description>Questions for Written Answer</Description>
+    <Questions>
+      <Question>
+        <Member>Caroline Ansell</Member>
+        <Constituency>Eastbourne</Constituency>
+        <Text>To ask the Secretary of State for Transport, what assessment he has made of the potential barriers to wider deployment of biomass fuels.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>1</Number>
+        <UIN>26541</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Charlotte Nichols</Member>
+        <Constituency>Warrington North</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what steps he is taking with the Secretary of State for Health and Social Care to help end sexual abuse of female paramedics in the workplace.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>2</Number>
+        <UIN>26622</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+    </Questions>
+    <QuestionType>Written</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-20</Date>
+    <Description>Questions for Written Answer</Description>
+    <Questions>
+      <Question>
+        <Member>Wendy Chamberlain</Member>
+        <Constituency>North East Fife</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, whether she has made a recent assessment of the potential impact of the level of paid carers leave on rates of economic activity.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>1</Number>
+        <UIN>26759</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Damien Moore</Member>
+        <Constituency>Southport</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what steps his Department is taking to help promote community cohesion in (a) towns and (b) cities.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>2</Number>
+        <UIN>26727</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+    </Questions>
+    <QuestionType>Written</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-21</Date>
+    <Description>Questions for Written Answer</Description>
+    <Questions>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Minister for the Cabinet Office, pursuant to the Answer of 19 March 2024 to Question 18034 on Civil Servants: Veterans, what his planned timetable is for implementation of those improvements.</Text>
+        <AnsweringBody>Cabinet Office</AnsweringBody>
+        <Number>1</Number>
+        <UIN>26836</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Minister for the Cabinet Office, pursuant to the Answer of 19 March 2024 to Question 18036 on Civil Servants: Veterans, whether he plans to capture regional data on veterans who access employment through the Great Work for Veterans initiative.</Text>
+        <AnsweringBody>Cabinet Office</AnsweringBody>
+        <Number>2</Number>
+        <UIN>26837</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Minister for the Cabinet Office, whether he has made an assessment of the potential merits of collecting data on minority ethnic veterans employed through the Great Place to Work for Veterans initiative.</Text>
+        <AnsweringBody>Cabinet Office</AnsweringBody>
+        <Number>3</Number>
+        <UIN>26838</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Minister for the Cabinet Office, if he will make an assessment of the potential impact of the Veterans’ Career Development Fund on employment levels for veterans.</Text>
+        <AnsweringBody>Cabinet Office</AnsweringBody>
+        <Number>4</Number>
+        <UIN>26839</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Minister for the Cabinet Office, what recent assessment he has made of the effectiveness of the Going Forward into Employment scheme for supporting ethnic minority veterans.</Text>
+        <AnsweringBody>Cabinet Office</AnsweringBody>
+        <Number>5</Number>
+        <UIN>26840</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Minister for the Cabinet Office, if he will make an assessment of the potential merits of taking further steps with private sector employers to help support more veterans into employment.</Text>
+        <AnsweringBody>Cabinet Office</AnsweringBody>
+        <Number>6</Number>
+        <UIN>26842</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Minister for the Cabinet Office, what recent discussion he has had with private sector employers on the employment of veterans.</Text>
+        <AnsweringBody>Cabinet Office</AnsweringBody>
+        <Number>7</Number>
+        <UIN>26843</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Minister for the Cabinet Office, what support his Department is providing to veterans to help them become entrepreneurs.</Text>
+        <AnsweringBody>Cabinet Office</AnsweringBody>
+        <Number>8</Number>
+        <UIN>26844</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Minister for the Cabinet Office, whether he will make an assessment of the potential merits of increasing the level of employment support available to veterans in Job Centres.</Text>
+        <AnsweringBody>Cabinet Office</AnsweringBody>
+        <Number>9</Number>
+        <UIN>26845</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Minister for the Cabinet Office, if he will make an assessment of the potential merits of bringing forward legislative proposals to make the Armed Forces Covenant statutory.</Text>
+        <AnsweringBody>Cabinet Office</AnsweringBody>
+        <Number>10</Number>
+        <UIN>26846</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Nicola Richards</Member>
+        <Constituency>West Bromwich East</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, whether she has had recent discussions with her Qatari counterpart on (a) businesses in that country having links to Hamas and (b) the potential impact of those links on the level of risk for British business partners.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>11</Number>
+        <UIN>26927</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left the National Gallery in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>12</Number>
+        <UIN>26876</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left the National Heritage Memorial Fund in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>13</Number>
+        <UIN>26877</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left the National Lottery Community Fund in each year since its creation.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>14</Number>
+        <UIN>26878</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left the National Museums Liverpool in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>15</Number>
+        <UIN>26879</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left the National Portrait Gallery in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>16</Number>
+        <UIN>26880</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left the Natural History Museum in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>17</Number>
+        <UIN>26881</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left the Royal Armouries Museum in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>18</Number>
+        <UIN>26882</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left the Royal Museums Greenwich in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>19</Number>
+        <UIN>26883</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left the Science Museum Group in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>20</Number>
+        <UIN>26884</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left Sir John Soane's Museum in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>21</Number>
+        <UIN>26885</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport,  how many staff have left Sport England in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>22</Number>
+        <UIN>26886</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many Sports Grounds Safety Authority staff have left that organisation in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>23</Number>
+        <UIN>26887</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left the Tate in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>24</Number>
+        <UIN>26888</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left UK Anti-Doping in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>25</Number>
+        <UIN>26889</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left UK Sport in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>26</Number>
+        <UIN>26890</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left VisitBritain in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>27</Number>
+        <UIN>26891</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left the Wallace Collection in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>28</Number>
+        <UIN>26892</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Julian Knight</Member>
+        <Constituency>Solihull</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, how many staff have left The Advisory Council on National Records and Archives in each year since 2015.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>29</Number>
+        <UIN>26893</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Andrew Rosindell</Member>
+        <Constituency>Romford</Constituency>
+        <Text>To ask the Secretary of State for Science, Innovation and Technology, if she will make an assessment of the potential impact of Ofcom guidance on the Online Safety Act 2023 on freedom of expression.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>30</Number>
+        <UIN>26858</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Caroline Ansell</Member>
+        <Constituency>Eastbourne</Constituency>
+        <Text>To ask the Secretary of State for Education, what assessment she has made of the benefits of a curiosity-led learning approach in early years settings.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>31</Number>
+        <UIN>26897</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Caroline Ansell</Member>
+        <Constituency>Eastbourne</Constituency>
+        <Text>To ask the Secretary of State for Education, if she will make it her policy to encourage early years providers to adopt a curiosity-led learning approach.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>32</Number>
+        <UIN>26898</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Caroline Ansell</Member>
+        <Constituency>Eastbourne</Constituency>
+        <Text>To ask the Secretary of State for Education, what steps her Department is taking to encourage the take up of the newly introduced funded childcare.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>33</Number>
+        <UIN>26899</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Caroline Ansell</Member>
+        <Constituency>Eastbourne</Constituency>
+        <Text>To ask the Secretary of State for Education, if she will make an assessment of the potential merits of reviewing the code-based system for accessing government-funded childcare to reduce the administrative burden on early years providers.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>34</Number>
+        <UIN>26900</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Secretary of State for Education, pursuant to the Answer of 17 April 2024 to Question 20857 on Schools: Veterans, how many veterans her Department forecasts will take up the undergraduate veteran teaching bursary in 2024.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>35</Number>
+        <UIN>26835</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, pursuant to the Answer of 16 April 2024 to Question 20145 on Homelessness: Veterans, how often his Department meets with (a) officials and (b) ministers from the devolved Administrations to discuss veterans’ homelessness.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>36</Number>
+        <UIN>26834</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, how many veterans were evicted from their properties in (a) 2018-19, (b) 2021-22 and (c) 2022-23.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>37</Number>
+        <UIN>26841</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Charlotte Nichols</Member>
+        <Constituency>Warrington North</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what his planned timetable is for confirming the levelling up funding for Warrington North.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>38</Number>
+        <UIN>26922</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Nickie Aiken</Member>
+        <Constituency>Cities of London and Westminster</Constituency>
+        <Text>To ask the Secretary of State for Science, Innovation and Technology, what estimate her Department has made of the number of deaths linked to suicide forums since 2019.</Text>
+        <AnsweringBody>Department for Science, Innovation and Technology</AnsweringBody>
+        <Number>39</Number>
+        <UIN>26918</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Andrew Rosindell</Member>
+        <Constituency>Romford</Constituency>
+        <Text>To ask the Secretary of State for Science, Innovation and Technology, if she will make an assessment of the implications for her policies of the recommendations on the inclusion of (a) human rights and (b) due process principles in Ofcom guidance to companies relating to the Online Safety Act 2023 in the article by The Open Rights Group entitled A dangerous precedent for global censorship, published on 4 March 2024.</Text>
+        <AnsweringBody>Department for Science, Innovation and Technology</AnsweringBody>
+        <Number>40</Number>
+        <UIN>26856</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Andrew Rosindell</Member>
+        <Constituency>Romford</Constituency>
+        <Text>To ask the Secretary of State for Science, Innovation and Technology, what steps her Department is taking with Ofcom to ensure that its guidance on age (a) verification and (b) assurance under the Online Safety Act 2023 reflects data privacy considerations.</Text>
+        <AnsweringBody>Department for Science, Innovation and Technology</AnsweringBody>
+        <Number>41</Number>
+        <UIN>26857</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Vicky Foxcroft</Member>
+        <Constituency>Lewisham, Deptford</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, with reference to his Department's statistics entitled Unfulfilled eligibility in the benefit system: financial year 2023 to 2024 estimates, published on 16 May 2024, what steps his Department is taking to tackle unfulfilled Personal Independence Payment eligibility.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>42</Number>
+        <UIN>26895</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Vicky Foxcroft</Member>
+        <Constituency>Lewisham, Deptford</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, with reference to his Department's statistical release Unfulfilled eligibility in the benefit system: financial year 2023 to 2024 estimates, publish on 16 May 2024, whether his Department has made an assessment of the reasons for unfulfilled Personal Independence Payment eligibility.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>43</Number>
+        <UIN>26896</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>George Galloway</Member>
+        <Constituency>Rochdale</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what steps she is taking to help tackle teenage drug addiction.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>44</Number>
+        <UIN>26850</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir John Hayes</Member>
+        <Constituency>South Holland and The Deepings</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, whether she is taking steps to increase the availability of auditory verbal therapy for deaf children.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>45</Number>
+        <UIN>26849</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Catherine West</Member>
+        <Constituency>Hornsey and Wood Green</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, whether she has had recent discussions with Janssen on the adequacy of supply of the ADHD medication Concerta XL.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>46</Number>
+        <UIN>26903</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Catherine West</Member>
+        <Constituency>Hornsey and Wood Green</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what steps she is taking to ensure patients have access to Concerta XL.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>47</Number>
+        <UIN>26904</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Bob Blackman</Member>
+        <Constituency>Harrow East</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, if he will have discussions with his UN counterparts on the reports of an alleged Hamas (a) war room and (b) weapons depot being located in a UNRWA school in Nuseirat, Gaza.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>48</Number>
+        <UIN>26869</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Bob Blackman</Member>
+        <Constituency>Harrow East</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, if he will have discussions with the UN on the recently released footage of Palestinians firing from inside an UNRWA compound in eastern Rafah.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>49</Number>
+        <UIN>26870</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Nicola Richards</Member>
+        <Constituency>West Bromwich East</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, what recent estimate he has made of the number of British (a) dual-nationals and (b) citizens that were killed during the terrorist attack on Israel by Hamas on 7 October 2023.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>50</Number>
+        <UIN>26925</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Nicola Richards</Member>
+        <Constituency>West Bromwich East</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, whether he has had recent discussions with his Turkish counterpart on the reported granting of (a) citizenship and (b) passports to senior Hamas figures (i) Ismail Haniyeh and (ii) Saleh al-Arouri by that country.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>51</Number>
+        <UIN>26926</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Nicola Richards</Member>
+        <Constituency>West Bromwich East</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, pursuant to the Answer of 26 March 2024 to Question 20817 on Hamas: UNRWA, what assessment he has made of the threats faced by UNRWA staff members (a) John Ging, (b) Matthias Schmale.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>52</Number>
+        <UIN>26928</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Michael Fabricant</Member>
+        <Constituency>Lichfield</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, if he will set student immigration quotas which do not restrict the ability of international students to stay in the UK.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>53</Number>
+        <UIN>26828</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Charlotte Nichols</Member>
+        <Constituency>Warrington North</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how many Rwanda nationals have successfully applied for asylum in the UK since 2019.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>54</Number>
+        <UIN>26921</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Damien Moore</Member>
+        <Constituency>Southport</Constituency>
+        <Text>To ask the Secretary of State for Defence, what assessment his Department has made of the effectiveness of the European Intervention Initiative in protecting European security interests.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>55</Number>
+        <UIN>26915</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Andrew Rosindell</Member>
+        <Constituency>Romford</Constituency>
+        <Text>To ask the Secretary of State for Defence, what assessment he has made of the effectiveness of the Royal Navy's escort fleet capabilities.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>56</Number>
+        <UIN>26859</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Andrew Rosindell</Member>
+        <Constituency>Romford</Constituency>
+        <Text>To ask the Secretary of State for Defence, If he will make an assessment of the potential implications for his policies of the armed forces’ diversity, equality and inclusion initiatives.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>57</Number>
+        <UIN>26860</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>James Wild</Member>
+        <Constituency>North West Norfolk</Constituency>
+        <Text>To ask the Secretary of State for Defence, with reference to the press release entitled UK to supply more than 10,000 drones to Ukraine, published on 7 March 2024, how many drones have been delivered; and what his planed timeframe is for the delivery of all 10,000 drones.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>58</Number>
+        <UIN>26920</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Justice, what the average wait time is between (a) arrest and charge and (b) charge and trial for rape cases in (i) London, (ii) the rest of England and (iii) Slough.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>59</Number>
+        <UIN>26908</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Justice, what the average wait time is between (a) arrest and charge and (b) charge and trial for fraud cases in (i) London, (ii) Slough and (iii) the rest of England.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>60</Number>
+        <UIN>26909</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Justice, what the average wait time is between (a) arrest and charge and (b) charge and trial for murder cases in (i) London, (ii) the rest of England and (iii) Slough.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>61</Number>
+        <UIN>26910</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Justice, what the average wait time is between (a) arrest and charge and (b) charge and trial for burglary cases in (i) London, (ii) the rest of England and (iii) Slough.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>62</Number>
+        <UIN>26911</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Justice, what the average wait time is between (a) arrest and charge and (b) charge and trial for domestic abuse cases in (i) London, (ii) the rest of England and (iii) Slough.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>63</Number>
+        <UIN>26912</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Justice, what the average wait time is between (a) arrest and charge and (b) charge and trial for robbery cases in (i) London, (ii) the rest of England and (iii) Slough.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>64</Number>
+        <UIN>26913</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Justice, what the average wait time is between (a) arrest and charge and (b) charge and trial for drug-related cases in (i) London, (ii) the rest of England and (iii) Slough.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>65</Number>
+        <UIN>26914</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Crabb</Member>
+        <Constituency>Preseli Pembrokeshire</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, what recent estimate he has made of the amount of revenue lost to the Exchequer through landfill tax fraud in the last 12 months.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>66</Number>
+        <UIN>26865</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Crabb</Member>
+        <Constituency>Preseli Pembrokeshire</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, what recent steps he has taken to tackle landfill tax fraud.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>67</Number>
+        <UIN>26866</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Crabb</Member>
+        <Constituency>Preseli Pembrokeshire</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, whether HMRC have a role in investigating allegations of Landfill Disposals Tax fraud in Wales.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>68</Number>
+        <UIN>26867</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Andrew Rosindell</Member>
+        <Constituency>Romford</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, if he will take steps to provide incentives to high street (a) banks and (b) building societies to provide bank hub services.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>69</Number>
+        <UIN>26855</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+    </Questions>
+    <QuestionType>Written</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-22</Date>
+    <Description>Questions for Written Answer</Description>
+    <Questions>
+      <Question>
+        <Member>Miss Sarah Dines</Member>
+        <Constituency>Derbyshire Dales</Constituency>
+        <Text>To ask the Attorney General, with reference to the Answer of 20 January 2023 to Question 125287 on Rape: Prosecutions, how many (a) completed prosecutions and (b) convictions there were for violent crime in each quarter from the start of January 2005 to the end of September 2015.</Text>
+        <AnsweringBody>Attorney General</AnsweringBody>
+        <Number>1</Number>
+        <UIN>26924</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir Edward Leigh</Member>
+        <Constituency>Gainsborough</Constituency>
+        <Text>To ask the Attorney General, with reference to the Answer of 20 January 2023 to Question 125287 on Rape: Prosecutions, how many (a) completed prosecutions and (b) convictions there were for all crimes in each quarter from the start of January 2005 to the end of September 2015.</Text>
+        <AnsweringBody>Attorney General</AnsweringBody>
+        <Number>2</Number>
+        <UIN>26847</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir Edward Leigh</Member>
+        <Constituency>Gainsborough</Constituency>
+        <Text>To ask the Attorney General, with reference to the Answer of 20 January 2023 to Question 125287 on Rape: Prosecutions, how many (a) completed prosecutions and (b) convictions there were for burglary in each quarter from the start of January 2005 to the end of September 2015.</Text>
+        <AnsweringBody>Attorney General</AnsweringBody>
+        <Number>3</Number>
+        <UIN>26848</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Bob Seely</Member>
+        <Constituency>Isle of Wight</Constituency>
+        <Text>To ask the Attorney General, with reference to the Answer of 20 January 2023 to Question 125287 on Rape: Prosecutions, how many (a) completed prosecutions and (b) convictions there were for people smuggling in each quarter from the start of January 2005 to the end of September 2015.</Text>
+        <AnsweringBody>Attorney General</AnsweringBody>
+        <Number>4</Number>
+        <UIN>26916</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Bob Seely</Member>
+        <Constituency>Isle of Wight</Constituency>
+        <Text>To ask the Attorney General, pursuant to the Answer of 20 January 2023 to Question 125287 on Rape: Prosecutions,, how many (a) completed prosecutions and (b) convictions there have been for murder in England and Wales in each quarter from the start of January 2005 to the end of September 2015.</Text>
+        <AnsweringBody>Attorney General</AnsweringBody>
+        <Number>5</Number>
+        <UIN>26917</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Helen Morgan</Member>
+        <Constituency>North Shropshire</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, what assessment her Department has made of the adequacy of the number of skilled mechanics.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>6</Number>
+        <UIN>26931</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Ms Harriet Harman</Member>
+        <Constituency>Camberwell and Peckham</Constituency>
+        <Text>To ask the Secretary of State for Education, with reference to her comments on BBC Radio 4’s Today Programme in relation to on her Department’s consultation on the new Relationships, Sex and Heath Education guidance on 16th May 2024, if she will publish the names of the schools at which the alleged inappropriate content she has seen on gender identity has been taught.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>7</Number>
+        <UIN>26826</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Ms Harriet Harman</Member>
+        <Constituency>Camberwell and Peckham</Constituency>
+        <Text>To ask the Secretary of State for Education, with reference her comments on BBC Radio 4’s Today Programme in relation to her Department’s consultation on the new Relationships, Sex and Heath Education guidance on 16th May 2024, what information her Department holds on the number of schools at which alleged inappropriate content on gender identity is being taught.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>8</Number>
+        <UIN>26827</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Kenny MacAskill</Member>
+        <Constituency>East Lothian</Constituency>
+        <Text>To ask the Secretary of State for Energy Security and Net Zero, what recent discussions she has had with Cabinet colleagues on the potential impact of the Net Zero Research and Innovation Delivery Plan on the UK's target to become a science and technology superpower by 2030.</Text>
+        <AnsweringBody>Department for Energy Security and Net Zero</AnsweringBody>
+        <Number>9</Number>
+        <UIN>903029</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Emily Thornberry</Member>
+        <Constituency>Islington South and Finsbury</Constituency>
+        <Text>To ask the Secretary of State for Energy Security and Net Zero, with reference to her Department's publication of spending over £500 using a government procurement card from October to December 2023 on 17 May 2024, for what purpose payments totalling £3,417 were made to Mons Hospitality between 22 November and 9 December 2023.</Text>
+        <AnsweringBody>Department for Energy Security and Net Zero</AnsweringBody>
+        <Number>10</Number>
+        <UIN>26863</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Emily Thornberry</Member>
+        <Constituency>Islington South and Finsbury</Constituency>
+        <Text>To ask the Secretary of State for Energy Security and Net Zero, with reference to her Department's publication of spending over £500 using a government procurement card from October to December 2023 on 17 May 2024, for what purpose payments were made of (a) £662.70 to Paul on 10 October 2023, (b) £2,157.60 to Revolution Events on 6 November 2023, (c) £865.64 to Hilton International on 16 November 2023, and (d) £1,023.02 to Orbis Coffee on 17 November 2023.</Text>
+        <AnsweringBody>Department for Energy Security and Net Zero</AnsweringBody>
+        <Number>11</Number>
+        <UIN>26864</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Helen Morgan</Member>
+        <Constituency>North Shropshire</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, if his Department will update the Decent Homes Standard to mandate social rented properties to provide floor coverings for all habitable rooms.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>12</Number>
+        <UIN>26929</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Helen Morgan</Member>
+        <Constituency>North Shropshire</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what estimate his Department has made of the cost of purchasing floor coverings for all habitable rooms for a new social rented home tenant.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>13</Number>
+        <UIN>26932</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Helen Morgan</Member>
+        <Constituency>North Shropshire</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, if he will make an estimate of the number of social housing tenants who live without full floor covering in their property.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>14</Number>
+        <UIN>26933</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Gregory Campbell</Member>
+        <Constituency>East Londonderry</Constituency>
+        <Text>To ask the Secretary of State for Science, Innovation and Technology, with reference to the Answer of 10 July 2023 to Question 192484 on Broadband: Social Tariffs, if he will make an estimate of the number and proportion of eligible people who were both (a) aware of and (b) took up a mobile phone social tariff in the last six months.</Text>
+        <AnsweringBody>Department for Science, Innovation and Technology</AnsweringBody>
+        <Number>15</Number>
+        <UIN>26854</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Helen Morgan</Member>
+        <Constituency>North Shropshire</Constituency>
+        <Text>To ask the Secretary of State for Science, Innovation and Technology, what steps her Department is taking to support mobile phone owners whose device is not 4G compatible when the 3G signal is switched off.</Text>
+        <AnsweringBody>Department for Science, Innovation and Technology</AnsweringBody>
+        <Number>16</Number>
+        <UIN>26930</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Emily Thornberry</Member>
+        <Constituency>Islington South and Finsbury</Constituency>
+        <Text>To ask the Secretary of State for Transport, pursuant to the Answer of 16 May 2024 to Question 25812 on Driver and Vehicle Licensing Agency: Contracts and with reference to the Minister without Portfolio's article of 12 May 2024 in The Sunday Telegraph, whether the DVLA intends to cancel the contract with Political Engagement Ltd.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>17</Number>
+        <UIN>26861</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Kinnock</Member>
+        <Constituency>Aberavon</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, how much his Department spent on Personal Independence Payment tribunals in each year since 2021.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>18</Number>
+        <UIN>26871</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Kinnock</Member>
+        <Constituency>Aberavon</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, what the average cost to his Department was of a Personal Independence Payment tribunal appeal in each year since 2021.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>19</Number>
+        <UIN>26872</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Kinnock</Member>
+        <Constituency>Aberavon</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, how much his Department spent on mandatory reconsiderations of Personal Independence Payment claims in each year since 2021.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>20</Number>
+        <UIN>26873</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Kinnock</Member>
+        <Constituency>Aberavon</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, what the average cost to his Department was of a Personal Independence Payment mandatory reconsideration in each year since 2021.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>21</Number>
+        <UIN>26874</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Kinnock</Member>
+        <Constituency>Aberavon</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, how many and what proportion of people in Aberavon constituency have had personal independence payments overturned as a result of an appeal hearing in each year for which data is available.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>22</Number>
+        <UIN>26875</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Gregory Campbell</Member>
+        <Constituency>East Londonderry</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what assessment she has made of the adequacy of diagnosis rates for genetic haemochromatosis.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>23</Number>
+        <UIN>26852</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Tom Hunt</Member>
+        <Constituency>Ipswich</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, what diplomatic steps he is taking to help Israel tackle online disinformation campaigns backed by Iran.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>24</Number>
+        <UIN>26919</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Matthew Pennycook</Member>
+        <Constituency>Greenwich and Woolwich</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, what recent discussions he has had with his European counterparts on the potential recognition of a Palestinian state.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>25</Number>
+        <UIN>26901</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Matthew Pennycook</Member>
+        <Constituency>Greenwich and Woolwich</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, whether the Secretary of State for Foreign, Commonwealth and Development Affairs has had recent discussions with his counterparts in (a) Ireland, (b) Spain, (c) Norway, (d) Malta, and (e) Slovenia on joint recognition of the state of Palestine.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>26</Number>
+        <UIN>26902</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Gregory Campbell</Member>
+        <Constituency>East Londonderry</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, If he will make an estimate of the number of hotels that will be used as temporary accommodation for asylum seekers between 1 January 2024 to 31 December 2024.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>27</Number>
+        <UIN>26853</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Virendra Sharma</Member>
+        <Constituency>Ealing, Southall</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, what guidance his Department issues to asylum seekers on (a) housing, (b) work rights and (c) recourse to public funds once they have been granted leave to remain.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>28</Number>
+        <UIN>26868</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Derek Thomas</Member>
+        <Constituency>St Ives</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, when he plans to bring forward the Draft Terrorism (Protection of Premises) Bill.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>29</Number>
+        <UIN>26905</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Alan Brown</Member>
+        <Constituency>Kilmarnock and Loudoun</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, what steps he has taken with the Secretary of State for Energy Security and Net Zero to ensure that the Contracts for Difference Allocation Round 6 delivers more offshore wind capacity than Allocation Round 5.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>30</Number>
+        <UIN>26894</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Gregory Campbell</Member>
+        <Constituency>East Londonderry</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, how many people have enrolled to study for a Essential Digital Skills qualification since 1 January 2024.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>31</Number>
+        <UIN>26851</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Emily Thornberry</Member>
+        <Constituency>Islington South and Finsbury</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, pursuant to the Answer of 16 May 2024 to Question 25195 on Inheritance Tax, for what reason he has not provided the requested data for the number of individuals waiting for (a) one to two, (b) two to three, (c) three to four, (d) four to five, (e) five to six and (e) more than six months since submitting their IHT400 form to receive the unique code from HMRC as of 8 May 2024.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>32</Number>
+        <UIN>26862</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+    </Questions>
+    <QuestionType>Written</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-23</Date>
+    <Description>Questions for Written Answer</Description>
+    <Questions>
+      <Question>
+        <Member>Navendu Mishra</Member>
+        <Constituency>Stockport</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 25 April 2024 to Question 23057 on Dentistry: Mental Health Services, what her Department's expected timetable is for publishing the findings of its review into its mental health and wellbeing offer.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>1</Number>
+        <UIN>26923</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Liz Twist</Member>
+        <Constituency>Blaydon</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will make an assessment of the potential merits of automatically notifying women with neurofibromatosis type 1 before their 40th birthday that they are eligible to attend breast cancer screening from the age of 40 years.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>2</Number>
+        <UIN>26906</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Liz Twist</Member>
+        <Constituency>Blaydon</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what steps she has taken with NHS England to help raise awareness of the increased risk of breast cancer in individuals with neurofibromatosis type 1 amongst (a) patients and (b) GPs.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>3</Number>
+        <UIN>26907</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Secretary of State for Defence, pursuant to the Answer of 26 March 2024 to Question 18969 on Veterans: Identity Cards, when he plans to send that letter to the hon. Member for Birmingham, Selly Oak.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>4</Number>
+        <UIN>26829</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Secretary of State for Defence, pursuant to the Answer of 29 February 2024 to Question 15549 on LGBT Veterans Independent Review, what his target date is for implementation of the outstanding recommendations of that review.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>5</Number>
+        <UIN>26830</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Secretary of State for Defence, what steps his Department is taking to prevent veterans’ personal data from being breached by malign actors.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>6</Number>
+        <UIN>26831</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many veterans in prison have applied for the Veterans’ ID card.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>7</Number>
+        <UIN>26832</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Steve McCabe</Member>
+        <Constituency>Birmingham, Selly Oak</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many veterans in prison have received a Veterans’ ID card.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>8</Number>
+        <UIN>26833</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+    </Questions>
+    <QuestionType>Written</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+</ArrayOfQuestionBlock>
