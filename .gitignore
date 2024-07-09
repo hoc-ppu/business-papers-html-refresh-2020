@@ -16,6 +16,9 @@ Design_System_SASS/fonts/
 *.sass.map
 *.scss.map
 
+# indesign lock files
+*.idlk
+
 
 ################################
 
