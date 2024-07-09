@@ -57,6 +57,34 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
     text-align: right;
 }
 
+
+// new table styles from 2024 redesign
+.Basic-Text-Frame table {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 45px;
+    margin-bottom: 27px;
+    width: 100%;
+}
+
+.Basic-Text-Frame table td {
+    border: 0;
+    padding: 0.5em;
+    vertical-align: top;
+}
+
+.Basic-Text-Frame table thead td {
+    background-color: #EAEAEA;
+    font-weight: 500;
+}
+
+.Basic-Text-Frame table thead td p {
+    margin: 0;
+}
+// end new table styles from 2024 redesign
+
+
 // sponsors
 .paraAmendmentSponsor {
     @include font-bold();
@@ -113,6 +141,33 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
     max-width: none;
 }}
 
+//  the following are new headings from the 2024 redesign
+.DocumentTitle {
+    border-bottom: 1px solid;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    padding-bottom: 0.5em;
+    text-transform: uppercase;
+}
+
+.MainTitle {
+    border-bottom: 1px solid;
+    font-size: 1.618em;
+    font-weight: 500;
+    padding-bottom: 0.5em;
+}
+
+.Heading3Underlined {
+    border-bottom: 1px solid;
+    font-size: 1.309em;
+    font-weight: 500;
+    margin-top: 45px;
+    margin-bottom: 27px;
+    padding-bottom: 0.309em;
+}
+
+// end new headings from the 2024 redesign
+
 .paraBusinessTodayChamberHeading {
     // max-width: none;
     text-transform: uppercase;
@@ -128,17 +183,27 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
     @include font-bold();
 }
 .paraBusinessSub-SectionHeading {
-    // max-width: none;
+
+    font-size: 1.309em;
+    letter-spacing: 0.025em;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 0.1em;
+    text-align: center;
     text-transform: uppercase;
-    background-color: $colour-grey-3;
-    // padding-left: 1.35%;
-    // margin-left: 3.35%;
-    // margin-right: 3.35%;
-    padding-left: 0.66rem;
-    margin-left: -0.66rem;
-    margin-top: $para-spacing*2.5;
-    margin-bottom: $para-spacing*1.5;
-    color: $colour-white;
+
+    // Below is this style before 2024 redesign
+    // max-width: none;
+    // text-transform: uppercase;
+    // background-color: $colour-grey-3;
+    // // padding-left: 1.35%;
+    // // margin-left: 3.35%;
+    // // margin-right: 3.35%;
+    // padding-left: 0.66rem;
+    // margin-left: -0.66rem;
+    // margin-top: $para-spacing*2.5;
+    // margin-bottom: $para-spacing*1.5;
+    // color: $colour-white;
 }
 .paraBusinessItemHeading-bulleted{
 
@@ -222,7 +287,11 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
         padding-left: $OP-margin-left;
         margin-left: -$OP-margin-left;
     }
-    .OP-heading-outdent{margin-left: -$OP-margin-left + 0.5rem;}
+    .OP-heading-outdent{
+        margin-left: -$OP-margin-left + 0.5rem;
+    }
+
+    // TODO: .OP-heading-outdent might need to be removed
 }
 
 .paraChamberSummaryHeading{text-transform: uppercase;}
