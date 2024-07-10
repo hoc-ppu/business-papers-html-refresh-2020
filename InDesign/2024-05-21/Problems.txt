@@ -1,0 +1,21 @@
+InDesign
+2024-05-21
+
+Urgent Questions and Statements
+
+Square bullet not coming in for the statement - asterisk is there instead
+
+
+Paras (4), subparas (a), subsubparas (i) not indenting 
+
+Written Statements
+
+Not sure why but some department names do not come out in the correct alphabetical order. This is not a new thing that has happened.
+In this example Energy is out of order.
+
+Announcements
+May be a portal thing but in the Whitsun Adjournment the Bold dates do not have a space in front of them
+Should table heading be with a tinted background? 
+
+Committee Reports
+Will need change case of the headings we receive from Word. There is a 
