@@ -1,0 +1,410 @@
+<OrderBk2Doc>
+  <HeadInfo>
+    <BeginDate>
+      <DayName>Monday</DayName>
+      <DayNum>13</DayNum>
+      <Month>May</Month>
+      <Year>2024</Year>
+    </BeginDate>
+    <AnsFromDate>
+      <DayName>Monday</DayName>
+      <DayNum>13</DayNum>
+      <Month>May</Month>
+      <Year>2024</Year>
+    </AnsFromDate>
+  </HeadInfo>
+  <AnsDaySec Date="13/05/2024">
+    <AnsDate>
+      <DayName>Monday</DayName>
+      <DayNum>13</DayNum>
+      <Month>May</Month>
+    </AnsDate>
+    <OralSec>
+      <TargetGroup>
+        <TargetHead IsTopical="N" DeptCount="1">the Secretary of State for Work and Pensions</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Helen</Fnames>
+            <Sname>Morgan</Sname>
+            <Constit>North Shropshire</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What assessment he has made of the adequacy of the average time taken to decide the outcome of Personal Independence Payment applications.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902750</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Steve</Fnames>
+            <Sname>Double</Sname>
+            <Constit>St Austell and Newquay</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What steps he is taking to help fill job vacancies in St Austell and Newquay constituency.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902751</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Sarah</Fnames>
+            <Sname>Green</Sname>
+            <Constit>Chesham and Amersham</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What recent assessment he has made of the effectiveness of the Child Maintenance Service in securing funds from paying parents.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902752</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title>Mrs</Title>
+            <Fnames>Sheryll</Fnames>
+            <Sname>Murray</Sname>
+            <Constit>South East Cornwall</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What steps his Department is taking to increase the support available in Jobcentres in South East Cornwall constituency.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902753</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>James</Fnames>
+            <Sname>Morris</Sname>
+            <Constit>Halesowen and Rowley Regis</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What plans he has to increase levels of employment.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902754</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Neale</Fnames>
+            <Sname>Hanvey</Sname>
+            <Constit>Kirkcaldy and Cowdenbeath</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What recent assessment he has made of the potential merits of providing compensation to women born in the 1950s affected by changes to the State Pension age.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902755</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Paula</Fnames>
+            <Sname>Barker</Sname>
+            <Constit>Liverpool, Wavertree</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">If he will make an estimate of the number of in-work Universal Credit claimants that have had payments stopped due to errors made by his Department in the last 12 months.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902757</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Christian</Fnames>
+            <Sname>Wakeford</Sname>
+            <Constit>Bury South</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What recent estimate he has made of the number of pensioners in poverty.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902758</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Neil</Fnames>
+            <Sname>Coyle</Sname>
+            <Constit>Bermondsey and Old Southwark</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What steps his Department is taking to reduce waiting times for Access to Work assessments.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902760</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>10</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Gordon</Fnames>
+            <Sname>Henderson</Sname>
+            <Constit>Sittingbourne and Sheppey</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What steps he is taking to help fill job vacancies in Sittingbourne and Sheppey constituency.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902761</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>11</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Peter</Fnames>
+            <Sname>Aldous</Sname>
+            <Constit>Waveney</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What steps he is taking to reform the welfare system.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902763</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>12</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Peter</Fnames>
+            <Sname>Gibson</Sname>
+            <Constit>Darlington</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What steps his Department is taking to support people with autism into employment.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902764</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>13</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Craig</Fnames>
+            <Sname>Tracey</Sname>
+            <Constit>North Warwickshire</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What steps his Department is taking to help reduce unemployment.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902765</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>14</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Alexander</Fnames>
+            <Sname>Stafford</Sname>
+            <Constit>Rother Valley</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What steps his Department is taking to support pensioners.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902766</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>15</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Richard</Fnames>
+            <Sname>Burgon</Sname>
+            <Constit>Leeds East</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What steps his Department is taking to support pensioners with increases in the cost of living.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902767</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>16</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Deidre</Fnames>
+            <Sname>Brock</Sname>
+            <Constit>Edinburgh North and Leith</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What recent assessment he has made of the adequacy of support for pensioners with increases in the cost of living.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902768</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>17</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Graham</Fnames>
+            <Sname>Stuart</Sname>
+            <Constit>Beverley and Holderness</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What steps his Department is taking to reform the welfare system.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902769</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>18</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>Jamie</Fnames>
+            <Sname>Wallis</Sname>
+            <Constit>Bridgend</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">What steps his Department is taking to help reduce unemployment.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902770</UIN>
+        </OralQn>
+      </TargetGroup>
+      <TargetGroup>
+        <Time>3:15 pm</Time>
+        <TargetHead IsTopical="Y" DeptCount="1">the Secretary of State for Work and Pensions</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Chris</Fnames>
+            <Sname>Clarkson</Sname>
+            <Constit>Heywood and Middleton</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="Y">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902775</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title>Sir</Title>
+            <Fnames>Desmond</Fnames>
+            <Sname>Swayne</Sname>
+            <Constit>New Forest West</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902776</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Neale</Fnames>
+            <Sname>Hanvey</Sname>
+            <Constit>Kirkcaldy and Cowdenbeath</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902777</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Stephen</Fnames>
+            <Sname>Morgan</Sname>
+            <Constit>Portsmouth South</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902778</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Cat</Fnames>
+            <Sname>Smith</Sname>
+            <Constit>Lancaster and Fleetwood</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902779</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title>Sir</Title>
+            <Fnames>David</Fnames>
+            <Sname>Evennett</Sname>
+            <Constit>Bexleyheath and Crayford</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902781</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Jack</Fnames>
+            <Sname>Brereton</Sname>
+            <Constit>Stoke-on-Trent South</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902782</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Sarah</Fnames>
+            <Sname>Green</Sname>
+            <Constit>Chesham and Amersham</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902783</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Steve</Fnames>
+            <Sname>Tuckwell</Sname>
+            <Constit>Uxbridge and South Ruislip</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Work and Pensions</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902784</UIN>
+        </OralQn>
+      </TargetGroup>
+    </OralSec>
+  </AnsDaySec>
+</OrderBk2Doc>
