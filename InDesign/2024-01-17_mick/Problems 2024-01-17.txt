@@ -1,8 +1,9 @@
-There are Marked up pdfs in pdfs to check
+There are Marked up pdfs in pdfs to check OP240117
 
 Questions
 
 Heading problems as in other docs.
+Missing Questions as in other docs.
 
 Committee List
 Energy Security and Net Zero
@@ -22,4 +23,9 @@ Noticed this in another document and thought it was maybe just a one off. Don't 
 2.15pm	The Rt Hon the Lord Blencathra PC ( at )
 	Lord Carlile of Berriew CBE KC ( at )
 	Richard Turney ( at Department for Levelling Up, Housing and Communities (DLUHC))
+
+Announcements
+Not sure of style of sub headings now the main headings are grey centred
+
+
 
