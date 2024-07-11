@@ -1,0 +1,382 @@
+<OrderBk2Doc>
+  <HeadInfo>
+    <BeginDate>
+      <DayName>Wednesday</DayName>
+      <DayNum>17</DayNum>
+      <Month>January</Month>
+      <Year>2024</Year>
+    </BeginDate>
+    <AnsFromDate>
+      <DayName>Wednesday</DayName>
+      <DayNum>17</DayNum>
+      <Month>January</Month>
+      <Year>2024</Year>
+    </AnsFromDate>
+  </HeadInfo>
+  <AnsDaySec Date="17/01/2024">
+    <AnsDate>
+      <DayName>Wednesday</DayName>
+      <DayNum>17</DayNum>
+      <Month>January</Month>
+    </AnsDate>
+    <OralSec>
+      <TargetGroup>
+        <TargetHead IsTopical="N" DeptCount="1">the Secretary of State for Northern Ireland</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Stephen</Fnames>
+            <Sname>Morgan</Sname>
+            <Constit>Portsmouth South</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Northern Ireland</Target>
+          <QnText PrintText="Y">What recent discussions he has had with party leaders on the restoration of power-sharing in Northern Ireland.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900948</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Rachael</Fnames>
+            <Sname>Maskell</Sname>
+            <Constit>York Central</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Northern Ireland</Target>
+          <QnText PrintText="Y">What progress he has made on allocating funding to help tackle the impact of flooding in Northern Ireland.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900949</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Chris</Fnames>
+            <Sname>Stephens</Sname>
+            <Constit>Glasgow South West</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Northern Ireland</Target>
+          <QnText PrintText="Y">What recent discussions he has had with the administration in Northern Ireland on the effect of increases in the cost of living on people in Northern Ireland.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900950</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Martin</Fnames>
+            <Sname>Docherty-Hughes</Sname>
+            <Constit>West Dunbartonshire</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Northern Ireland</Target>
+          <QnText PrintText="Y">What recent discussions he has had with the administration in Northern Ireland on ensuring timely payments from the Troubles Permanent Disablement Payment Scheme to eligible individuals.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900951</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Stephen</Fnames>
+            <Sname>Farry</Sname>
+            <Constit>North Down</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Northern Ireland</Target>
+          <QnText PrintText="Y">What recent progress he has made on the restoration of political institutions in Northern Ireland.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900952</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Simon</Fnames>
+            <Sname>Baynes</Sname>
+            <Constit>Clwyd South</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Northern Ireland</Target>
+          <QnText PrintText="Y">What steps he is taking with Cabinet colleagues to strengthen Northern Ireland’s place in the Union.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900953</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Patricia</Fnames>
+            <Sname>Gibson</Sname>
+            <Constit>North Ayrshire and Arran</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Northern Ireland</Target>
+          <QnText PrintText="Y">What recent discussions he has had with the administration in Northern Ireland on the effect of increases in the cost of living on people in Northern Ireland.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900957</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Sarah</Fnames>
+            <Sname>Jones</Sname>
+            <Constit>Croydon Central</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Northern Ireland</Target>
+          <QnText PrintText="Y">What steps his Department plans to take to help restore power-sharing in Northern Ireland.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900958</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Kirsten</Fnames>
+            <Sname>Oswald</Sname>
+            <Constit>East Renfrewshire</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Northern Ireland</Target>
+          <QnText PrintText="Y">What recent discussions he has had with the administration in Northern Ireland on the effect of increases in the cost of living on people in Northern Ireland.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900959</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>10</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Catherine</Fnames>
+            <Sname>West</Sname>
+            <Constit>Hornsey and Wood Green</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Northern Ireland</Target>
+          <QnText PrintText="Y">What recent discussions he has had with party leaders on the restoration of power-sharing in Northern Ireland.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900960</UIN>
+        </OralQn>
+      </TargetGroup>
+      <TargetGroup>
+        <Time>12:00 pm</Time>
+        <TargetHead IsTopical="N" DeptCount="1">the Prime Minister</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Jason</Fnames>
+            <Sname>McCartney</Sname>
+            <Constit>Colne Valley</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="Y">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900998</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Julie</Fnames>
+            <Sname>Elliott</Sname>
+            <Constit>Sunderland Central</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900999</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Patrick</Fnames>
+            <Sname>Grady</Sname>
+            <Constit>Glasgow North</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901000</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Chris</Fnames>
+            <Sname>Stephens</Sname>
+            <Constit>Glasgow South West</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901001</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>Rupa</Fnames>
+            <Sname>Huq</Sname>
+            <Constit>Ealing Central and Acton</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901002</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Andrew</Fnames>
+            <Sname>Gwynne</Sname>
+            <Constit>Denton and Reddish</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901003</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title>Dame</Title>
+            <Fnames>Maria</Fnames>
+            <Sname>Miller</Sname>
+            <Constit>Basingstoke</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901004</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Charlotte</Fnames>
+            <Sname>Nichols</Sname>
+            <Constit>Warrington North</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901005</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Dean</Fnames>
+            <Sname>Russell</Sname>
+            <Constit>Watford</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901006</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>10</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Martin</Fnames>
+            <Sname>Docherty-Hughes</Sname>
+            <Constit>West Dunbartonshire</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="Y">When he next plans to meet the First Minister of Scotland.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901007</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>11</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Nick</Fnames>
+            <Sname>Fletcher</Sname>
+            <Constit>Don Valley</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901008</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>12</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Peter</Fnames>
+            <Sname>Dowd</Sname>
+            <Constit>Bootle</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901009</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>13</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Daisy</Fnames>
+            <Sname>Cooper</Sname>
+            <Constit>St Albans</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901010</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>14</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Greg</Fnames>
+            <Sname>Smith</Sname>
+            <Constit>Buckingham</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901011</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>15</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Ian</Fnames>
+            <Sname>Mearns</Sname>
+            <Constit>Gateshead</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 January.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>901012</UIN>
+        </OralQn>
+      </TargetGroup>
+    </OralSec>
+  </AnsDaySec>
+</OrderBk2Doc>
