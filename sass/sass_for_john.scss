@@ -1,0 +1,68 @@
+@use 'sass:math';
+// override font location
+// $font-path: 'https://designsystem.parliament.uk/apps/commons-business/v1.0/fonts';
+$font-path: 'https://commonsbusiness.parliament.uk/external/html-papers/v1.0';
+// on Thursday, 23 February 2023 and Wednesday, 22 February 2023 some fonts weren't working
+// on the live website. The fonts were attempted to be loaded from the below but there was
+// a 500 response code. The above path was not added to the live website for some reason.
+// I will consider adding both paths for the live website...
+$font-path-2: 'https://commonsbusiness.parliament.uk/dist';
+// import colours from PDS design system
+@import '../Design_System_SASS/sass/compatibility/bootstrap-3/bootstrap-3-shims.scss';
+@import '../Design_System_SASS/sass/core/colours.scss';
+@import '../Design_System_SASS/sass/core/fonts.scss';
+@import '../Design_System_SASS/sass/core/font-sizes.scss';
+
+@import 'variables.scss';
+
+@import 'variables.scss';
+
+/* Start of styles for 2024 redesign */
+
+.paraChamberSummaryHeading{
+    // was text-transform: uppercase; before 2024 redesign
+    text-transform: none;
+}
+
+.paraBusinessTodayChamberHeading{
+    margin-left: 0 !important;
+    text-align: center;
+    padding-left: 3em!important;
+    padding-right: 1em!important;
+}
+.paraBusinessSub-SectionHeading {
+    margin-left: 0 !important;
+    text-align: center;
+
+    // not sure this exactly centers stuff...
+    padding-left: 3em!important;
+    padding-right: 1em!important;
+}
+.paraBusinessItemHeading {
+    text-transform: none;
+}
+.NumberedParaHanging{
+    margin-left: $indent-amount;
+}
+.NumberedParaHanging span{
+    display: inline-block;
+    margin-left: - $indent-amount;
+    padding-right: 1rem;
+    text-align: right;
+    width: $indent-amount;
+}
+.paraMotionSub-Paragraph, .paraAmendmentSponsor{
+    margin-left: $indent-amount;
+}
+.paraAmendmentSponsor{
+    @include font-bold();
+}
+.paraMotionSubSub-Paragraph{
+    margin-left: $indent-amount * 2;
+}
+.MotionSponsorGroup_indent{
+    margin-left: $indent-amount;
+}
+
+
+/* End of styles for 2024 redesign */

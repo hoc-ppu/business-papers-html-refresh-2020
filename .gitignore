@@ -10,7 +10,6 @@ Design_System_SASS/fonts/
 .DS_Store
 
 # sass junk
-
 .sass-cache/
 *.css.map
 *.sass.map
@@ -18,6 +17,10 @@ Design_System_SASS/fonts/
 
 # indesign lock files
 *.idlk
+
+# the advice is usually to include package-lock.json but on this
+# occasion we will exclude it
+package-lock.json
 
 
 ################################
