@@ -1,0 +1,424 @@
+<OrderBk2Doc>
+  <HeadInfo>
+    <BeginDate>
+      <DayName>Tuesday</DayName>
+      <DayNum>09</DayNum>
+      <Month>January</Month>
+      <Year>2024</Year>
+    </BeginDate>
+    <AnsFromDate>
+      <DayName>Tuesday</DayName>
+      <DayNum>09</DayNum>
+      <Month>January</Month>
+      <Year>2024</Year>
+    </AnsFromDate>
+  </HeadInfo>
+  <AnsDaySec Date="09/01/2024">
+    <AnsDate>
+      <DayName>Tuesday</DayName>
+      <DayNum>09</DayNum>
+      <Month>January</Month>
+    </AnsDate>
+    <OralSec>
+      <TargetGroup>
+        <TargetHead IsTopical="N" DeptCount="1">the Secretary of State for Justice</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>Luke</Fnames>
+            <Sname>Evans</Sname>
+            <Constit>Bosworth</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What assessment he has made of the effectiveness of the Parole Board reconsideration mechanism.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900794</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Debbie</Fnames>
+            <Sname>Abrahams</Sname>
+            <Constit>Oldham East and Saddleworth</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What assessment he has made of the potential impact of the time taken to schedule court hearings for historical cases of child sexual exploitation on survivors and their families.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900795</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Julie</Fnames>
+            <Sname>Marson</Sname>
+            <Constit>Hertford and Stortford</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What steps his Department is taking to support victims of crime.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900796</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>James</Fnames>
+            <Sname>Davies</Sname>
+            <Constit>Vale of Clwyd</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What steps his Department is taking to support victims of crime.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900797</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Andy</Fnames>
+            <Sname>Slaughter</Sname>
+            <Constit>Hammersmith</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What recent assessment he has made of the adequacy of the prison estate for the rehabilitation of prisoners.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900798</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Jack</Fnames>
+            <Sname>Brereton</Sname>
+            <Constit>Stoke-on-Trent South</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What steps he is taking to increase early access to legal advice. </QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900799</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Stuart C</Fnames>
+            <Sname>McDonald</Sname>
+            <Constit>Cumbernauld, Kilsyth and Kirkintilloch East</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What recent assessment he has made of the adequacy of human rights legislation.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900801</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Elliot</Fnames>
+            <Sname>Colburn</Sname>
+            <Constit>Carshalton and Wallington</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What steps his Department is taking to support victims of crime.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900802</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Steven</Fnames>
+            <Sname>Bonnar</Sname>
+            <Constit>Coatbridge, Chryston and Bellshill</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What recent assessment he has made of the adequacy of human rights legislation.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900803</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>10</Num>
+          <Member>
+            <Title>Sir</Title>
+            <Fnames>Desmond</Fnames>
+            <Sname>Swayne</Sname>
+            <Constit>New Forest West</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">If he will make a comparative assessment of the effectiveness of short custodial sentences and sentences served in the community.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900804</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>11</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>John</Fnames>
+            <Sname>Stevenson</Sname>
+            <Constit>Carlisle</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What steps he is taking to improve the effectiveness of the Probate Registry.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900805</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>12</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Eddie</Fnames>
+            <Sname>Hughes</Sname>
+            <Constit>Walsall North</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What steps he is taking to reduce the backlog of cases in the Crown Court.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900806</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>13</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Stephen</Fnames>
+            <Sname>Hammond</Sname>
+            <Constit>Wimbledon</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What steps he is taking to reduce reoffending. </QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900807</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>14</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Liz</Fnames>
+            <Sname>Saville Roberts</Sname>
+            <Constit>Dwyfor Meirionnydd</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What steps his Department is taking to help ensure the safety of victims after violent offenders are released.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900808</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>15</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Cat</Fnames>
+            <Sname>Smith</Sname>
+            <Constit>Lancaster and Fleetwood</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What assessment he has made of the sustainability of probation officer caseloads.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900809</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>16</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Kate</Fnames>
+            <Sname>Osamor</Sname>
+            <Constit>Edmonton</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">Whether he is taking steps to help improve the safeguarding of prisoners with mental health needs.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900810</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>17</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Hannah</Fnames>
+            <Sname>Bardell</Sname>
+            <Constit>Livingston</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What recent assessment he has made of the adequacy of human rights legislation.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900813</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>18</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Giles</Fnames>
+            <Sname>Watling</Sname>
+            <Constit>Clacton</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What steps he is taking to reduce the backlog of cases in the Crown Court.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900814</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>19</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Martin</Fnames>
+            <Sname>Docherty-Hughes</Sname>
+            <Constit>West Dunbartonshire</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">What recent assessment he has made of the adequacy of human rights legislation.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900817</UIN>
+        </OralQn>
+      </TargetGroup>
+      <TargetGroup>
+        <Time>12:15 pm</Time>
+        <TargetHead IsTopical="Y" DeptCount="1">the Secretary of State for Justice</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Mike</Fnames>
+            <Sname>Kane</Sname>
+            <Constit>Wythenshawe and Sale East</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Justice</Target>
+          <QnText PrintText="Y">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900819</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Alun</Fnames>
+            <Sname>Cairns</Sname>
+            <Constit>Vale of Glamorgan</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Justice</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900820</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>James</Fnames>
+            <Sname>Davies</Sname>
+            <Constit>Vale of Clwyd</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Justice</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900821</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Kate</Fnames>
+            <Sname>Osamor</Sname>
+            <Constit>Edmonton</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Justice</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900822</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Stephen</Fnames>
+            <Sname>Hammond</Sname>
+            <Constit>Wimbledon</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Justice</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900823</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Chris</Fnames>
+            <Sname>Law</Sname>
+            <Constit>Dundee West</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Justice</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900824</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Debbie</Fnames>
+            <Sname>Abrahams</Sname>
+            <Constit>Oldham East and Saddleworth</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Justice</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900825</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>Luke</Fnames>
+            <Sname>Evans</Sname>
+            <Constit>Bosworth</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Justice</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900827</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title>Mrs</Title>
+            <Fnames>Emma</Fnames>
+            <Sname>Lewell-Buck</Sname>
+            <Constit>South Shields</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Justice</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>900828</UIN>
+        </OralQn>
+      </TargetGroup>
+    </OralSec>
+  </AnsDaySec>
+</OrderBk2Doc>

@@ -1,0 +1,18 @@
+Questions
+
+Sub heading is tagged as bulleted which is mapped to bulleted bold so I changed it to Heading3underlined.
+
+Business of the Day
+Item 2
+Not sure what the sub-items NHS dentistry and The cost of the Government's ... is supposed to look like. NumberedHeadingIndented has a bullet. This is how it downloaded.
+
+Item 2 sub-item The cost of the Government's . . .
+paras (a) to (e) and (i), (ii) manually changed to SubnumberedPara and SubSubParagraph
+
+Amendment (a) Should this be NormalIndented2 as it's an amendment to an indented paragraph
+
+Written Statements
+Levelling Up, Housing and Communities not coming in correct alphabetically - always been a problem and noted also in a previous test file with Energy Security and Net Zero
+
+Committee List
+Treasury Committee withnesses NathanaÃ«l Benjamin should be Nathanaël Benjamin
