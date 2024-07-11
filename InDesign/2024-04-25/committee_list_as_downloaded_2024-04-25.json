@@ -1,0 +1,414 @@
+{
+  "data": [
+    {
+      "id": 21835,
+      "name": "Visit to Cyted Laboratories",
+      "startDate": "2024-02-22T00:00:00",
+      "endDate": "2024-07-22T00:00:00",
+      "startTime": "08:00:00",
+      "startDateUtc": "2024-02-22T08:00:00+00:00",
+      "endDateUtc": "2024-07-22T15:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "15:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Cyted Laboratories",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-07-05T10:53:00",
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 81,
+          "name": "Health and Social Care Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21320,
+      "name": "Foreign Affairs Committee",
+      "startDate": "2024-04-22T00:00:00",
+      "endDate": "2024-04-26T00:00:00",
+      "startTime": "22:20:00",
+      "startDateUtc": "2024-04-22T22:20:00+01:00",
+      "endDateUtc": "2024-04-26T07:50:00+01:00",
+      "cancelledDate": null,
+      "endTime": "07:50:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Brasilia and Rio de Janeiro",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 78,
+          "name": "Foreign Affairs Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21158,
+      "name": null,
+      "startDate": "2024-04-23T00:00:00",
+      "endDate": "2024-04-26T00:00:00",
+      "startTime": "07:00:00",
+      "startDateUtc": "2024-04-23T07:00:00+01:00",
+      "endDateUtc": "2024-04-26T19:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "19:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Bermuda",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-04-29T09:00:00",
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 327,
+          "name": "Public Administration and Constitutional Affairs Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21354,
+      "name": null,
+      "startDate": "2024-04-24T00:00:00",
+      "endDate": "2024-04-25T00:00:00",
+      "startTime": "08:30:00",
+      "startDateUtc": "2024-04-24T08:30:00+01:00",
+      "endDateUtc": "2024-04-25T14:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "14:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Blackpool, England",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-04-16T15:48:00",
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 698,
+          "name": "Food, Diet and Obesity Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 11,
+              "name": "(HL) Investigative"
+            },
+            {
+              "id": 12,
+              "name": "(HL) Committee Office"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21823,
+      "name": "Visit to Toulouse, France",
+      "startDate": "2024-04-24T00:00:00",
+      "endDate": "2024-04-26T00:00:00",
+      "startTime": null,
+      "startDateUtc": "2024-04-24T00:00:00+01:00",
+      "endDateUtc": "2024-04-26T00:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": null,
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "France",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 162,
+          "name": "Welsh Affairs Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21183,
+      "name": "Services Committee meeting",
+      "startDate": "2024-04-25T00:00:00",
+      "endDate": "2024-04-25T00:00:00",
+      "startTime": "12:30:00",
+      "startDateUtc": "2024-04-25T12:30:00+01:00",
+      "endDateUtc": "2024-04-25T14:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "14:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Room 3A, Palace of Westminster",
+      "locationId": 30,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-03-20T11:50:00",
+      "eventType": {
+        "id": 7,
+        "name": "Formal meeting (private meeting)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 363,
+          "name": "Services Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 2,
+              "name": "Domestic"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21262,
+      "name": null,
+      "startDate": "2024-04-25T00:00:00",
+      "endDate": "2024-04-25T00:00:00",
+      "startTime": "15:00:00",
+      "startDateUtc": "2024-04-25T15:00:00+01:00",
+      "endDateUtc": "2024-04-25T16:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "16:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": true,
+      "location": "Chairman of Ways and Means Study",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 7,
+        "name": "Formal meeting (private meeting)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 495,
+          "name": "Parliamentary Works Estimates Commission",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 9,
+              "name": "Other"
+            }
+          ],
+          "isCommons": true,
+          "isLords": true,
+          "leadHouse": {
+            "isCommons": true,
+            "isLords": false
+          }
+        }
+      ],
+      "activities": [
+        {
+          "id": 28427,
+          "name": null,
+          "startDate": "2024-04-25T00:00:00",
+          "endDate": "2024-04-25T00:00:00",
+          "startTime": "15:00:00",
+          "endTime": "16:00:00",
+          "startDateUtc": "2024-04-25T15:00:00+01:00",
+          "endDateUtc": "2024-04-25T16:00:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": null,
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Chairman of Ways and Means Study",
+          "locationId": null,
+          "eventId": 21262,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21360,
+      "name": "Northampton Civil National Business Centre",
+      "startDate": "2024-04-25T00:00:00",
+      "endDate": "2024-04-25T00:00:00",
+      "startTime": "09:30:00",
+      "startDateUtc": "2024-04-25T09:30:00+01:00",
+      "endDateUtc": "2024-04-25T15:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "15:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Northampton",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 102,
+          "name": "Justice Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    }
+  ],
+  "totalResults": 8,
+  "pagination": {
+    "totalPages": 1,
+    "currentPage": 0,
+    "recordsPerPage": 8,
+    "firstPage": 0,
+    "lastPage": 8,
+    "nextPage": null,
+    "previousPage": 0
+  }
+}

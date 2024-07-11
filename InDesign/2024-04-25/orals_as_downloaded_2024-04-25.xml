@@ -1,0 +1,298 @@
+<OrderBk2Doc>
+  <HeadInfo>
+    <BeginDate>
+      <DayName>Thursday</DayName>
+      <DayNum>25</DayNum>
+      <Month>April</Month>
+      <Year>2024</Year>
+    </BeginDate>
+    <AnsFromDate>
+      <DayName>Thursday</DayName>
+      <DayNum>25</DayNum>
+      <Month>April</Month>
+      <Year>2024</Year>
+    </AnsFromDate>
+  </HeadInfo>
+  <AnsDaySec Date="25/04/2024">
+    <AnsDate>
+      <DayName>Thursday</DayName>
+      <DayNum>25</DayNum>
+      <Month>April</Month>
+    </AnsDate>
+    <OralSec>
+      <TargetGroup>
+        <TargetHead IsTopical="N" DeptCount="1">the Minister for the Cabinet Office</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Christian</Fnames>
+            <Sname>Wakeford</Sname>
+            <Constit>Bury South</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What recent assessment he has made of trends in the level of compliance with the Ministerial Code.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902477</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>Rupa</Fnames>
+            <Sname>Huq</Sname>
+            <Constit>Ealing Central and Acton</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What recent assessment he has made of trends in the level of compliance with the Ministerial Code.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902479</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Nick</Fnames>
+            <Sname>Smith</Sname>
+            <Constit>Blaenau Gwent</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What steps his Department is taking to protect public institutions and services from cyber threats.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902480</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Mike</Fnames>
+            <Sname>Amesbury</Sname>
+            <Constit>Weaver Vale</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What steps his Department is taking to strengthen national security.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902482</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Sarah</Fnames>
+            <Sname>Atherton</Sname>
+            <Constit>Wrexham</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What steps he is taking to improve support for female veterans.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902486</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Ruth</Fnames>
+            <Sname>Cadbury</Sname>
+            <Constit>Brentford and Isleworth</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What recent assessment he has made of the adequacy of his Department's processes for scrutinising nominations for honours.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902491</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title>Mrs</Title>
+            <Fnames>Emma</Fnames>
+            <Sname>Lewell-Buck</Sname>
+            <Constit>South Shields</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What steps he is taking to support veterans with the cost of living.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902492</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>John</Fnames>
+            <Sname>Cryer</Sname>
+            <Constit>Leyton and Wanstead</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What steps his Department is taking to protect public institutions and services from cyber threats.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902493</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title>Sir</Title>
+            <Fnames>Chris</Fnames>
+            <Sname>Bryant</Sname>
+            <Constit>Rhondda</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What recent assessment he has made of trends in the level of compliance with the Ministerial Code.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902495</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>10</Num>
+          <Member>
+            <Title>Mr</Title>
+            <Fnames>Tanmanjeet Singh</Fnames>
+            <Sname>Dhesi</Sname>
+            <Constit>Slough</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What recent assessment he has made of the adequacy of his Department's processes for scrutinising nominations for honours.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902497</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>11</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Gerald</Fnames>
+            <Sname>Jones</Sname>
+            <Constit>Merthyr Tydfil and Rhymney</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What progress he has made on considering the recommendations of the Second Interim Report of the Infected Blood Inquiry.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902498</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>12</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Sarah</Fnames>
+            <Sname>Dyke</Sname>
+            <Constit>Somerton and Frome</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What steps he is taking to support armed forces veterans.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902500</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>13</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Chi</Fnames>
+            <Sname>Onwurah</Sname>
+            <Constit>Newcastle upon Tyne Central</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">What recent assessment he has made of the adequacy of public sector procurement of digital goods and services.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902501</UIN>
+        </OralQn>
+      </TargetGroup>
+      <TargetGroup>
+        <Time>10:15 am</Time>
+        <TargetHead IsTopical="Y" DeptCount="1">the Minister for the Cabinet Office</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Christine</Fnames>
+            <Sname>Jardine</Sname>
+            <Constit>Edinburgh West</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="Y">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902502</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Kerry</Fnames>
+            <Sname>McCarthy</Sname>
+            <Constit>Bristol East</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902504</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Wendy</Fnames>
+            <Sname>Chamberlain</Sname>
+            <Constit>North East Fife</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902505</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title>Dame</Title>
+            <Fnames>Diana</Fnames>
+            <Sname>Johnson</Sname>
+            <Constit>Kingston upon Hull North</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902506</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Nick</Fnames>
+            <Sname>Smith</Sname>
+            <Constit>Blaenau Gwent</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902508</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>George</Fnames>
+            <Sname>Galloway</Sname>
+            <Constit>Rochdale</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Minister for the Cabinet Office</Target>
+          <QnText PrintText="N">If he will make a statement on his departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902511</UIN>
+        </OralQn>
+      </TargetGroup>
+    </OralSec>
+  </AnsDaySec>
+</OrderBk2Doc>
