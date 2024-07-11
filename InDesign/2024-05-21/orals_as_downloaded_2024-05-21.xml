@@ -1,0 +1,396 @@
+<OrderBk2Doc>
+  <HeadInfo>
+    <BeginDate>
+      <DayName>Tuesday</DayName>
+      <DayNum>21</DayNum>
+      <Month>May</Month>
+      <Year>2024</Year>
+    </BeginDate>
+    <AnsFromDate>
+      <DayName>Tuesday</DayName>
+      <DayNum>21</DayNum>
+      <Month>May</Month>
+      <Year>2024</Year>
+    </AnsFromDate>
+  </HeadInfo>
+  <AnsDaySec Date="21/05/2024">
+    <AnsDate>
+      <DayName>Tuesday</DayName>
+      <DayNum>21</DayNum>
+      <Month>May</Month>
+    </AnsDate>
+    <OralSec>
+      <TargetGroup>
+        <TargetHead IsTopical="N" DeptCount="1">the Secretary of State for Energy Security and Net Zero</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Kenny</Fnames>
+            <Sname>MacAskill</Sname>
+            <Constit>East Lothian</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What recent discussions she has had with trade unions on the future of Grangemouth oil refinery beyond 2025.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902928</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Henry</Fnames>
+            <Sname>Smith</Sname>
+            <Constit>Crawley</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What progress she has made on reaching the Government's 2050 net zero target.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902929</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Liz</Fnames>
+            <Sname>Twist</Sname>
+            <Constit>Blaydon</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">Whether she has made an assessment of the potential merits of public ownership of the energy system.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902930</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Andrew</Fnames>
+            <Sname>Bridgen</Sname>
+            <Constit>North West Leicestershire</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">Whether she has made a cost-benefit analysis of her net zero policies.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902931</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Andrew</Fnames>
+            <Sname>Rosindell</Sname>
+            <Constit>Romford</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What steps she is taking to help reduce energy bills.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902932</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title>Sir</Title>
+            <Fnames>Desmond</Fnames>
+            <Sname>Swayne</Sname>
+            <Constit>New Forest West</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What steps she is taking to help improve energy efficiency in social housing.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902933</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Steve</Fnames>
+            <Sname>Tuckwell</Sname>
+            <Constit>Uxbridge and South Ruislip</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What steps her Department is taking to support people with the cost of energy bills.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902934</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Simon</Fnames>
+            <Sname>Baynes</Sname>
+            <Constit>Clwyd South</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What steps she is taking to help reduce energy prices for consumers.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902935</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Afzal</Fnames>
+            <Sname>Khan</Sname>
+            <Constit>Manchester, Gorton</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What steps her Department is taking to tackle climate change.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902936</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>10</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Tommy</Fnames>
+            <Sname>Sheppard</Sname>
+            <Constit>Edinburgh East</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What assessment she has made of the adequacy of financial support for district heating network consumers.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902937</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>11</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Michael</Fnames>
+            <Sname>Shanks</Sname>
+            <Constit>Rutherglen and Hamilton West</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What discussions she has had with the Scottish Government on the Berwick Bank wind farm project.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902938</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>12</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Bob</Fnames>
+            <Sname>Blackman</Sname>
+            <Constit>Harrow East</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What steps she is taking to increase nuclear energy capacity.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902939</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>13</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Nadia</Fnames>
+            <Sname>Whittome</Sname>
+            <Constit>Nottingham East</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What assessment she has made of the potential implications for her policies of the High Court judgment of 3 May 2024 relating to the Government's Carbon Budget Delivery Plan.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902941</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>14</Num>
+          <Member>
+            <Title>Mrs</Title>
+            <Fnames>Sheryll</Fnames>
+            <Sname>Murray</Sname>
+            <Constit>South East Cornwall</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What steps she is taking to help reduce energy bills.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902942</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>15</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Dan</Fnames>
+            <Sname>Carden</Sname>
+            <Constit>Liverpool, Walton</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What estimate she has made of the number of households receiving compensation after being involuntarily fitted with prepayment meters.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902943</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>16</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Keir</Fnames>
+            <Sname>Mather</Sname>
+            <Constit>Selby and Ainsty</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What estimate she has made of the number of households that were in fuel poverty in winter 2023-24.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902944</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>17</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Justin</Fnames>
+            <Sname>Madders</Sname>
+            <Constit>Ellesmere Port and Neston</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">What recent discussions she has had with businesses and investors on the Government’s net zero targets.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902945</UIN>
+        </OralQn>
+      </TargetGroup>
+      <TargetGroup>
+        <Time>12:15 pm</Time>
+        <TargetHead IsTopical="Y" DeptCount="1">the Secretary of State for Energy Security and Net Zero</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Liz</Fnames>
+            <Sname>Twist</Sname>
+            <Constit>Blaydon</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="Y">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902954</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Tonia</Fnames>
+            <Sname>Antoniazzi</Sname>
+            <Constit>Gower</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902955</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>James</Fnames>
+            <Sname>Davies</Sname>
+            <Constit>Vale of Clwyd</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902956</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Rachel</Fnames>
+            <Sname>Maclean</Sname>
+            <Constit>Redditch</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902957</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Theresa</Fnames>
+            <Sname>Villiers</Sname>
+            <Constit>Chipping Barnet</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902958</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Mark</Fnames>
+            <Sname>Eastwood</Sname>
+            <Constit>Dewsbury</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902959</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Patricia</Fnames>
+            <Sname>Gibson</Sname>
+            <Constit>North Ayrshire and Arran</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902960</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Dan</Fnames>
+            <Sname>Carden</Sname>
+            <Constit>Liverpool, Walton</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902961</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Richard</Fnames>
+            <Sname>Foord</Sname>
+            <Constit>Tiverton and Honiton</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Energy Security and Net Zero</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902962</UIN>
+        </OralQn>
+      </TargetGroup>
+    </OralSec>
+  </AnsDaySec>
+</OrderBk2Doc>

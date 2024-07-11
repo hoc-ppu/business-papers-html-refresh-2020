@@ -1,0 +1,470 @@
+<OrderBk2Doc>
+  <HeadInfo>
+    <BeginDate>
+      <DayName>Wednesday</DayName>
+      <DayNum>17</DayNum>
+      <Month>April</Month>
+      <Year>2024</Year>
+    </BeginDate>
+    <AnsFromDate>
+      <DayName>Wednesday</DayName>
+      <DayNum>17</DayNum>
+      <Month>April</Month>
+      <Year>2024</Year>
+    </AnsFromDate>
+  </HeadInfo>
+  <AnsDaySec Date="17/04/2024">
+    <AnsDate>
+      <DayName>Wednesday</DayName>
+      <DayNum>17</DayNum>
+      <Month>April</Month>
+    </AnsDate>
+    <OralSec>
+      <TargetGroup>
+        <TargetHead IsTopical="N" DeptCount="1">the Secretary of State for Science, Innovation and Technology</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Maggie</Fnames>
+            <Sname>Throup</Sname>
+            <Constit>Erewash</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="Y">What recent discussions she has had with the Secretary of State for Health and Social Care on increasing the use of AI in the NHS.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902258</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Chris</Fnames>
+            <Sname>Elmore</Sname>
+            <Constit>Ogmore</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="Y">What steps the Government is taking to regulate AI.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902259</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Bob</Fnames>
+            <Sname>Blackman</Sname>
+            <Constit>Harrow East</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="Y">What steps her Department is taking to help protect the personal data of individuals.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902260</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Justin</Fnames>
+            <Sname>Madders</Sname>
+            <Constit>Ellesmere Port and Neston</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="Y">What steps the Government is taking to regulate AI.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902262</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Vicky</Fnames>
+            <Sname>Ford</Sname>
+            <Constit>Chelmsford</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="Y">What steps her Department is taking to implement the Online Safety Act 2023.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902263</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title>Dame</Title>
+            <Fnames>Nia</Fnames>
+            <Sname>Griffith</Sname>
+            <Constit>Llanelli</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="Y">What steps the Government is taking to regulate AI.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902264</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Stuart C</Fnames>
+            <Sname>McDonald</Sname>
+            <Constit>Cumbernauld, Kilsyth and Kirkintilloch East</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="Y">What assessment her Department has made of the potential impact of AI on democracy.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902265</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Henry</Fnames>
+            <Sname>Smith</Sname>
+            <Constit>Crawley</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="Y">What steps her Department is taking to regulate artificial intelligence.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902268</UIN>
+        </OralQn>
+      </TargetGroup>
+      <TargetGroup>
+        <Time>11:53 am</Time>
+        <TargetHead IsTopical="Y" DeptCount="1">the Secretary of State for Science, Innovation and Technology</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Simon</Fnames>
+            <Sname>Jupp</Sname>
+            <Constit>East Devon</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="Y">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902298</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Vicky</Fnames>
+            <Sname>Ford</Sname>
+            <Constit>Chelmsford</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902299</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title>Mr</Title>
+            <Fnames>Philip</Fnames>
+            <Sname>Hollobone</Sname>
+            <Constit>Kettering</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902300</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title>Sir</Title>
+            <Fnames>Edward</Fnames>
+            <Sname>Leigh</Sname>
+            <Constit>Gainsborough</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902301</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Tonia</Fnames>
+            <Sname>Antoniazzi</Sname>
+            <Constit>Gower</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902302</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>Jamie</Fnames>
+            <Sname>Wallis</Sname>
+            <Constit>Bridgend</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902303</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title>Mr</Title>
+            <Fnames>Gregory</Fnames>
+            <Sname>Campbell</Sname>
+            <Constit>East Londonderry</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902304</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Nigel</Fnames>
+            <Sname>Mills</Sname>
+            <Constit>Amber Valley</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Science, Innovation and Technology</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902305</UIN>
+        </OralQn>
+      </TargetGroup>
+      <TargetGroup>
+        <Time>12:00 pm</Time>
+        <TargetHead IsTopical="N" DeptCount="1">the Prime Minister</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Selaine</Fnames>
+            <Sname>Saxby</Sname>
+            <Constit>North Devon</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="Y">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902243</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Helen</Fnames>
+            <Sname>Morgan</Sname>
+            <Constit>North Shropshire</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902244</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Sarah</Fnames>
+            <Sname>Olney</Sname>
+            <Constit>Richmond Park</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902245</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Tom</Fnames>
+            <Sname>Randall</Sname>
+            <Constit>Gedling</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902246</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title>Dame</Title>
+            <Fnames>Andrea</Fnames>
+            <Sname>Jenkyns</Sname>
+            <Constit>Morley and Outwood</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902247</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title>Sir</Title>
+            <Fnames>Simon</Fnames>
+            <Sname>Clarke</Sname>
+            <Constit>Middlesbrough South and East Cleveland</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902248</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Gareth</Fnames>
+            <Sname>Johnson</Sname>
+            <Constit>Dartford</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902249</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>James</Fnames>
+            <Sname>Sunderland</Sname>
+            <Constit>Bracknell</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902250</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Jo</Fnames>
+            <Sname>Gideon</Sname>
+            <Constit>Stoke-on-Trent Central</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902251</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>10</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Nickie</Fnames>
+            <Sname>Aiken</Sname>
+            <Constit>Cities of London and Westminster</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902252</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>11</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Derek</Fnames>
+            <Sname>Thomas</Sname>
+            <Constit>St Ives</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902253</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>12</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Nigel</Fnames>
+            <Sname>Mills</Sname>
+            <Constit>Amber Valley</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902254</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>13</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Andy</Fnames>
+            <Sname>Carter</Sname>
+            <Constit>Warrington South</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902255</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>14</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Daniel</Fnames>
+            <Sname>Zeichner</Sname>
+            <Constit>Cambridge</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902256</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>15</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Alison</Fnames>
+            <Sname>Thewliss</Sname>
+            <Constit>Glasgow Central</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Prime Minister</Target>
+          <QnText PrintText="N">If he will list his official engagements for Wednesday 17 April.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902257</UIN>
+        </OralQn>
+      </TargetGroup>
+    </OralSec>
+  </AnsDaySec>
+</OrderBk2Doc>
