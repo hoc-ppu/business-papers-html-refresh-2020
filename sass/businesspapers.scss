@@ -19,12 +19,12 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
 @import 'edm.scss';
 
 
-.container-fluid{
+.container-fluid {
     max-width: 1140px;
 }
 
 
-.OP-left-margin{
+.OP-left-margin {
     overflow-wrap: break-word;
 }
 
@@ -32,104 +32,93 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
 //     color: red;
 // }
 
-.test{
+.test {
     display: block;
 }
 
 // sumary agenda table
-.Front-Page-Table, .Front-Page-Table td{
+.Front-Page-Table,
+.Front-Page-Table td {
     border: none;
 }
-.Front-Page-Table td{
+
+.Front-Page-Table td {
     padding-top: 0.25em;
     padding-bottom: 0.25em;
 }
+
 .Front-Page-Table .Alline-Right {
     border-right-style: solid;
     border-right-width: 2px;
     border-right-color: $colour-grey-1;
     padding-right: 0.75em;
 }
+
 .Front-Page-Table .Alline-left {
     padding-left: 0.75em;
 }
-.Alline-Right{
+
+.Alline-Right {
     text-align: right;
 }
-
-
-// new table styles from 2024 redesign
-.Basic-Text-Frame table {
-    border: 0;
-    border-collapse: collapse;
-    border-spacing: 0;
-    margin-top: 45px;
-    margin-bottom: 27px;
-    width: 100%;
-}
-
-.Basic-Text-Frame table td {
-    border: 0;
-    padding: 0.5em;
-    vertical-align: top;
-}
-
-.Basic-Text-Frame table thead td {
-    background-color: #EAEAEA;
-    font-weight: 500;
-}
-
-.Basic-Text-Frame table thead td p {
-    margin: 0;
-}
-// end new table styles from 2024 redesign
-
 
 // sponsors
 .paraAmendmentSponsor {
     @include font-bold();
     margin-bottom: 0;
 }
+
 .MotionAmmendmentSponsorGroup {
     margin-top: 1rem;
 }
-.paraMotionSponsor, .MemberInCharge{
+
+.paraMotionSponsor,
+.MemberInCharge {
     margin-bottom: 0;
 }
-.paraMotionSponsor{
+
+.paraMotionSponsor {
     @include font-bold();
 }
-.paraMotionSponsor > p + p{
+
+.paraMotionSponsor>p+p {
     margin-top: - $para-spacing;
 }
+
 @media (min-width: 768px) {
     .paraAmendmentSponsor {
         padding-left: $indent-amount;
     }
+
     .MotionAmmendmentSponsorGroup {
         padding-left: $indent-amount;
     }
+
     .paraMotionSub-Paragraph {
         padding-left: $indent-amount;
     }
 }
 
 // Notes
-.paraNotesTag, .paraNotesText{
+.paraNotesTag,
+.paraNotesText {
     margin-left: $indent-amount;
     @include font-size-milli();
 }
-.paraNotesTag{
+
+.paraNotesTag {
     @include font-bold();
     margin-bottom: 0;
 }
-.paraNotesText{
+
+.paraNotesText {
     margin-bottom: math.div($para-spacing, 2);
 }
+
 // need less space after a motion
 .paraMotionText+.paraNotesTag,
-.paraBusinessListItem+.paraNotesTag{
-    margin-top: math.div( - $para-spacing, 2);
+.paraBusinessListItem+.paraNotesTag {
+    margin-top: math.div(- $para-spacing, 2);
 }
 
 // --------------- Headings -----------------
@@ -137,36 +126,17 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
 // undo design system max width on headings as it causes chaos
 // (It is sometimes considered better typography to have max with applied but it is not
 //  appropriate for business papers)
-@media (min-width: 992px) {h1, h2, h3, h4, h5, h6 {
-    max-width: none;
-}}
+@media (min-width: 992px) {
 
-//  the following are new headings from the 2024 redesign
-.DocumentTitle {
-    border-bottom: 1px solid;
-    font-weight: 500;
-    letter-spacing: 0.05em;
-    padding-bottom: 0.5em;
-    text-transform: uppercase;
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        max-width: none;
+    }
 }
-
-.MainTitle {
-    border-bottom: 1px solid;
-    font-size: 1.618em;
-    font-weight: 500;
-    padding-bottom: 0.5em;
-}
-
-.Heading3Underlined {
-    border-bottom: 1px solid;
-    font-size: 1.309em;
-    font-weight: 500;
-    margin-top: 45px;
-    margin-bottom: 27px;
-    padding-bottom: 0.309em;
-}
-
-// end new headings from the 2024 redesign
 
 .paraBusinessTodayChamberHeading {
     // max-width: none;
@@ -182,6 +152,7 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
 .paraOrderofBusinessItemTiming {
     @include font-bold();
 }
+
 .paraBusinessSub-SectionHeading {
 
     font-size: 1.309em;
@@ -205,14 +176,15 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
     // margin-bottom: $para-spacing*1.5;
     // color: $colour-white;
 }
-.paraBusinessItemHeading-bulleted{
+
+.paraBusinessItemHeading-bulleted {
 
     margin-top: math.div($para-spacing, 2);
     margin-bottom: 0;
     @include font-bold();
 }
 
-.paraBusinessItemHeading{
+.paraBusinessItemHeading {
     @include font-bold();
     margin-top: $para-spacing * 2;
     margin-bottom: 0;
@@ -223,13 +195,14 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
 .paraBusinessListItem,
 .paraQuestion,
 .paraBusinessItemHeading-bulleted,
-.paraFutureBusinessItemHeadingwithTiming{
+.paraFutureBusinessItemHeadingwithTiming {
     margin-left: $indent-amount;
 }
+
 .paraBusinessListItem:before,
 .paraBusinessItemHeading-bulleted:before,
 .paraFutureBusinessItemHeadingwithTiming:before {
-    content: '■ ' ;
+    content: '■ ';
     display: inline-block;
     width: $indent-amount;
     margin-left: -$indent-amount;
@@ -237,25 +210,28 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
 
 
 // --------------paragraphs ----------------
-.paraOrderofBusinessItemTiming{
+.paraOrderofBusinessItemTiming {
     // margin-bottom: 0;
     margin-top: math.div($para-spacing, 2);
     margin-bottom: math.div($para-spacing, 2);
 }
+
 .paraBusinessListItem+.paraBusinessListItem,
 .paraMotionText+.paraMotionText,
 .paraMinisterialStatement+.paraMinisterialStatement,
-.paraFutureBusinessItemHeadingwithTiming+.paraFutureBusinessItemHeadingwithTiming{
+.paraFutureBusinessItemHeadingwithTiming+.paraFutureBusinessItemHeadingwithTiming {
     margin-top: math.div(-$para-spacing, 2);
 }
-.paraMinisterialStatement{
-    .number-span{
+
+.paraMinisterialStatement {
+    .number-span {
         @include font-bold();
         display: inline-block;
         width: $indent-amount;
     }
 }
-.FbaLocation{
+
+.FbaLocation {
     @include font-size-delta;
     @include font-bold();
     margin-top: $para-spacing * 2.5;
@@ -263,67 +239,79 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
 }
 
 // --------------- character styles ---------
-.charUIN{
+.charUIN {
     @include font-size-micro();
 }
-.charBallotNumber{
+
+.charBallotNumber {
     margin-left: -$indent-amount;
     display: inline-block;
     width: $indent-amount;
     @include font-bold();
 }
-.charMember{
+
+.charMember {
     @include font-bold();
 }
 
 // ---------- media queries ----------
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+
     // order paper left margin
-    .OP-left-margin{
+    .OP-left-margin {
         margin-left: $OP-margin-left;
     }
+
     .paraBusinessTodayChamberHeading {
         padding-left: $OP-margin-left;
         margin-left: -$OP-margin-left;
     }
-    .OP-heading-outdent{
+
+    .OP-heading-outdent {
         margin-left: -$OP-margin-left + 0.5rem;
     }
 
     // TODO: .OP-heading-outdent might need to be removed
 }
 
-.paraChamberSummaryHeading{text-transform: uppercase;}
+.paraChamberSummaryHeading {
+    text-transform: uppercase;
+}
 
 /* Create Flexbox for Motion Sponser */
 
 .container-1 {
-  display: flex;
-  line-height: 0.5em;
+    display: flex;
+    line-height: 0.5em;
 }
+
 .container-2 {
-  display: flex;
-  line-height: 0.5em;
-  padding-top:18px;
+    display: flex;
+    line-height: 0.5em;
+    padding-top: 18px;
 }
+
 .paraMotionSponsorAlt {
-  flex: 1;
-  padding-bottom: 18px;
+    flex: 1;
+    padding-bottom: 18px;
 }
-.paraMotionSponsorGroup{
+
+.paraMotionSponsorGroup {
     padding-bottom: $para-spacing;
 }
 
 /* Small devices (tablets, 768px and down) */
 @media (max-width: 768px) {
-  .container-1 {
+    .container-1 {
         flex-direction: column;
-   }
+    }
+
     .container-2 {
         flex-direction: column;
-   }
- }
+    }
+}
+
 /*End of Flexbox for Motion Sponser */
 
 /*  ---- CSS for anchor link  ---- */
@@ -339,12 +327,19 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
 .paraBusinessSub-SectionHeading a.anchor-link:visited,
 .paraBusinessSub-SectionHeading a.anchor-link:focus,
 .paraBusinessSub-SectionHeading a.anchor-link:active {
-  color: inherit !important;
+    color: inherit !important;
 }
-@font-face {font-family: "hocLinkIcon";
-    src: url(data:n/a;base64,AAEAAAALAIAAAwAwT1MvMg8TDNEAAAC8AAAAYGNtYXD/rgHVAAABHAAAAFRnYXNwAAAAEAAAAXAAAAAIZ2x5ZhjFPzoAAAF4AAABXGhlYWQTibEUAAAC1AAAADZoaGVhB8EDxgAAAwwAAAAkaG10eAoAAAAAAAMwAAAAFGxvY2EAKADCAAADRAAAAAxtYXhwAAgAYgAAA1AAAAAgbmFtZVdmxuUAAANwAAABtnBvc3QAAwAAAAAFKAAAACAAAwMAAZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAABAAAAApwPA/8AAQAPAAEAAAAABAAAAAAAAAAAAAAAgAAAAAAADAAAAAwAAABwAAQADAAAAHAADAAEAAAAcAAQAOAAAAAoACAACAAIAAQAgAKf//f//AAAAAAAgAKf//f//AAH/4/9dAAMAAQAAAAAAAAAAAAAAAQAB//8ADwABAAAAAAAAAAAAAgAANzkBAAAAAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAACAAD/wQP/A7IALwBfAAAlBw4BJy4BNTQ2PwE+ARcWMjc2NCcmJyYGBwYPAQ4BFRQWFx4BMzI2PwE2NCcmIgcBJicuAQcGDwEGFBcWMj8BNhYXHgEVFAYPAQYmJyYiBwYUFx4BMzI2PwE+ATU2JicBdzQiXyIQEhIQvh5hKRM1EhMTIioqWy4vLb4iJSUiI1kvLlkkNBISEzQTAkIlKytYKioiQRISEzQTQSNVHhASEhDMRUgOEzUSExMgSCYvYi/LIyQBJSKUMyEBIhApFxcoEb0dNykSEhI2EiIODgsZGSy9I1gvMFkhJCIjIzMSNRMSEgLeJRQTBBAQI0ASNRMTE0AkEh4QKhYXKRDKRhkOEhITNRIgIDAuyiJYMDFXIgABAAAAAQAA9WCCgV8PPPUACwQAAAAAANg1tlIAAAAA2DW2UgAA/8ED/wOyAAAACAACAAAAAAAAAAEAAAPA/8AAAAQAAAAAAAP/AAEAAAAAAAAAAAAAAAAAAAAFBAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAoAFAAeAK4AAQAAAAUAYAACAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA4ArgABAAAAAAABAAsAAAABAAAAAAACAAcAhAABAAAAAAADAAsAQgABAAAAAAAEAAsAmQABAAAAAAAFAAsAIQABAAAAAAAGAAsAYwABAAAAAAAKABoAugADAAEECQABABYACwADAAEECQACAA4AiwADAAEECQADABYATQADAAEECQAEABYApAADAAEECQAFABYALAADAAEECQAGABYAbgADAAEECQAKADQA1GhvY0xpbmtJY29uAGgAbwBjAEwAaQBuAGsASQBjAG8AblZlcnNpb24gMS4wAFYAZQByAHMAaQBvAG4AIAAxAC4AMGhvY0xpbmtJY29uAGgAbwBjAEwAaQBuAGsASQBjAG8AbmhvY0xpbmtJY29uAGgAbwBjAEwAaQBuAGsASQBjAG8AblJlZ3VsYXIAUgBlAGcAdQBsAGEAcmhvY0xpbmtJY29uAGgAbwBjAEwAaQBuAGsASQBjAG8AbkZvbnQgZ2VuZXJhdGVkIGJ5IEljb01vb24uAEYAbwBuAHQAIABnAGUAbgBlAHIAYQB0AGUAZAAgAGIAeQAgAEkAYwBvAE0AbwBvAG4ALgAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=) format("truetype");}
-[data-anchor-icon]::after {content: attr(data-anchor-icon);}
-.anchor-link{
+
+@font-face {
+    font-family: "hocLinkIcon";
+    src: url(data:n/a;base64,AAEAAAALAIAAAwAwT1MvMg8TDNEAAAC8AAAAYGNtYXD/rgHVAAABHAAAAFRnYXNwAAAAEAAAAXAAAAAIZ2x5ZhjFPzoAAAF4AAABXGhlYWQTibEUAAAC1AAAADZoaGVhB8EDxgAAAwwAAAAkaG10eAoAAAAAAAMwAAAAFGxvY2EAKADCAAADRAAAAAxtYXhwAAgAYgAAA1AAAAAgbmFtZVdmxuUAAANwAAABtnBvc3QAAwAAAAAFKAAAACAAAwMAAZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAABAAAAApwPA/8AAQAPAAEAAAAABAAAAAAAAAAAAAAAgAAAAAAADAAAAAwAAABwAAQADAAAAHAADAAEAAAAcAAQAOAAAAAoACAACAAIAAQAgAKf//f//AAAAAAAgAKf//f//AAH/4/9dAAMAAQAAAAAAAAAAAAAAAQAB//8ADwABAAAAAAAAAAAAAgAANzkBAAAAAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAACAAD/wQP/A7IALwBfAAAlBw4BJy4BNTQ2PwE+ARcWMjc2NCcmJyYGBwYPAQ4BFRQWFx4BMzI2PwE2NCcmIgcBJicuAQcGDwEGFBcWMj8BNhYXHgEVFAYPAQYmJyYiBwYUFx4BMzI2PwE+ATU2JicBdzQiXyIQEhIQvh5hKRM1EhMTIioqWy4vLb4iJSUiI1kvLlkkNBISEzQTAkIlKytYKioiQRISEzQTQSNVHhASEhDMRUgOEzUSExMgSCYvYi/LIyQBJSKUMyEBIhApFxcoEb0dNykSEhI2EiIODgsZGSy9I1gvMFkhJCIjIzMSNRMSEgLeJRQTBBAQI0ASNRMTE0AkEh4QKhYXKRDKRhkOEhITNRIgIDAuyiJYMDFXIgABAAAAAQAA9WCCgV8PPPUACwQAAAAAANg1tlIAAAAA2DW2UgAA/8ED/wOyAAAACAACAAAAAAAAAAEAAAPA/8AAAAQAAAAAAAP/AAEAAAAAAAAAAAAAAAAAAAAFBAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAoAFAAeAK4AAQAAAAUAYAACAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA4ArgABAAAAAAABAAsAAAABAAAAAAACAAcAhAABAAAAAAADAAsAQgABAAAAAAAEAAsAmQABAAAAAAAFAAsAIQABAAAAAAAGAAsAYwABAAAAAAAKABoAugADAAEECQABABYACwADAAEECQACAA4AiwADAAEECQADABYATQADAAEECQAEABYApAADAAEECQAFABYALAADAAEECQAGABYAbgADAAEECQAKADQA1GhvY0xpbmtJY29uAGgAbwBjAEwAaQBuAGsASQBjAG8AblZlcnNpb24gMS4wAFYAZQByAHMAaQBvAG4AIAAxAC4AMGhvY0xpbmtJY29uAGgAbwBjAEwAaQBuAGsASQBjAG8AbmhvY0xpbmtJY29uAGgAbwBjAEwAaQBuAGsASQBjAG8AblJlZ3VsYXIAUgBlAGcAdQBsAGEAcmhvY0xpbmtJY29uAGgAbwBjAEwAaQBuAGsASQBjAG8AbkZvbnQgZ2VuZXJhdGVkIGJ5IEljb01vb24uAEYAbwBuAHQAIABnAGUAbgBlAHIAYQB0AGUAZAAgAGIAeQAgAEkAYwBvAE0AbwBvAG4ALgAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=) format("truetype");
+}
+
+[data-anchor-icon]::after {
+    content: attr(data-anchor-icon);
+}
+
+.anchor-link {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'hocLinkIcon' !important;
     speak: none;
@@ -357,7 +352,7 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
     padding-left: 1em;
     padding-right: 1em;
     font-size: 0.9em;
-    vertical-align:middle;
+    vertical-align: middle;
     transition: color .25s ease-out, opacity .25s ease-in-out;
     /*hide unless hover on parent*/
     opacity: 0;
@@ -365,14 +360,16 @@ $font-path-2: 'https://commonsbusiness.parliament.uk/dist';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
 .paraBusinessTodayChamberHeading .anchor-link,
 .paraBusinessSub-SectionHeading .anchor-link,
-h2 .anchor-link{
+h2 .anchor-link {
     // sometimes it looks a bit big
     font-size: 0.7em;
 }
+
 /*show anchor link on hover*/
-:hover > .anchor-link{
+:hover>.anchor-link {
     display: inline;
     text-decoration: none;
     opacity: 9;
@@ -403,61 +400,73 @@ h2 .anchor-link{
 
 /* ----------- Automatic Toc  --------------- */
 
-.toc{ overflow-y:auto; }
-.toc>.toc-list{
-    overflow:hidden;
-    position:relative;
+.toc {
+    overflow-y: auto;
 }
-.js-toc .toc-list li{
-    list-style:none;
-    line-height: 1.3;  // too much before
+
+.toc>.toc-list {
+    overflow: hidden;
+    position: relative;
 }
-.toc-list{
-    margin:0;
-    padding-left:10px;
+
+.js-toc .toc-list li {
+    list-style: none;
+    line-height: 1.3; // too much before
 }
-a.toc-link{
+
+.toc-list {
+    margin: 0;
+    padding-left: 10px;
+}
+
+a.toc-link {
     text-decoration: none;
-    color:currentColor;
-    height:100%;
+    color: currentColor;
+    height: 100%;
 }
-a.toc-link:hover{
+
+a.toc-link:hover {
     text-decoration: underline;
 }
-.is-collapsible{
-    max-height:1000px;
-    overflow:hidden;
-    transition:all 300ms ease-in-out;
+
+.is-collapsible {
+    max-height: 1000px;
+    overflow: hidden;
+    transition: all 300ms ease-in-out;
 }
-.is-collapsed{max-height:0}
-.is-position-fixed{
-    position:fixed !important;
-    top:0;
+
+.is-collapsed {
+    max-height: 0
 }
-.is-active-link{
+
+.is-position-fixed {
+    position: fixed !important;
+    top: 0;
+}
+
+.is-active-link {
     @include font-bold();
 }
-.toc-link::before{
+
+.toc-link::before {
     background-color: $colour-grey-5;
-    content:' ';
-    display:inline-block;
-    height:inherit;
-    left:0;
-    margin-top: -0.34rem;  // looked off due to more spacing
-    position:absolute;
-    width:2px;
+    content: ' ';
+    display: inline-block;
+    height: inherit;
+    left: 0;
+    margin-top: -0.34rem; // looked off due to more spacing
+    position: absolute;
+    width: 2px;
 }
-.is-active-link::before{
+
+.is-active-link::before {
     background-color: $colour-purple-dark;
 }
 
 // more spacing
-.js-toc .toc-list-item{
+.js-toc .toc-list-item {
     padding-top: 0.75rem;
 }
 
 
 /* ------ End of Automatic Toc  ------------- */
-
-
-
