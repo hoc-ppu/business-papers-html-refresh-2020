@@ -1,0 +1,354 @@
+<OrderBk2Doc>
+  <HeadInfo>
+    <BeginDate>
+      <DayName>Tuesday</DayName>
+      <DayNum>23</DayNum>
+      <Month>April</Month>
+      <Year>2024</Year>
+    </BeginDate>
+    <AnsFromDate>
+      <DayName>Tuesday</DayName>
+      <DayNum>23</DayNum>
+      <Month>April</Month>
+      <Year>2024</Year>
+    </AnsFromDate>
+  </HeadInfo>
+  <AnsDaySec Date="23/04/2024">
+    <AnsDate>
+      <DayName>Tuesday</DayName>
+      <DayNum>23</DayNum>
+      <Month>April</Month>
+    </AnsDate>
+    <OralSec>
+      <TargetGroup>
+        <TargetHead IsTopical="N" DeptCount="1">the Secretary of State for Health and Social Care</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Richard</Fnames>
+            <Sname>Burgon</Sname>
+            <Constit>Leeds East</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps her Department is taking to reduce waiting times for NHS treatment.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902428</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Anthony</Fnames>
+            <Sname>Mangnall</Sname>
+            <Constit>Totnes</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What assessment she has made of the adequacy of oversight mechanisms for the General Medical Council.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902429</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Vicky</Fnames>
+            <Sname>Ford</Sname>
+            <Constit>Chelmsford</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What recent progress she has made on retaining GPs.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902430</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Anna</Fnames>
+            <Sname>Firth</Sname>
+            <Constit>Southend West</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps she is taking to ensure adequate funding for hospital repairs.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902431</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Lee</Fnames>
+            <Sname>Anderson</Sname>
+            <Constit>Ashfield</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps she is taking to tackle medicine shortages for type 2 diabetes.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902432</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title>Mrs</Title>
+            <Fnames>Paulette</Fnames>
+            <Sname>Hamilton</Sname>
+            <Constit>Birmingham, Erdington</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps she is taking to increase levels of nurse recruitment and retention in GP practices.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902433</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Kenny</Fnames>
+            <Sname>MacAskill</Sname>
+            <Constit>East Lothian</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps she is taking to support the recruitment and retention of community and district nurses.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902434</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Debbie</Fnames>
+            <Sname>Abrahams</Sname>
+            <Constit>Oldham East and Saddleworth</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps she is taking to tackle health inequalities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902435</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Gill</Fnames>
+            <Sname>Furniss</Sname>
+            <Constit>Sheffield, Brightside and Hillsborough</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps she is taking to improve bowel care for people with spinal injuries.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902436</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>10</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Antony</Fnames>
+            <Sname>Higginbotham</Sname>
+            <Constit>Burnley</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps her Department is taking to improve accident and emergency waiting times in east Lancashire.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902437</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>11</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>Rosena</Fnames>
+            <Sname>Allin-Khan</Sname>
+            <Constit>Tooting</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What assessment she has made of the adequacy of mental health support for NHS staff.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902439</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>12</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Lilian</Fnames>
+            <Sname>Greenwood</Sname>
+            <Constit>Nottingham South</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps she is taking to improve healthcare for women.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902440</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>13</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Alistair</Fnames>
+            <Sname>Strathern</Sname>
+            <Constit>Mid Bedfordshire</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps she is taking to improve patient access to primary care. </QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902441</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>14</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Kerry</Fnames>
+            <Sname>McCarthy</Sname>
+            <Constit>Bristol East</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps she is taking to improve patient access to primary care. </QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902445</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>15</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Rachel</Fnames>
+            <Sname>Hopkins</Sname>
+            <Constit>Luton South</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">What steps she is taking to improve patient access to primary care. </QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902447</UIN>
+        </OralQn>
+      </TargetGroup>
+      <TargetGroup>
+        <Time>12:15 pm</Time>
+        <TargetHead IsTopical="Y" DeptCount="1">the Secretary of State for Health and Social Care</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Mark</Fnames>
+            <Sname>Eastwood</Sname>
+            <Constit>Dewsbury</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="Y">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902452</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title>Sir</Title>
+            <Fnames>John</Fnames>
+            <Sname>Whittingdale</Sname>
+            <Constit>Maldon</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902453</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>Lisa</Fnames>
+            <Sname>Cameron</Sname>
+            <Constit>East Kilbride, Strathaven and Lesmahagow</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902454</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Helen</Fnames>
+            <Sname>Hayes</Sname>
+            <Constit>Dulwich and West Norwood</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902455</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Richard</Fnames>
+            <Sname>Burgon</Sname>
+            <Constit>Leeds East</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902456</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Lee</Fnames>
+            <Sname>Anderson</Sname>
+            <Constit>Ashfield</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902458</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Ruth</Fnames>
+            <Sname>Cadbury</Sname>
+            <Constit>Brentford and Isleworth</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902459</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Alison</Fnames>
+            <Sname>Thewliss</Sname>
+            <Constit>Glasgow Central</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Health and Social Care</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>902460</UIN>
+        </OralQn>
+      </TargetGroup>
+    </OralSec>
+  </AnsDaySec>
+</OrderBk2Doc>

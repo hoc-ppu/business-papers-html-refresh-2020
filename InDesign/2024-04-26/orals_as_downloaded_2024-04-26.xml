@@ -1,0 +1,24 @@
+<OrderBk2Doc>
+  <HeadInfo>
+    <BeginDate>
+      <DayName>Friday</DayName>
+      <DayNum>26</DayNum>
+      <Month>April</Month>
+      <Year>2024</Year>
+    </BeginDate>
+    <AnsFromDate>
+      <DayName>Friday</DayName>
+      <DayNum>26</DayNum>
+      <Month>April</Month>
+      <Year>2024</Year>
+    </AnsFromDate>
+  </HeadInfo>
+  <AnsDaySec Date="26/04/2024">
+    <AnsDate>
+      <DayName>Friday</DayName>
+      <DayNum>26</DayNum>
+      <Month>April</Month>
+    </AnsDate>
+    <OralSec />
+  </AnsDaySec>
+</OrderBk2Doc>
