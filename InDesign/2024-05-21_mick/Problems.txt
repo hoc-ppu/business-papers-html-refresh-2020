@@ -1,0 +1,55 @@
+See also OP240521 in pdfs to check
+InDesign
+2024-05-21
+
+Summary Agenda
+ 
+
+Effectives
+
+Questions sub heading
+Oral questions to the Secretary of State . . . is coming in as bulleted bold not Heading3Underlined
+
+Questions missing -
+18 Julian Sturdy (York Outer) (902946)
+19 Chris Clarkson (Heywood and Middleton) (902947)
+20 Marion Fellows (Motherwell and Wishaw) (902948)
+21 Mr Louie French (Old Bexley and Sidcup) (902949)
+22 Steven Bonnar (Coatbridge, Chryston and Bellshill) (902950)
+23 Alexander Stafford (Rother Valley) (902951)
+
+Urgent Questions and Statements
+
+Square bullet not coming in for the statement - asterisk is there instead
+
+Headings are sometimes in caps - as they come from portal
+
+Paras (4), subparas (a), subsubparas (i) not indenting - Need to manually indent
+
+Written Statements
+
+Not sure why but some department names do not come out in the correct alphabetical order. This is not a new thing that has happened.
+In this example Energy is out of order.
+
+Committee List
+Health and social Care Committee - National Guardianâ€™s Office Should be National Guardian's Office
+Treasury Committee - unnecessary ( at ) after name
+
+Announcements
+May be a portal thing but in the Whitsun Adjournment the Bold dates do not have a space in front of them
+Should table heading be with a tinted background? 
+
+Committee Reports
+Will need change case of the headings we receive from Word. 
+
+
+
+LARGE PRINT DOCUMENT
+If using the make 20pt script (VNP)
+Summary Agenda first column is always overset
+Question UINs are not being increased in size
+Also causes a problem with the right-hand folio
+
+
+
+
