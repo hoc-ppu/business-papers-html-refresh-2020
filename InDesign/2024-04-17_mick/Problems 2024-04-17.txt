@@ -1,0 +1,24 @@
+Summary
+Template needs adjusting to make text box full depth on page 1.
+Contents page needs adjusting to align at the top of the text area.
+
+
+Effectives
+
+Questions sub head coming in as bulleted bold - manually changed to Heading3underlined
+
+Not all of the questions came in.
+
+Item 4 Manually changed the numbered paras.
+
+CrossHeading para style needs font changing from 65 bold to Semibold
+
+Motion Sponsor Group para style tabs need equalising - they are currenty at 60mm, 120mm so the first two columns are 60mm and the third is only 45mm. The 160mm tab needs to be moved to the page margin to stop bringing in short words like Ms and Dr
+
+HTML created on 10/07/24
+Is not picking up anything after the contents. I have provided a picture of the warnings from Indesign - the warning about the contents always occurs but the text anchor. I think it's because the articles panel does not include the PrimaryFrame
+In Test of Articles panel I manually added the Primary Frame to the Articles Panel and it works ok. Or shall we just use "Based on page layout" for the html production.
+.
+
+
+
