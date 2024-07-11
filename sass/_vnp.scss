@@ -1,4 +1,5 @@
 
+@use 'sass:math';
 @import 'variables.scss';
 
 
@@ -29,7 +30,7 @@ span.number{
 }
 
 .numbered.InDesignBold + p{
-    margin-top: -$para-spacing/2
+    margin-top: math.div( - $para-spacing, 2)
 }
 
 /*add space arround signatures*/
