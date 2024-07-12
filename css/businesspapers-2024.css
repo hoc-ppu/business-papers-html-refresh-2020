@@ -669,5 +669,125 @@ a.toc-link:hover {
 }
 
 /* ------ End of Automatic Toc  ------------- */
+/*#region Variables */
+/*#endregion Variables */
+/*#region Headings */
+.DocumentTitle {
+  border-bottom: 1px solid;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  padding-bottom: 0.5em;
+  text-transform: uppercase;
+}
 
-/*# sourceMappingURL=businesspapers.css.map */
+.MainTitle {
+  border-bottom: 1px solid;
+  font-size: 1.618em;
+  font-weight: 500;
+  padding-bottom: 0.5em;
+}
+
+.paraBusinessSub-SectionHeading {
+  font-size: 1.309em;
+  letter-spacing: 0.025em;
+  margin-right: 0;
+  margin-left: 0;
+  padding: 0.1em 3em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.Heading3Underlined {
+  border-bottom: 1px solid;
+  font-size: 1.309em;
+  font-weight: 500;
+  margin-top: 45px;
+  margin-bottom: 27px;
+  padding-bottom: 0.309em;
+}
+
+.paraChamberSummaryHeading {
+  text-transform: none;
+}
+
+.paraBusinessTodayChamberHeading {
+  margin-left: 0 !important;
+  text-align: center;
+  padding-left: 3em !important;
+  padding-right: 1em !important;
+}
+
+.paraBusinessItemHeading {
+  text-transform: none;
+}
+
+/*#endregion Headings */
+/*#region Paragraphs */
+.NumberedParaHanging {
+  margin-left: 2.2rem;
+}
+
+.NumberedParaHanging span {
+  display: inline-block;
+  margin-left: -2.2rem;
+  padding-right: 1rem;
+  text-align: right;
+  width: 2.2rem;
+}
+
+.paraMotionSub-Paragraph,
+.paraAmendmentSponsor {
+  margin-left: 2.2rem;
+}
+
+.paraAmendmentSponsor {
+  font-weight: 500;
+}
+
+.paraMotionSubSub-Paragraph {
+  margin-left: 4.4rem;
+}
+
+.MotionSponsorGroup_indent {
+  margin-left: 2.2rem;
+}
+
+/*#endregion Paragraphs */
+/*#region Tables */
+.Basic-Text-Frame table {
+  border: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-top: 45px;
+  margin-bottom: 27px;
+  width: 100%;
+}
+
+.Basic-Text-Frame table td {
+  border: 0;
+  padding: 0.5em;
+  vertical-align: top;
+}
+
+.Basic-Text-Frame table thead td {
+  background-color: #EAEAEA;
+  font-weight: 500;
+}
+
+.Basic-Text-Frame table thead td p {
+  margin: 0;
+}
+
+/*#endregion Tables*/
+/*#region Dividers */
+hr {
+  border-top: 1px solid;
+  display: block;
+  height: 1px;
+  padding: 1.55em 0;
+  width: 8em;
+}
+
+/*#endregion Dividers*/
+
+/*# sourceMappingURL=businesspapers-2024.css.map */
