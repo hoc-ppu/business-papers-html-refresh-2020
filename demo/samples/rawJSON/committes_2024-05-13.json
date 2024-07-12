@@ -1,0 +1,3460 @@
+{
+  "data": [
+    {
+      "id": 21568,
+      "name": "Visit to Washington D.C. and New York",
+      "startDate": "2024-05-12T00:00:00",
+      "endDate": "2024-05-17T00:00:00",
+      "startTime": null,
+      "startDateUtc": "2024-05-12T00:00:00+01:00",
+      "endDateUtc": "2024-05-17T00:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": null,
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Washington DC and New York, USA",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 365,
+          "name": "Business and Trade Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21006,
+      "name": "Visit to Berlin, Germany for the Children's social care inquiry 13-15 May",
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-15T00:00:00",
+      "startTime": "08:00:00",
+      "startDateUtc": "2024-05-13T08:00:00+01:00",
+      "endDateUtc": "2024-05-15T16:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "16:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Berlin, Germany",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 203,
+          "name": "Education Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21107,
+      "name": "Malawi visit",
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-17T00:00:00",
+      "startTime": null,
+      "startDateUtc": "2024-05-13T00:00:00+01:00",
+      "endDateUtc": "2024-05-17T00:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": null,
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Malawi",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 98,
+          "name": "International Development Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21134,
+      "name": null,
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "09:00:00",
+      "startDateUtc": "2024-05-13T09:00:00+01:00",
+      "endDateUtc": "2024-05-16T13:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "13:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Glasgow and the Outer Hebrides",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 378,
+          "name": "Culture, Media and Sport Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21297,
+      "name": null,
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "16:30:00",
+      "startDateUtc": "2024-05-13T16:30:00+01:00",
+      "endDateUtc": "2024-05-13T19:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "19:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 5, Palace of Westminster",
+      "locationId": 9,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 7,
+        "name": "Formal meeting (private meeting)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 2,
+          "name": "Administration Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 2,
+              "name": "Domestic"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28831,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "16:30:00",
+          "endTime": "19:30:00",
+          "startDateUtc": "2024-05-13T16:30:00+01:00",
+          "endDateUtc": "2024-05-13T19:30:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": null,
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 5, Palace of Westminster",
+          "locationId": 9,
+          "eventId": 21297,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21307,
+      "name": "Investigation into the UKHSA’s health security campus programme",
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "15:30:00",
+      "startDateUtc": "2024-05-13T15:30:00+01:00",
+      "endDateUtc": "2024-05-13T18:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "18:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "The Grimond Room, Portcullis House",
+      "locationId": 10,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-03-28T15:31:00",
+      "eventType": {
+        "id": 6,
+        "name": "Formal meeting (oral evidence session)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Physical meeting",
+      "committees": [
+        {
+          "id": 127,
+          "name": "Public Accounts Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28495,
+          "name": "Investigation into the UKHSA’s health security campus programme",
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "15:30:00",
+          "endTime": "16:00:00",
+          "startDateUtc": "2024-05-13T15:30:00+01:00",
+          "endDateUtc": "2024-05-13T16:00:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2024-03-28T15:32:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "The Grimond Room, Portcullis House",
+          "locationId": 10,
+          "eventId": 21307,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        },
+        {
+          "id": 28496,
+          "name": "Investigation into the UKHSA’s health security campus programme",
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "16:00:00",
+          "endTime": "18:00:00",
+          "startDateUtc": "2024-05-13T16:00:00+01:00",
+          "endDateUtc": "2024-05-13T18:00:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-03-28T15:33:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "The Grimond Room, Portcullis House",
+          "locationId": 10,
+          "eventId": 21307,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "UK Health Security Agency (UKHSA)",
+                  "role": "Chief Executive",
+                  "idmsId": null,
+                  "cisId": 95881
+                }
+              ],
+              "id": 24879,
+              "mnisPerson": null,
+              "person": {
+                "id": 80471,
+                "displayName": "Professor Dame Jenny Harries DBE",
+                "title": null,
+                "firstNames": "Professor Dame Jenny",
+                "lastName": "Harries DBE"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/80471"
+            },
+            {
+              "displayOrder": 2,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "UK Health Security Agency (UKHSA)",
+                  "role": "Strategy, Policy and Programmes and Programme Senior Responsible Officer",
+                  "idmsId": null,
+                  "cisId": 95881
+                }
+              ],
+              "id": 24880,
+              "mnisPerson": null,
+              "person": {
+                "id": 80472,
+                "displayName": "Scott McPherson",
+                "title": null,
+                "firstNames": "Scott",
+                "lastName": "McPherson"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/80472"
+            },
+            {
+              "displayOrder": 3,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Department of Health and Social Care",
+                  "role": "Second Permanent Secretary",
+                  "idmsId": "https://id.parliament.uk/GB3NbDt1",
+                  "cisId": 30011
+                }
+              ],
+              "id": 24881,
+              "mnisPerson": null,
+              "person": {
+                "id": 80473,
+                "displayName": "Shona Dunn CB",
+                "title": null,
+                "firstNames": "Shona",
+                "lastName": "Dunn CB"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/80473"
+            },
+            {
+              "displayOrder": 4,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "UK Health Security Agency (UKHSA)",
+                  "role": "Chief Financial Officer",
+                  "idmsId": null,
+                  "cisId": 95881
+                }
+              ],
+              "id": 25662,
+              "mnisPerson": null,
+              "person": {
+                "id": 1522,
+                "displayName": "Andrew Sanderson",
+                "title": null,
+                "firstNames": "Andrew Sanderson",
+                "lastName": "Sanderson"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/1522"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 8365,
+              "cmsId": 0,
+              "title": "Investigation into UKHSA Health Security Campus",
+              "openDate": "2024-03-22T00:00:00",
+              "closedDate": "2024-05-29T00:00:00",
+              "prefix": "HSC",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                127
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-03-22T11:47:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": [
+            {
+              "id": 14828,
+              "meetingDate": "2024-05-13T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": null,
+              "hcNumber": {
+                "number": "HC 651",
+                "sessionId": 38,
+                "sessionDescription": "2023-24"
+              },
+              "oralEvidenceWitnesses": [
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "UK Health Security Agency (UKHSA)",
+                      "role": "Chief Executive",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "UK Health Security Agency (UKHSA)",
+                      "role": "Strategy, Policy and Programmes and Programme Senior Responsible Officer",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Department of Health and Social Care",
+                      "role": "Second Permanent Secretary",
+                      "idmsId": "https://id.parliament.uk/GB3NbDt1",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "UK Health Security Agency (UKHSA)",
+                      "role": "Chief Financial Officer",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                }
+              ],
+              "isConfidential": false,
+              "document": {
+                "documentId": 222554,
+                "processingStatus": 4,
+                "files": [
+                  {
+                    "fileExtension": "docx",
+                    "fileName": "OE00014828.docx",
+                    "fileSize": 103014,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 8365,
+                  "cmsId": 0,
+                  "title": "Investigation into UKHSA Health Security Campus",
+                  "openDate": "2024-03-22T00:00:00",
+                  "closedDate": "2024-05-29T00:00:00",
+                  "prefix": "HSC",
+                  "contactName": null,
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    127
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2024-03-22T11:47:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            },
+            {
+              "id": 14860,
+              "meetingDate": "2024-05-13T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": "2024-05-21T14:06:49.3766667",
+              "hcNumber": {
+                "number": "HC 651",
+                "sessionId": 38,
+                "sessionDescription": "2023-24"
+              },
+              "oralEvidenceWitnesses": [
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "UK Health Security Agency (UKHSA)",
+                      "role": "Chief Executive",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "UK Health Security Agency (UKHSA)",
+                      "role": "Strategy, Policy and Programmes and Programme Senior Responsible Officer",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Department of Health and Social Care",
+                      "role": "Second Permanent Secretary",
+                      "idmsId": "https://id.parliament.uk/GB3NbDt1",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "UK Health Security Agency (UKHSA)",
+                      "role": "Chief Financial Officer",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                }
+              ],
+              "isConfidential": false,
+              "document": {
+                "documentId": 222783,
+                "processingStatus": 4,
+                "files": [
+                  {
+                    "fileExtension": "docx",
+                    "fileName": "OE00014860.docx",
+                    "fileSize": 110796,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 8365,
+                  "cmsId": 0,
+                  "title": "Investigation into UKHSA Health Security Campus",
+                  "openDate": "2024-03-22T00:00:00",
+                  "closedDate": "2024-05-29T00:00:00",
+                  "prefix": "HSC",
+                  "contactName": null,
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    127
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2024-03-22T11:47:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21418,
+      "name": "Oral evidence session",
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "16:00:00",
+      "startDateUtc": "2024-05-13T16:00:00+01:00",
+      "endDateUtc": "2024-05-13T18:00:00+01:00",
+      "cancelledDate": "2024-05-13T15:26:08.347+01:00",
+      "endTime": "18:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 15, Palace of Westminster",
+      "locationId": 8,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-07T10:00:00",
+      "eventType": {
+        "id": 6,
+        "name": "Formal meeting (oral evidence session)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Physical meeting",
+      "committees": [
+        {
+          "id": 126,
+          "name": "Procedure Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21424,
+      "name": null,
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "14:30:00",
+      "startDateUtc": "2024-05-13T14:30:00+01:00",
+      "endDateUtc": "2024-05-13T17:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "17:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 6, Palace of Westminster",
+      "locationId": 13,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-08T11:00:00",
+      "eventType": {
+        "id": 6,
+        "name": "Formal meeting (oral evidence session)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Physical meeting",
+      "committees": [
+        {
+          "id": 136,
+          "name": "Scottish Affairs Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28652,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "14:30:00",
+          "endTime": "15:00:00",
+          "startDateUtc": "2024-05-13T14:30:00+01:00",
+          "endDateUtc": "2024-05-13T15:00:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": null,
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 6, Palace of Westminster",
+          "locationId": 13,
+          "eventId": 21424,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        },
+        {
+          "id": 28653,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "15:00:00",
+          "endTime": "15:30:00",
+          "startDateUtc": "2024-05-13T15:00:00+01:00",
+          "endDateUtc": "2024-05-13T15:30:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-08T11:00:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "Room 6, Palace of Westminster",
+          "locationId": 13,
+          "eventId": 21424,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Civil Aviation Authority",
+                  "role": "Head of Space Regulation",
+                  "idmsId": "https://id.parliament.uk/almCElIU",
+                  "cisId": 24156
+                }
+              ],
+              "id": 25157,
+              "mnisPerson": null,
+              "person": {
+                "id": 49514,
+                "displayName": "Colin Macleod",
+                "title": null,
+                "firstNames": "Colin",
+                "lastName": "Macleod"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/49514"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 7776,
+              "cmsId": 0,
+              "title": "Scotland's space sector",
+              "openDate": "2023-06-22T00:00:00",
+              "closedDate": "2024-05-24T00:00:00",
+              "prefix": "SSS",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                136
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2023-06-22T08:45:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": [
+            {
+              "id": 14824,
+              "meetingDate": "2024-05-13T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": "2024-05-17T09:08:41.76",
+              "hcNumber": {
+                "number": "HC 150",
+                "sessionId": 38,
+                "sessionDescription": "2023-24"
+              },
+              "oralEvidenceWitnesses": [
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Civil Aviation Authority",
+                      "role": "Head of Space Regulation",
+                      "idmsId": "https://id.parliament.uk/almCElIU",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                }
+              ],
+              "isConfidential": false,
+              "document": {
+                "documentId": 222548,
+                "processingStatus": 4,
+                "files": [
+                  {
+                    "fileExtension": "docx",
+                    "fileName": "OE00014824.docx",
+                    "fileSize": 125201,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 7776,
+                  "cmsId": 0,
+                  "title": "Scotland's space sector",
+                  "openDate": "2023-06-22T00:00:00",
+                  "closedDate": "2024-05-24T00:00:00",
+                  "prefix": "SSS",
+                  "contactName": null,
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    136
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2023-06-22T08:45:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 28654,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "15:30:00",
+          "endTime": "16:30:00",
+          "startDateUtc": "2024-05-13T15:30:00+01:00",
+          "endDateUtc": "2024-05-13T16:30:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-08T11:00:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "Room 6, Palace of Westminster",
+          "locationId": 13,
+          "eventId": 21424,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 2,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Scottish Government",
+                  "role": "Unit Head, New Market Clusters Unit",
+                  "idmsId": "https://id.parliament.uk/od1yF1Zv",
+                  "cisId": 73032
+                }
+              ],
+              "id": 25270,
+              "mnisPerson": null,
+              "person": {
+                "id": 58206,
+                "displayName": "Scott McClelland",
+                "title": null,
+                "firstNames": "Scott",
+                "lastName": "McClelland"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/58206"
+            },
+            {
+              "displayOrder": 3,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Scottish Government",
+                  "role": "Team Leader, New Market Clusters Unit",
+                  "idmsId": "https://id.parliament.uk/od1yF1Zv",
+                  "cisId": 73032
+                }
+              ],
+              "id": 25273,
+              "mnisPerson": null,
+              "person": {
+                "id": 52809,
+                "displayName": "Rory McGregor",
+                "title": null,
+                "firstNames": "Rory",
+                "lastName": "McGregor"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/52809"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 7776,
+              "cmsId": 0,
+              "title": "Scotland's space sector",
+              "openDate": "2023-06-22T00:00:00",
+              "closedDate": "2024-05-24T00:00:00",
+              "prefix": "SSS",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                136
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2023-06-22T08:45:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": [
+            {
+              "id": 14826,
+              "meetingDate": "2024-05-13T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": "2024-05-17T09:09:43.91",
+              "hcNumber": {
+                "number": "HC 150",
+                "sessionId": 38,
+                "sessionDescription": "2023-24"
+              },
+              "oralEvidenceWitnesses": [
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Scottish Government",
+                      "role": "Unit Head, New Market Clusters Unit",
+                      "idmsId": "https://id.parliament.uk/od1yF1Zv",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Scottish Government",
+                      "role": "Team Leader, New Market Clusters Unit",
+                      "idmsId": "https://id.parliament.uk/od1yF1Zv",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                }
+              ],
+              "isConfidential": false,
+              "document": {
+                "documentId": 222550,
+                "processingStatus": 4,
+                "files": [
+                  {
+                    "fileExtension": "docx",
+                    "fileName": "OE00014826.docx",
+                    "fileSize": 125201,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 7776,
+                  "cmsId": 0,
+                  "title": "Scotland's space sector",
+                  "openDate": "2023-06-22T00:00:00",
+                  "closedDate": "2024-05-24T00:00:00",
+                  "prefix": "SSS",
+                  "contactName": null,
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    136
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2023-06-22T08:45:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 28655,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "16:30:00",
+          "endTime": "17:30:00",
+          "startDateUtc": "2024-05-13T16:30:00+01:00",
+          "endDateUtc": "2024-05-13T17:30:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-08T11:00:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "Room 6, Palace of Westminster",
+          "locationId": 13,
+          "eventId": 21424,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Office of the Secretary of State for Scotland",
+                  "role": "Parliamentary Under-Secretary of State",
+                  "idmsId": null,
+                  "cisId": 4764
+                }
+              ],
+              "id": 25160,
+              "mnisPerson": {
+                "id": 5012,
+                "dodsId": "",
+                "displayName": "Lord Cameron of Lochiel",
+                "fullTitle": "The Lord Cameron of Lochiel",
+                "currentStatus": {
+                  "activeText": "True",
+                  "name": "Current Member",
+                  "isActive": true
+                },
+                "layingMinisterName": "Lord Cameron of Lochiel",
+                "memberFrom": "Life peer",
+                "gender": "M",
+                "house": 2,
+                "partyColour": "0000ff",
+                "party": "Conservative",
+                "partyId": 4,
+                "title": "",
+                "surname": "Cameron",
+                "forenames": "Donald",
+                "listAs": "Cameron of Lochiel, L.",
+                "email": null,
+                "partyTextColour": "ffffff"
+              },
+              "person": null,
+              "personType": 1,
+              "photoUrl": "http://data.parliament.uk/membersdataplatform/services/images/MemberPhoto/5012"
+            },
+            {
+              "displayOrder": 2,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "UK Space Agency",
+                  "role": "Chief Executive",
+                  "idmsId": "https://id.parliament.uk/6f5META5",
+                  "cisId": 82058
+                }
+              ],
+              "id": 25599,
+              "mnisPerson": null,
+              "person": {
+                "id": 51676,
+                "displayName": "Dr Paul Bate",
+                "title": "Dr",
+                "firstNames": "Paul",
+                "lastName": "Bate"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/51676"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 7776,
+              "cmsId": 0,
+              "title": "Scotland's space sector",
+              "openDate": "2023-06-22T00:00:00",
+              "closedDate": "2024-05-24T00:00:00",
+              "prefix": "SSS",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                136
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2023-06-22T08:45:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": [
+            {
+              "id": 14827,
+              "meetingDate": "2024-05-13T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": "2024-05-17T09:10:48.5766667",
+              "hcNumber": {
+                "number": "HC 150",
+                "sessionId": 38,
+                "sessionDescription": "2023-24"
+              },
+              "oralEvidenceWitnesses": [
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Office of the Secretary of State for Scotland",
+                      "role": "Parliamentary Under-Secretary of State",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 1,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "UK Space Agency",
+                      "role": "Chief Executive",
+                      "idmsId": "https://id.parliament.uk/6f5META5",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                }
+              ],
+              "isConfidential": false,
+              "document": {
+                "documentId": 222551,
+                "processingStatus": 4,
+                "files": [
+                  {
+                    "fileExtension": "docx",
+                    "fileName": "OE00014827.docx",
+                    "fileSize": 125201,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 7776,
+                  "cmsId": 0,
+                  "title": "Scotland's space sector",
+                  "openDate": "2023-06-22T00:00:00",
+                  "closedDate": "2024-05-24T00:00:00",
+                  "prefix": "SSS",
+                  "contactName": null,
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    136
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2023-06-22T08:45:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21467,
+      "name": null,
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "15:00:00",
+      "startDateUtc": "2024-05-13T15:00:00+01:00",
+      "endDateUtc": "2024-05-13T17:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "17:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Room 2, Palace of Westminster",
+      "locationId": 25,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-04-24T11:02:00",
+      "eventType": {
+        "id": 6,
+        "name": "Formal meeting (oral evidence session)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Hybrid",
+      "committees": [
+        {
+          "id": 701,
+          "name": "Preterm Birth Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 11,
+              "name": "(HL) Investigative"
+            },
+            {
+              "id": 12,
+              "name": "(HL) Committee Office"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28839,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "15:15:00",
+          "endTime": "16:15:00",
+          "startDateUtc": "2024-05-13T15:15:00+01:00",
+          "endDateUtc": "2024-05-13T16:15:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-04-30T09:10:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "Room 2, Palace of Westminster",
+          "locationId": 25,
+          "eventId": 21467,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 2,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "NHS Birmingham and Solihull ICB",
+                  "role": "Deputy Chief Medical Officer",
+                  "idmsId": null,
+                  "cisId": 101616
+                }
+              ],
+              "id": 25613,
+              "mnisPerson": null,
+              "person": {
+                "id": 81802,
+                "displayName": "Sam Pretlove",
+                "title": null,
+                "firstNames": "Sam",
+                "lastName": "Pretlove"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/81802"
+            },
+            {
+              "displayOrder": 3,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "NHS Somerset ICB",
+                  "role": "LMNS Clinical Programme Lead",
+                  "idmsId": null,
+                  "cisId": 101617
+                }
+              ],
+              "id": 25614,
+              "mnisPerson": null,
+              "person": {
+                "id": 81803,
+                "displayName": "Caroline Lacy",
+                "title": null,
+                "firstNames": "Caroline",
+                "lastName": "Lacy"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/81803"
+            },
+            {
+              "displayOrder": 4,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "NHS Cheshire & Merseyside ICB",
+                  "role": "Director of Women’s Health and Maternity Programme and LMNS Senior Responsible Officer at NHS Cheshire & Merseyside ICB",
+                  "idmsId": null,
+                  "cisId": 101615
+                }
+              ],
+              "id": 25627,
+              "mnisPerson": null,
+              "person": {
+                "id": 81814,
+                "displayName": "Catherine McCLennan",
+                "title": null,
+                "firstNames": "Catherine",
+                "lastName": "McCLennan"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/81814"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 8208,
+              "cmsId": 0,
+              "title": "Preterm Birth",
+              "openDate": "2024-01-29T00:00:00",
+              "closedDate": null,
+              "prefix": "PRT",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                701
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-01-29T15:25:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": [
+            {
+              "id": 14815,
+              "meetingDate": "2024-05-13T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": "2024-05-22T10:39:12.31",
+              "hcNumber": null,
+              "oralEvidenceWitnesses": [
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "NHS Birmingham and Solihull ICB",
+                      "role": "Deputy Chief Medical Officer",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "NHS Somerset ICB",
+                      "role": "LMNS Clinical Programme Lead",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "NHS Cheshire & Merseyside ICB",
+                      "role": "Director of Women’s Health and Maternity Programme and LMNS Senior Responsible Officer at NHS Cheshire & Merseyside ICB",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                }
+              ],
+              "isConfidential": false,
+              "document": {
+                "documentId": 223914,
+                "processingStatus": 4,
+                "files": [
+                  {
+                    "fileExtension": "docx",
+                    "fileName": "OE00014815.docx",
+                    "fileSize": 66497,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 8208,
+                  "cmsId": 0,
+                  "title": "Preterm Birth",
+                  "openDate": "2024-01-29T00:00:00",
+                  "closedDate": null,
+                  "prefix": "PRT",
+                  "contactName": null,
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    701
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2024-01-29T15:25:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 28951,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "15:00:00",
+          "endTime": "15:15:00",
+          "startDateUtc": "2024-05-13T15:00:00+01:00",
+          "endDateUtc": "2024-05-13T15:15:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2024-05-07T10:42:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 2, Palace of Westminster",
+          "locationId": 25,
+          "eventId": 21467,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8208,
+              "cmsId": 0,
+              "title": "Preterm Birth",
+              "openDate": "2024-01-29T00:00:00",
+              "closedDate": null,
+              "prefix": "PRT",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                701
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-01-29T15:25:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21505,
+      "name": "Formal Evidence Session",
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "15:30:00",
+      "startDateUtc": "2024-05-13T15:30:00+01:00",
+      "endDateUtc": "2024-05-13T18:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "18:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 16, Palace of Westminster",
+      "locationId": 12,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-09T09:00:00",
+      "eventType": {
+        "id": 6,
+        "name": "Formal meeting (oral evidence session)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Physical meeting",
+      "committees": [
+        {
+          "id": 17,
+          "name": "Levelling Up, Housing and Communities Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28782,
+          "name": "Private discussion",
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "15:30:00",
+          "endTime": "16:00:00",
+          "startDateUtc": "2024-05-13T15:30:00+01:00",
+          "endDateUtc": "2024-05-13T16:00:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": null,
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 16, Palace of Westminster",
+          "locationId": 12,
+          "eventId": 21505,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        },
+        {
+          "id": 28784,
+          "name": "Oral Evidence",
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "16:00:00",
+          "endTime": "17:00:00",
+          "startDateUtc": "2024-05-13T16:00:00+01:00",
+          "endDateUtc": "2024-05-13T17:00:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-09T09:00:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "Room 16, Palace of Westminster",
+          "locationId": 12,
+          "eventId": 21505,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Home Buying and Selling Group",
+                  "role": "Chair",
+                  "idmsId": null,
+                  "cisId": 101389
+                }
+              ],
+              "id": 25572,
+              "mnisPerson": null,
+              "person": {
+                "id": 81766,
+                "displayName": "Kate Faulkner",
+                "title": null,
+                "firstNames": "Kate",
+                "lastName": "Faulkner"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/81766"
+            },
+            {
+              "displayOrder": 2,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "HomeOwners Alliance",
+                  "role": "Chief Executive",
+                  "idmsId": null,
+                  "cisId": 99365
+                }
+              ],
+              "id": 25573,
+              "mnisPerson": null,
+              "person": {
+                "id": 81767,
+                "displayName": "Paula Higgins",
+                "title": null,
+                "firstNames": "Paula",
+                "lastName": "Higgins"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/81767"
+            },
+            {
+              "displayOrder": 3,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Open Property Data Association",
+                  "role": "Chair",
+                  "idmsId": null,
+                  "cisId": 101313
+                }
+              ],
+              "id": 25574,
+              "mnisPerson": null,
+              "person": {
+                "id": 81768,
+                "displayName": "Maria Harris",
+                "title": null,
+                "firstNames": "Maria",
+                "lastName": "Harris"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/81768"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 8373,
+              "cmsId": 0,
+              "title": "Improving the home buying and selling process",
+              "openDate": "2024-03-25T00:00:00",
+              "closedDate": "2024-05-28T00:00:00",
+              "prefix": "HBS",
+              "contactName": "Helena Carthew",
+              "email": null,
+              "telephone": null,
+              "committees": [
+                17
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-03-26T10:50:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": [
+            {
+              "id": 14825,
+              "meetingDate": "2024-05-13T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": "2024-05-17T09:09:21.2933333",
+              "hcNumber": {
+                "number": "HC 678",
+                "sessionId": 38,
+                "sessionDescription": "2023-24"
+              },
+              "oralEvidenceWitnesses": [],
+              "isConfidential": false,
+              "document": {
+                "documentId": 222549,
+                "processingStatus": 4,
+                "files": [
+                  {
+                    "fileExtension": "docx",
+                    "fileName": "OE00014825.docx",
+                    "fileSize": 141993,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 8373,
+                  "cmsId": 0,
+                  "title": "Improving the home buying and selling process",
+                  "openDate": "2024-03-25T00:00:00",
+                  "closedDate": "2024-05-28T00:00:00",
+                  "prefix": "HBS",
+                  "contactName": "Helena Carthew",
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    17
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2024-03-26T10:50:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 28785,
+          "name": "Oral Evidence",
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "17:00:00",
+          "endTime": "18:00:00",
+          "startDateUtc": "2024-05-13T17:00:00+01:00",
+          "endDateUtc": "2024-05-13T18:00:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-09T09:00:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "Room 16, Palace of Westminster",
+          "locationId": 12,
+          "eventId": 21505,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "The Royal Institution of Chartered Surveyors (RICS)",
+                  "role": "RICS Senior Property Specialist",
+                  "idmsId": null,
+                  "cisId": 1272
+                }
+              ],
+              "id": 25575,
+              "mnisPerson": null,
+              "person": {
+                "id": 81769,
+                "displayName": "Mairead Carroll",
+                "title": null,
+                "firstNames": "Mairead",
+                "lastName": "Carroll"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/81769"
+            },
+            {
+              "displayOrder": 2,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Propertymark",
+                  "role": "Head of Policy and Campaigns",
+                  "idmsId": null,
+                  "cisId": 5178
+                }
+              ],
+              "id": 25576,
+              "mnisPerson": null,
+              "person": {
+                "id": 81770,
+                "displayName": "Timothy Douglas",
+                "title": null,
+                "firstNames": "Timothy",
+                "lastName": "Douglas"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/81770"
+            },
+            {
+              "displayOrder": 3,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "The Conveyancing Association",
+                  "role": "Director of Delivery",
+                  "idmsId": null,
+                  "cisId": 101401
+                }
+              ],
+              "id": 25577,
+              "mnisPerson": null,
+              "person": {
+                "id": 81771,
+                "displayName": "Beth Rudolf",
+                "title": null,
+                "firstNames": "Beth",
+                "lastName": "Rudolf"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/81771"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 8373,
+              "cmsId": 0,
+              "title": "Improving the home buying and selling process",
+              "openDate": "2024-03-25T00:00:00",
+              "closedDate": "2024-05-28T00:00:00",
+              "prefix": "HBS",
+              "contactName": "Helena Carthew",
+              "email": null,
+              "telephone": null,
+              "committees": [
+                17
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-03-26T10:50:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21534,
+      "name": "Formal meeting (oral evidence session) - 15:30 - 18:00 Mon 13 May 2024",
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "15:30:00",
+      "startDateUtc": "2024-05-13T15:30:00+01:00",
+      "endDateUtc": "2024-05-13T18:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "18:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Room 3, Palace of Westminster",
+      "locationId": 26,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-04-30T16:09:00",
+      "eventType": {
+        "id": 6,
+        "name": "Formal meeting (oral evidence session)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Hybrid - Private support requested",
+      "committees": [
+        {
+          "id": 700,
+          "name": "Modern Slavery Act 2015 Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 11,
+              "name": "(HL) Investigative"
+            },
+            {
+              "id": 12,
+              "name": "(HL) Committee Office"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28862,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "15:30:00",
+          "endTime": "15:35:00",
+          "startDateUtc": "2024-05-13T15:30:00+01:00",
+          "endDateUtc": "2024-05-13T15:35:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2024-05-09T09:54:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 3, Palace of Westminster",
+          "locationId": 26,
+          "eventId": 21534,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8206,
+              "cmsId": 0,
+              "title": "Modern Slavery Act 2015",
+              "openDate": "2024-01-29T00:00:00",
+              "closedDate": null,
+              "prefix": "MSA",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                700
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-01-29T15:23:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        },
+        {
+          "id": 28863,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "15:35:00",
+          "endTime": "16:35:00",
+          "startDateUtc": "2024-05-13T15:35:00+01:00",
+          "endDateUtc": "2024-05-13T16:35:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-09T09:53:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "Room 3, Palace of Westminster",
+          "locationId": 26,
+          "eventId": 21534,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Care Quality Commission (CQC)",
+                  "role": "Interim Chief Inspector for Adult Social Care",
+                  "idmsId": null,
+                  "cisId": 89178
+                }
+              ],
+              "id": 25628,
+              "mnisPerson": null,
+              "person": {
+                "id": 71632,
+                "displayName": "James Bullion",
+                "title": null,
+                "firstNames": "James",
+                "lastName": "Bullion"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/71632"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 8206,
+              "cmsId": 0,
+              "title": "Modern Slavery Act 2015",
+              "openDate": "2024-01-29T00:00:00",
+              "closedDate": null,
+              "prefix": "MSA",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                700
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-01-29T15:23:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": [
+            {
+              "id": 14809,
+              "meetingDate": "2024-05-13T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": null,
+              "hcNumber": null,
+              "oralEvidenceWitnesses": [],
+              "isConfidential": false,
+              "document": null,
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 8206,
+                  "cmsId": 0,
+                  "title": "Modern Slavery Act 2015",
+                  "openDate": "2024-01-29T00:00:00",
+                  "closedDate": null,
+                  "prefix": "MSA",
+                  "contactName": null,
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    700
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2024-01-29T15:23:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            },
+            {
+              "id": 14810,
+              "meetingDate": "2024-05-13T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": "2024-05-15T16:14:33.0033333",
+              "hcNumber": null,
+              "oralEvidenceWitnesses": [
+                {
+                  "submitterType": 1,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Care Quality Commission (CQC)",
+                      "role": "Interim Chief Inspector for Adult Social Care",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": {
+                    "id": 71632,
+                    "displayName": "James Bullion",
+                    "title": null,
+                    "firstNames": "James",
+                    "lastName": "Bullion"
+                  },
+                  "personType": 0,
+                  "photoUrl": "/committees/personimage/71632"
+                }
+              ],
+              "isConfidential": false,
+              "document": {
+                "documentId": 222477,
+                "processingStatus": 4,
+                "files": [
+                  {
+                    "fileExtension": "docx",
+                    "fileName": "OE00014810.docx",
+                    "fileSize": 43563,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 8206,
+                  "cmsId": 0,
+                  "title": "Modern Slavery Act 2015",
+                  "openDate": "2024-01-29T00:00:00",
+                  "closedDate": null,
+                  "prefix": "MSA",
+                  "contactName": null,
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    700
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2024-01-29T15:23:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21593,
+      "name": "Oral Evidence Session",
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "15:15:00",
+      "startDateUtc": "2024-05-13T15:15:00+01:00",
+      "endDateUtc": "2024-05-13T16:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "16:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "The Thatcher Room, Portcullis House",
+      "locationId": 3,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-07T15:45:00",
+      "eventType": {
+        "id": 6,
+        "name": "Formal meeting (oral evidence session)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Hybrid meeting",
+      "committees": [
+        {
+          "id": 24,
+          "name": "Defence Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28971,
+          "name": "Private Meeting",
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "15:15:00",
+          "endTime": "15:30:00",
+          "startDateUtc": "2024-05-13T15:15:00+01:00",
+          "endDateUtc": "2024-05-13T15:30:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": null,
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "The Thatcher Room, Portcullis House",
+          "locationId": 3,
+          "eventId": 21593,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        },
+        {
+          "id": 28972,
+          "name": "Panel 1",
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "15:30:00",
+          "endTime": "16:30:00",
+          "startDateUtc": "2024-05-13T15:30:00+01:00",
+          "endDateUtc": "2024-05-13T16:30:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-07T15:47:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "The Thatcher Room, Portcullis House",
+          "locationId": 3,
+          "eventId": 21593,
+          "notes": "Virtual witness.",
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "NATO",
+                  "role": "Deputy Assistant Secretary General for Innovation, Hybrid and Cyber",
+                  "idmsId": "https://id.parliament.uk/nNXFd3mO",
+                  "cisId": 59236
+                }
+              ],
+              "id": 25567,
+              "mnisPerson": null,
+              "person": {
+                "id": 81716,
+                "displayName": "James Appathurai",
+                "title": null,
+                "firstNames": "James",
+                "lastName": "Appathurai"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/81716"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 7937,
+              "cmsId": 0,
+              "title": "Defence in the Grey Zone",
+              "openDate": "2023-09-18T00:00:00",
+              "closedDate": "2024-05-24T00:00:00",
+              "prefix": "dgz",
+              "contactName": "Nigel Vinson",
+              "email": "vinsonn@parliament.uk",
+              "telephone": "3824",
+              "committees": [
+                24
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2023-09-18T15:01:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": [
+            {
+              "id": 14812,
+              "meetingDate": "2024-05-13T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": "2024-05-15T16:43:21.0433333",
+              "hcNumber": {
+                "number": "HC 50",
+                "sessionId": 38,
+                "sessionDescription": "2023-24"
+              },
+              "oralEvidenceWitnesses": [
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "NATO",
+                      "role": "Deputy Assistant Secretary General for Innovation, Hybrid and Cyber",
+                      "idmsId": "https://id.parliament.uk/nNXFd3mO",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                }
+              ],
+              "isConfidential": false,
+              "document": {
+                "documentId": 223744,
+                "processingStatus": 4,
+                "files": [
+                  {
+                    "fileExtension": "doc",
+                    "fileName": "OE00014812.doc",
+                    "fileSize": 175104,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 7937,
+                  "cmsId": 0,
+                  "title": "Defence in the Grey Zone",
+                  "openDate": "2023-09-18T00:00:00",
+                  "closedDate": "2024-05-24T00:00:00",
+                  "prefix": "dgz",
+                  "contactName": "Nigel Vinson",
+                  "email": "vinsonn@parliament.uk",
+                  "telephone": "3824",
+                  "committees": [
+                    24
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2023-09-18T15:01:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21598,
+      "name": null,
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "16:30:00",
+      "startDateUtc": "2024-05-13T16:30:00+01:00",
+      "endDateUtc": "2024-05-13T19:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "19:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 9, Palace of Westminster",
+      "locationId": 21,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-08T07:47:00",
+      "eventType": {
+        "id": 1,
+        "name": "Formal meeting",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 410,
+          "name": "First Delegated Legislation Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 17,
+              "name": "Delegated legislation committee"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28978,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "16:30:00",
+          "endTime": "19:30:00",
+          "startDateUtc": "2024-05-13T16:30:00+01:00",
+          "endDateUtc": "2024-05-13T19:30:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-08T07:47:00",
+          "activityType": {
+            "id": 8,
+            "name": "Debate",
+            "isPrivate": false
+          },
+          "locationName": "Room 9, Palace of Westminster",
+          "locationId": 21,
+          "eventId": 21598,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8446,
+              "cmsId": 0,
+              "title": "The draft Carbon Capture Revenue Support (Directions, Eligibility and Counterparty) Regulations 2024",
+              "openDate": "2024-05-08T00:00:00",
+              "closedDate": "2024-05-30T00:01:00",
+              "prefix": "DLC1",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                410
+              ],
+              "committeeBusinessType": {
+                "id": 3,
+                "name": "Legislative scrutiny",
+                "isInquiry": false,
+                "description": "Legislative scrutiny focuses on a particular piece of legislation, sometimes in draft form. The committee might consider it in private, or may take evidence.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-05-08T07:46:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            },
+            {
+              "id": 8447,
+              "cmsId": 0,
+              "title": "The draft Carbon Dioxide Transport and Storage Revenue Support (Directions and Counterparty) Regulations 2024",
+              "openDate": "2024-05-08T00:00:00",
+              "closedDate": "2024-05-30T00:01:00",
+              "prefix": "DLC1",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                410
+              ],
+              "committeeBusinessType": {
+                "id": 3,
+                "name": "Legislative scrutiny",
+                "isInquiry": false,
+                "description": "Legislative scrutiny focuses on a particular piece of legislation, sometimes in draft form. The committee might consider it in private, or may take evidence.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-05-08T07:47:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21599,
+      "name": null,
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "16:30:00",
+      "startDateUtc": "2024-05-13T16:30:00+01:00",
+      "endDateUtc": "2024-05-13T18:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "18:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 11, Palace of Westminster",
+      "locationId": 38,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-08T07:49:00",
+      "eventType": {
+        "id": 1,
+        "name": "Formal meeting",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 411,
+          "name": "Second Delegated Legislation Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 17,
+              "name": "Delegated legislation committee"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28979,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "16:30:00",
+          "endTime": "18:00:00",
+          "startDateUtc": "2024-05-13T16:30:00+01:00",
+          "endDateUtc": "2024-05-13T18:00:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-08T07:50:00",
+          "activityType": {
+            "id": 8,
+            "name": "Debate",
+            "isPrivate": false
+          },
+          "locationName": "Room 11, Palace of Westminster",
+          "locationId": 38,
+          "eventId": 21599,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8448,
+              "cmsId": 0,
+              "title": "The draft Product Safety and Metrology etc. (Amendment) Regulations 2024",
+              "openDate": "2024-05-08T00:00:00",
+              "closedDate": "2024-05-30T00:01:00",
+              "prefix": "DLC2",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                411
+              ],
+              "committeeBusinessType": {
+                "id": 3,
+                "name": "Legislative scrutiny",
+                "isInquiry": false,
+                "description": "Legislative scrutiny focuses on a particular piece of legislation, sometimes in draft form. The committee might consider it in private, or may take evidence.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-05-08T07:49:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21600,
+      "name": null,
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "18:00:00",
+      "startDateUtc": "2024-05-13T18:00:00+01:00",
+      "endDateUtc": "2024-05-13T19:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "19:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 12, Palace of Westminster",
+      "locationId": 39,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-08T07:52:00",
+      "eventType": {
+        "id": 1,
+        "name": "Formal meeting",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 421,
+          "name": "Third Delegated Legislation Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 17,
+              "name": "Delegated legislation committee"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28980,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "18:00:00",
+          "endTime": "19:30:00",
+          "startDateUtc": "2024-05-13T18:00:00+01:00",
+          "endDateUtc": "2024-05-13T19:30:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-08T07:52:00",
+          "activityType": {
+            "id": 8,
+            "name": "Debate",
+            "isPrivate": false
+          },
+          "locationName": "Room 12, Palace of Westminster",
+          "locationId": 39,
+          "eventId": 21600,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8449,
+              "cmsId": 0,
+              "title": "The draft International Monetary Fund (Increase in Subscription) Order 2024",
+              "openDate": "2024-05-08T00:00:00",
+              "closedDate": "2024-05-30T00:01:00",
+              "prefix": "DLC3",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                421
+              ],
+              "committeeBusinessType": {
+                "id": 3,
+                "name": "Legislative scrutiny",
+                "isInquiry": false,
+                "description": "Legislative scrutiny focuses on a particular piece of legislation, sometimes in draft form. The committee might consider it in private, or may take evidence.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-05-08T07:51:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21616,
+      "name": null,
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "18:00:00",
+      "startDateUtc": "2024-05-13T18:00:00+01:00",
+      "endDateUtc": "2024-05-13T20:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "20:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 10, Palace of Westminster ",
+      "locationId": 22,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-08T12:38:00",
+      "eventType": {
+        "id": 1,
+        "name": "Formal meeting",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 728,
+          "name": "Football Governance Bill: Programming sub-committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 15,
+              "name": "(HC) Public bill committee"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 29003,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "18:00:00",
+          "endTime": "20:00:00",
+          "startDateUtc": "2024-05-13T18:00:00+01:00",
+          "endDateUtc": "2024-05-13T20:00:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2024-05-08T12:38:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 10, Palace of Westminster ",
+          "locationId": 22,
+          "eventId": 21616,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21624,
+      "name": null,
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "16:00:00",
+      "startDateUtc": "2024-05-13T16:00:00+01:00",
+      "endDateUtc": "2024-05-13T17:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "17:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Room 4, Palace of Westminster",
+      "locationId": 27,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-09T10:24:00",
+      "eventType": {
+        "id": 7,
+        "name": "Formal meeting (private meeting)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Physical",
+      "committees": [
+        {
+          "id": 702,
+          "name": "Statutory Inquiries Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 11,
+              "name": "(HL) Investigative"
+            },
+            {
+              "id": 12,
+              "name": "(HL) Committee Office"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 29013,
+          "name": null,
+          "startDate": "2024-05-13T00:00:00",
+          "endDate": "2024-05-13T00:00:00",
+          "startTime": "16:00:00",
+          "endTime": "17:30:00",
+          "startDateUtc": "2024-05-13T16:00:00+01:00",
+          "endDateUtc": "2024-05-13T17:30:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2024-05-08T15:50:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 4, Palace of Westminster",
+          "locationId": 27,
+          "eventId": 21624,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8207,
+              "cmsId": 0,
+              "title": "Statutory Inquiries",
+              "openDate": "2024-01-29T00:00:00",
+              "closedDate": null,
+              "prefix": "STI",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                702
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-01-29T15:24:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21662,
+      "name": null,
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-13T00:00:00",
+      "startTime": "14:15:00",
+      "startDateUtc": "2024-05-13T14:15:00+01:00",
+      "endDateUtc": "2024-05-13T16:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "16:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Serious Fraud Office",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 102,
+          "name": "Justice Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    }
+  ],
+  "totalResults": 18,
+  "pagination": {
+    "totalPages": 1,
+    "currentPage": 0,
+    "recordsPerPage": 18,
+    "firstPage": 0,
+    "lastPage": 18,
+    "nextPage": null,
+    "previousPage": 0
+  }
+}
