@@ -25,6 +25,7 @@
     "sass": "^1.77.6"
   },
   "dependencies": {
-    "@compodoc/live-server": "^1.2.2"
+    "@compodoc/live-server": "^1.2.2",
+    "live-server": "^1.2.2"
   }
 }

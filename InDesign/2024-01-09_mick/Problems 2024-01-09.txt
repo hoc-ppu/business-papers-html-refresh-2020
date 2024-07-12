@@ -1,6 +1,11 @@
+There are also marked up pdfs in pdfs to check
+
 Questions
 
 Sub heading is tagged as bulleted which is mapped to bulleted bold so I changed it to Heading3underlined.
+
+Not all of the questions were downloaded comparing to the actual OP online - Missing 17 Kevin Foster . (900811),
+18 Paul Blomfield  . (900812), 21 Alun Cairns (900815), 22 Julian Sturdy  (900816)
 
 Business of the Day
 Item 2
@@ -16,3 +21,6 @@ Levelling Up, Housing and Communities not coming in correct alphabetically - alw
 
 Committee List
 Treasury Committee withnesses NathanaÃ«l Benjamin should be Nathanaël Benjamin
+
+Announcements
+Not sure what is correct style. I think the grey headings should be Heading3Underlined not Heading2Grey. They are Heading3Underlined in the Order_paper_redesign.

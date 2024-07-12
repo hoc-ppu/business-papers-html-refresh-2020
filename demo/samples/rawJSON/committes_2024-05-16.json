@@ -1,0 +1,1364 @@
+{
+  "data": [
+    {
+      "id": 21568,
+      "name": "Visit to Washington D.C. and New York",
+      "startDate": "2024-05-12T00:00:00",
+      "endDate": "2024-05-17T00:00:00",
+      "startTime": null,
+      "startDateUtc": "2024-05-12T00:00:00+01:00",
+      "endDateUtc": "2024-05-17T00:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": null,
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Washington DC and New York, USA",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 365,
+          "name": "Business and Trade Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21107,
+      "name": "Malawi visit",
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-17T00:00:00",
+      "startTime": null,
+      "startDateUtc": "2024-05-13T00:00:00+01:00",
+      "endDateUtc": "2024-05-17T00:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": null,
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Malawi",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 98,
+          "name": "International Development Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21134,
+      "name": null,
+      "startDate": "2024-05-13T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "09:00:00",
+      "startDateUtc": "2024-05-13T09:00:00+01:00",
+      "endDateUtc": "2024-05-16T13:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "13:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Glasgow and the Outer Hebrides",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 378,
+          "name": "Culture, Media and Sport Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21184,
+      "name": "Services Committee meeting",
+      "startDate": "2024-05-16T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "12:30:00",
+      "startDateUtc": "2024-05-16T12:30:00+01:00",
+      "endDateUtc": "2024-05-16T14:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "14:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Room 3A, Palace of Westminster",
+      "locationId": 30,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-03-20T11:51:00",
+      "eventType": {
+        "id": 7,
+        "name": "Formal meeting (private meeting)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 363,
+          "name": "Services Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 2,
+              "name": "Domestic"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21220,
+      "name": null,
+      "startDate": "2024-05-16T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "09:00:00",
+      "startDateUtc": "2024-05-16T09:00:00+01:00",
+      "endDateUtc": "2024-05-16T12:00:00+01:00",
+      "cancelledDate": "2024-04-25T12:13:31.493+01:00",
+      "endTime": "12:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "The Wilson Room, Portcullis House",
+      "locationId": 2,
+      "locationStatus": 1,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 6,
+        "name": "Formal meeting (oral evidence session)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 83,
+          "name": "Home Affairs Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28372,
+          "name": null,
+          "startDate": "2024-05-16T00:00:00",
+          "endDate": "2024-05-16T00:00:00",
+          "startTime": "09:00:00",
+          "endTime": "10:30:00",
+          "startDateUtc": "2024-05-16T09:00:00+01:00",
+          "endDateUtc": "2024-05-16T10:30:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": null,
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "The Wilson Room, Portcullis House",
+          "locationId": 2,
+          "eventId": 21220,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        },
+        {
+          "id": 28373,
+          "name": null,
+          "startDate": "2024-05-16T00:00:00",
+          "endDate": "2024-05-16T00:00:00",
+          "startTime": "10:30:00",
+          "endTime": "12:00:00",
+          "startDateUtc": "2024-05-16T10:30:00+01:00",
+          "endDateUtc": "2024-05-16T12:00:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": null,
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "The Wilson Room, Portcullis House",
+          "locationId": 2,
+          "eventId": 21220,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8344,
+              "cmsId": 0,
+              "title": "UK-France co-operation on tackling illegal migration",
+              "openDate": "2024-03-20T00:00:00",
+              "closedDate": "2024-05-24T00:00:00",
+              "prefix": "UKF",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                83
+              ],
+              "committeeBusinessType": {
+                "id": 2,
+                "name": "Non-inquiry session",
+                "isInquiry": false,
+                "description": "Non-inquiry sessions are brief packages of work that will not necessarily result in a report. They may be used to revisit previous inquiry topics or take evidence on a topical matter.",
+                "iconKey": null
+              },
+              "publicationDateTime": null,
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21543,
+      "name": null,
+      "startDate": "2024-05-16T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "14:00:00",
+      "startDateUtc": "2024-05-16T14:00:00+01:00",
+      "endDateUtc": "2024-05-16T15:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "15:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 8, Palace of Westminster",
+      "locationId": 11,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-01T11:52:00",
+      "eventType": {
+        "id": 2,
+        "name": "Informal meeting",
+        "description": "Informal meetings are usually held in private.",
+        "isVisit": false
+      },
+      "notes": "AV and broadcasting test",
+      "committees": [
+        {
+          "id": 597,
+          "name": "High Speed Rail (Crewe - Manchester) Bill Select Committee (Commons)",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 14,
+              "name": "Private/hybrid bill committee"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21552,
+      "name": "Roundtable",
+      "startDate": "2024-05-16T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "10:30:00",
+      "startDateUtc": "2024-05-16T10:30:00+01:00",
+      "endDateUtc": "2024-05-16T12:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "12:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Committee Room G",
+      "locationId": 31,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-01T15:42:00",
+      "eventType": {
+        "id": 7,
+        "name": "Formal meeting (private meeting)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 700,
+          "name": "Modern Slavery Act 2015 Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 11,
+              "name": "(HL) Investigative"
+            },
+            {
+              "id": 12,
+              "name": "(HL) Committee Office"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28898,
+          "name": "Roundtable",
+          "startDate": "2024-05-16T00:00:00",
+          "endDate": "2024-05-16T00:00:00",
+          "startTime": "10:30:00",
+          "endTime": "12:30:00",
+          "startDateUtc": "2024-05-16T10:30:00+01:00",
+          "endDateUtc": "2024-05-16T12:30:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2024-05-01T15:44:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Committee Room G",
+          "locationId": 31,
+          "eventId": 21552,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8206,
+              "cmsId": 0,
+              "title": "Modern Slavery Act 2015",
+              "openDate": "2024-01-29T00:00:00",
+              "closedDate": null,
+              "prefix": "MSA",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                700
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-01-29T15:23:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21604,
+      "name": null,
+      "startDate": "2024-05-16T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "11:30:00",
+      "startDateUtc": "2024-05-16T11:30:00+01:00",
+      "endDateUtc": "2024-05-16T13:30:00+01:00",
+      "cancelledDate": "2024-05-14T16:50:27.163+01:00",
+      "endTime": "13:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 10, Palace of Westminster ",
+      "locationId": 22,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-08T08:08:00",
+      "eventType": {
+        "id": 1,
+        "name": "Formal meeting",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 720,
+          "name": "Tobacco and Vapes Bill",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 15,
+              "name": "(HC) Public bill committee"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28984,
+          "name": null,
+          "startDate": "2024-05-16T00:00:00",
+          "endDate": "2024-05-16T00:00:00",
+          "startTime": "11:30:00",
+          "endTime": "13:30:00",
+          "startDateUtc": "2024-05-16T11:30:00+01:00",
+          "endDateUtc": "2024-05-16T13:30:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-08T08:08:00",
+          "activityType": {
+            "id": 8,
+            "name": "Debate",
+            "isPrivate": false
+          },
+          "locationName": "Room 10, Palace of Westminster ",
+          "locationId": 22,
+          "eventId": 21604,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8421,
+              "cmsId": 0,
+              "title": "Further to consider the Bill",
+              "openDate": "2024-04-25T00:00:00",
+              "closedDate": "2024-05-30T00:01:00",
+              "prefix": "PBC",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                720
+              ],
+              "committeeBusinessType": {
+                "id": 3,
+                "name": "Legislative scrutiny",
+                "isInquiry": false,
+                "description": "Legislative scrutiny focuses on a particular piece of legislation, sometimes in draft form. The committee might consider it in private, or may take evidence.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-04-25T10:06:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21605,
+      "name": null,
+      "startDate": "2024-05-16T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "14:00:00",
+      "startDateUtc": "2024-05-16T14:00:00+01:00",
+      "endDateUtc": "2024-05-16T17:00:00+01:00",
+      "cancelledDate": "2024-05-14T16:50:49.753+01:00",
+      "endTime": "17:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 10, Palace of Westminster ",
+      "locationId": 22,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-08T08:09:00",
+      "eventType": {
+        "id": 1,
+        "name": "Formal meeting",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 720,
+          "name": "Tobacco and Vapes Bill",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 15,
+              "name": "(HC) Public bill committee"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28985,
+          "name": null,
+          "startDate": "2024-05-16T00:00:00",
+          "endDate": "2024-05-16T00:00:00",
+          "startTime": "14:00:00",
+          "endTime": "17:00:00",
+          "startDateUtc": "2024-05-16T14:00:00+01:00",
+          "endDateUtc": "2024-05-16T17:00:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-08T08:09:00",
+          "activityType": {
+            "id": 8,
+            "name": "Debate",
+            "isPrivate": false
+          },
+          "locationName": "Room 10, Palace of Westminster ",
+          "locationId": 22,
+          "eventId": 21605,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8421,
+              "cmsId": 0,
+              "title": "Further to consider the Bill",
+              "openDate": "2024-04-25T00:00:00",
+              "closedDate": "2024-05-30T00:01:00",
+              "prefix": "PBC",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                720
+              ],
+              "committeeBusinessType": {
+                "id": 3,
+                "name": "Legislative scrutiny",
+                "isInquiry": false,
+                "description": "Legislative scrutiny focuses on a particular piece of legislation, sometimes in draft form. The committee might consider it in private, or may take evidence.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-04-25T10:06:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21609,
+      "name": null,
+      "startDate": "2024-05-16T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "11:30:00",
+      "startDateUtc": "2024-05-16T11:30:00+01:00",
+      "endDateUtc": "2024-05-16T13:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "13:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "The Boothroyd Room, Portcullis House",
+      "locationId": 5,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-08T09:48:00",
+      "eventType": {
+        "id": 1,
+        "name": "Formal meeting",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 727,
+          "name": "Football Governance Bill",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 15,
+              "name": "(HC) Public bill committee"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28990,
+          "name": null,
+          "startDate": "2024-05-16T00:00:00",
+          "endDate": "2024-05-16T00:00:00",
+          "startTime": "11:30:00",
+          "endTime": "11:50:00",
+          "startDateUtc": "2024-05-16T11:30:00+01:00",
+          "endDateUtc": "2024-05-16T11:50:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-08T09:49:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "The Boothroyd Room, Portcullis House",
+          "locationId": 5,
+          "eventId": 21609,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Professional Footballers' Association (The PFA)",
+                  "role": "Director of External Affairs",
+                  "idmsId": null,
+                  "cisId": 96303
+                }
+              ],
+              "id": 25700,
+              "mnisPerson": null,
+              "person": {
+                "id": 62789,
+                "displayName": "Ben Wright",
+                "title": null,
+                "firstNames": "Ben",
+                "lastName": "Wright"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/62789"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 8452,
+              "cmsId": 0,
+              "title": "Further to consider the Bill",
+              "openDate": "2024-05-08T00:00:00",
+              "closedDate": "2024-05-30T00:01:00",
+              "prefix": "PBC",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                727
+              ],
+              "committeeBusinessType": {
+                "id": 3,
+                "name": "Legislative scrutiny",
+                "isInquiry": false,
+                "description": "Legislative scrutiny focuses on a particular piece of legislation, sometimes in draft form. The committee might consider it in private, or may take evidence.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-05-08T09:43:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        },
+        {
+          "id": 29070,
+          "name": null,
+          "startDate": "2024-05-16T00:00:00",
+          "endDate": "2024-05-16T00:00:00",
+          "startTime": "11:50:00",
+          "endTime": "12:10:00",
+          "startDateUtc": "2024-05-16T11:50:00+01:00",
+          "endDateUtc": "2024-05-16T12:10:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-13T12:11:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "The Boothroyd Room, Portcullis House",
+          "locationId": 5,
+          "eventId": 21609,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Kick It Out",
+                  "role": "Chair",
+                  "idmsId": "https://id.parliament.uk/356vLgpE",
+                  "cisId": 49547
+                }
+              ],
+              "id": 25702,
+              "mnisPerson": null,
+              "person": {
+                "id": 27000,
+                "displayName": "Sanjay Bhandari",
+                "title": null,
+                "firstNames": "Sanjay",
+                "lastName": "Bhandari"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/27000"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 8452,
+              "cmsId": 0,
+              "title": "Further to consider the Bill",
+              "openDate": "2024-05-08T00:00:00",
+              "closedDate": "2024-05-30T00:01:00",
+              "prefix": "PBC",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                727
+              ],
+              "committeeBusinessType": {
+                "id": 3,
+                "name": "Legislative scrutiny",
+                "isInquiry": false,
+                "description": "Legislative scrutiny focuses on a particular piece of legislation, sometimes in draft form. The committee might consider it in private, or may take evidence.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-05-08T09:43:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        },
+        {
+          "id": 29071,
+          "name": null,
+          "startDate": "2024-05-16T00:00:00",
+          "endDate": "2024-05-16T00:00:00",
+          "startTime": "12:10:00",
+          "endTime": "12:40:00",
+          "startDateUtc": "2024-05-16T12:10:00+01:00",
+          "endDateUtc": "2024-05-16T12:40:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-13T12:12:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "The Boothroyd Room, Portcullis House",
+          "locationId": 5,
+          "eventId": 21609,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Action for Albion",
+                  "role": "Spokeperson",
+                  "idmsId": null,
+                  "cisId": 101646
+                }
+              ],
+              "id": 25703,
+              "mnisPerson": null,
+              "person": {
+                "id": 81880,
+                "displayName": "Alistair Jones",
+                "title": null,
+                "firstNames": "Alistair",
+                "lastName": "Jones"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/81880"
+            },
+            {
+              "displayOrder": 2,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Supporters’ Trust at Reading (STAR)",
+                  "role": "Chair",
+                  "idmsId": null,
+                  "cisId": 101647
+                }
+              ],
+              "id": 25704,
+              "mnisPerson": null,
+              "person": {
+                "id": 61815,
+                "displayName": "Sarah Turner",
+                "title": "",
+                "firstNames": "Sarah",
+                "lastName": "Turner"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/61815"
+            },
+            {
+              "displayOrder": 3,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Arsenal Supporters' Trust",
+                  "role": "Spokesperson",
+                  "idmsId": null,
+                  "cisId": 101648
+                }
+              ],
+              "id": 25705,
+              "mnisPerson": null,
+              "person": {
+                "id": 65532,
+                "displayName": "Tim Payton",
+                "title": null,
+                "firstNames": "Tim",
+                "lastName": "Payton"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/65532"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 8452,
+              "cmsId": 0,
+              "title": "Further to consider the Bill",
+              "openDate": "2024-05-08T00:00:00",
+              "closedDate": "2024-05-30T00:01:00",
+              "prefix": "PBC",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                727
+              ],
+              "committeeBusinessType": {
+                "id": 3,
+                "name": "Legislative scrutiny",
+                "isInquiry": false,
+                "description": "Legislative scrutiny focuses on a particular piece of legislation, sometimes in draft form. The committee might consider it in private, or may take evidence.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-05-08T09:43:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21610,
+      "name": null,
+      "startDate": "2024-05-16T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "14:00:00",
+      "startDateUtc": "2024-05-16T14:00:00+01:00",
+      "endDateUtc": "2024-05-16T17:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "17:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Room 14, Palace of Westminster",
+      "locationId": 41,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-08T09:49:00",
+      "eventType": {
+        "id": 1,
+        "name": "Formal meeting",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 727,
+          "name": "Football Governance Bill",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 15,
+              "name": "(HC) Public bill committee"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 28991,
+          "name": null,
+          "startDate": "2024-05-16T00:00:00",
+          "endDate": "2024-05-16T00:00:00",
+          "startTime": "14:00:00",
+          "endTime": "17:00:00",
+          "startDateUtc": "2024-05-16T14:00:00+01:00",
+          "endDateUtc": "2024-05-16T17:00:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2024-05-08T09:50:00",
+          "activityType": {
+            "id": 8,
+            "name": "Debate",
+            "isPrivate": false
+          },
+          "locationName": "Room 14, Palace of Westminster",
+          "locationId": 41,
+          "eventId": 21610,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8452,
+              "cmsId": 0,
+              "title": "Further to consider the Bill",
+              "openDate": "2024-05-08T00:00:00",
+              "closedDate": "2024-05-30T00:01:00",
+              "prefix": "PBC",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                727
+              ],
+              "committeeBusinessType": {
+                "id": 3,
+                "name": "Legislative scrutiny",
+                "isInquiry": false,
+                "description": "Legislative scrutiny focuses on a particular piece of legislation, sometimes in draft form. The committee might consider it in private, or may take evidence.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-05-08T09:43:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21627,
+      "name": null,
+      "startDate": "2024-05-16T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "14:00:00",
+      "startDateUtc": "2024-05-16T14:00:00+01:00",
+      "endDateUtc": "2024-05-16T17:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "17:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Luton",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 153,
+          "name": "Transport Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21630,
+      "name": null,
+      "startDate": "2024-05-16T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "09:45:00",
+      "startDateUtc": "2024-05-16T09:45:00+01:00",
+      "endDateUtc": "2024-05-16T12:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "12:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Room 1, Palace of Westminster",
+      "locationId": 24,
+      "locationStatus": 2,
+      "publicationDateTime": "2024-05-09T04:06:00",
+      "eventType": {
+        "id": 7,
+        "name": "Formal meeting (private meeting)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 698,
+          "name": "Food, Diet and Obesity Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 11,
+              "name": "(HL) Investigative"
+            },
+            {
+              "id": 12,
+              "name": "(HL) Committee Office"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 29019,
+          "name": null,
+          "startDate": "2024-05-16T00:00:00",
+          "endDate": "2024-05-16T00:00:00",
+          "startTime": "09:45:00",
+          "endTime": "12:30:00",
+          "startDateUtc": "2024-05-16T09:45:00+01:00",
+          "endDateUtc": "2024-05-16T12:30:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2024-05-09T10:07:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 1, Palace of Westminster",
+          "locationId": 24,
+          "eventId": 21630,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 8205,
+              "cmsId": 0,
+              "title": "Food, Diet and Obesity",
+              "openDate": "2024-01-29T00:00:00",
+              "closedDate": null,
+              "prefix": "FDO",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                698
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2024-01-29T15:21:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 21638,
+      "name": "Meeting with Gaza Families Reunited",
+      "startDate": "2024-05-16T00:00:00",
+      "endDate": "2024-05-16T00:00:00",
+      "startTime": "09:00:00",
+      "startDateUtc": "2024-05-16T09:00:00+01:00",
+      "endDateUtc": "2024-05-16T10:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "10:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Virtual",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": null,
+      "eventType": {
+        "id": 2,
+        "name": "Informal meeting",
+        "description": "Informal meetings are usually held in private.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 83,
+          "name": "Home Affairs Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    }
+  ],
+  "totalResults": 14,
+  "pagination": {
+    "totalPages": 1,
+    "currentPage": 0,
+    "recordsPerPage": 14,
+    "firstPage": 0,
+    "lastPage": 14,
+    "nextPage": null,
+    "previousPage": 0
+  }
+}
