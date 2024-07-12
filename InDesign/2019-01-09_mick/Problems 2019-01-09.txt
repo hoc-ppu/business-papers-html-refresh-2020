@@ -1,5 +1,7 @@
 There is a marked up PDF in pdfs to check OP20190109
 
+Contents - character style in Business
+
 Effectives
 Urgent Questions (if any)
 Ministerial Statements (if any) come in as BoldTimingHeading not sure whether they should be Heading3Underlined as
@@ -17,3 +19,6 @@ Amendment (o)
 this came down from the portal a mess with spaces to make the indents. There are no SubNumberedPara, SubSubParagraph or SubSubSubParagraph styles for indented text so I improvised, which is what we did before.
 
 Committee List - apostrophe problem previously reported Committee on Future Relationship - should be UK's
+
+
+Created an html if you need it
