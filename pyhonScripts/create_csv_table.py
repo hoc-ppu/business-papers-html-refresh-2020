@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 def filter_files_with_extension(files):
     filtered_files = []
     for file in files:
-        if file.endswith('.indd') or file.endswith('.pdf'):
+        if file.endswith('.indd') or file.endswith('.pdf') or file.endswith('.html'):
             filtered_files.append(file)
     return filtered_files
 
