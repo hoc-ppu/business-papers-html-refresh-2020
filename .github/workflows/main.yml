@@ -1,8 +1,8 @@
-name: Update index.html every hour
+name: Update index.html every 12 hours
 
 on:
   schedule:
-    - cron: "0 */1 * * *"  # Every hour
+    - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:      # Allows for manual triggering of the workflow
 
 jobs:
