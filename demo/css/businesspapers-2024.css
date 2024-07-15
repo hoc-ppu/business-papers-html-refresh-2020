@@ -688,11 +688,13 @@ a.toc-link:hover {
 }
 
 .paraBusinessSub-SectionHeading {
+  background-color: #717171;
+  color: #fff;
   font-size: 1.309em;
   letter-spacing: 0.025em;
   margin-right: 0;
   margin-left: 0;
-  padding: 0.1em 3em;
+  padding: 0.1em 1em;
   text-align: center;
   text-transform: uppercase;
 }
@@ -707,18 +709,36 @@ a.toc-link:hover {
 }
 
 .paraChamberSummaryHeading {
-  text-transform: none;
+  font-size: 1.2em;
+  margin-top: 36px;
+  margin-bottom: 27px;
+  text-transform: none !important;
 }
 
-.paraBusinessTodayChamberHeading {
+.paraBusinessTodayChamberHeading,
+.paraBusinessSub-SectionHeading {
   margin-left: 0 !important;
   text-align: center;
-  padding-left: 3em !important;
+  padding-left: 1em !important;
   padding-right: 1em !important;
 }
 
 .paraBusinessItemHeading {
   text-transform: none;
+}
+
+.anchor-link {
+  display: inline-block !important;
+  height: 1em;
+  padding-right: 0 !important;
+  padding-left: 0.5em !important;
+  position: relative;
+}
+
+.anchor-link::after {
+  display: block;
+  margin-top: -0.075em;
+  position: absolute;
 }
 
 /*#endregion Headings */
@@ -780,12 +800,13 @@ a.toc-link:hover {
 
 /*#endregion Tables*/
 /*#region Dividers */
-hr {
+p.Line_Interstitial {
   border-top: 1px solid;
   display: block;
   height: 1px;
-  padding: 1.55em 0;
-  width: 8em;
+  margin: 1.55em 0 !important;
+  padding: 0 !important;
+  width: 3em;
 }
 
 /*#endregion Dividers*/
