@@ -1,0 +1,1378 @@
+{
+  "data": [
+    {
+      "id": 18132,
+      "name": null,
+      "startDate": "2023-04-25T00:00:00",
+      "endDate": "2023-04-27T00:00:00",
+      "startTime": "09:30:00",
+      "startDateUtc": "2023-04-25T09:30:00+01:00",
+      "endDateUtc": "2023-04-27T20:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "20:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "Gibraltar",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": "2023-04-28T09:00:00",
+      "eventType": {
+        "id": 3,
+        "name": "Visit",
+        "description": "Committees may be allowed to travel within the UK or internationally to take evidence or otherwise inform their work.",
+        "isVisit": true
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 327,
+          "name": "Public Administration and Constitutional Affairs Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 16471,
+      "name": "Formal meeting (private meeting) - 12:15 - 14:15 Thu 27th April 2023",
+      "startDate": "2023-04-27T00:00:00",
+      "endDate": "2023-04-27T00:00:00",
+      "startTime": "12:15:00",
+      "startDateUtc": "2023-04-27T12:15:00+01:00",
+      "endDateUtc": "2023-04-27T14:15:00+01:00",
+      "cancelledDate": null,
+      "endTime": "14:15:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Committee Room G",
+      "locationId": 31,
+      "locationStatus": 2,
+      "publicationDateTime": "2022-12-06T14:57:00",
+      "eventType": {
+        "id": 7,
+        "name": "Formal meeting (private meeting)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 363,
+          "name": "Services Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 2,
+              "name": "Domestic"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 17570,
+      "name": null,
+      "startDate": "2023-04-27T00:00:00",
+      "endDate": "2023-04-27T00:00:00",
+      "startTime": "10:00:00",
+      "startDateUtc": "2023-04-27T10:00:00+01:00",
+      "endDateUtc": "2023-04-27T12:15:00+01:00",
+      "cancelledDate": null,
+      "endTime": "12:15:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Room 3A, Palace of Westminster",
+      "locationId": 30,
+      "locationStatus": 2,
+      "publicationDateTime": "2023-04-19T06:07:00",
+      "eventType": {
+        "id": 7,
+        "name": "Formal meeting (private meeting)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Hybrid – Private support requested before",
+      "committees": [
+        {
+          "id": 648,
+          "name": "Horticultural Sector Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 12,
+              "name": "(HL) Committee Office"
+            },
+            {
+              "id": 11,
+              "name": "(HL) Investigative"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 23864,
+          "name": null,
+          "startDate": "2023-04-27T00:00:00",
+          "endDate": "2023-04-27T00:00:00",
+          "startTime": "10:00:00",
+          "endTime": "12:15:00",
+          "startDateUtc": "2023-04-27T10:00:00+01:00",
+          "endDateUtc": "2023-04-27T12:15:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2023-04-19T06:20:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 3A, Palace of Westminster",
+          "locationId": 30,
+          "eventId": 17570,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 7266,
+              "cmsId": 0,
+              "title": "Horticultural sector",
+              "openDate": "2023-02-01T00:00:00",
+              "closedDate": "2023-10-26T00:00:00",
+              "prefix": "HSI",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                648
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2023-02-01T11:22:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 17959,
+      "name": "Defra Recall (Waste crime, air quality, river protection, water supply, ELMs rollout)",
+      "startDate": "2023-04-27T00:00:00",
+      "endDate": "2023-04-27T00:00:00",
+      "startTime": "09:30:00",
+      "startDateUtc": "2023-04-27T09:30:00+01:00",
+      "endDateUtc": "2023-04-27T12:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "12:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": true,
+      "isLords": false,
+      "location": "The Grimond Room, Portcullis House",
+      "locationId": 10,
+      "locationStatus": 2,
+      "publicationDateTime": "2023-03-22T14:48:00",
+      "eventType": {
+        "id": 6,
+        "name": "Formal meeting (oral evidence session)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Physical meeting",
+      "committees": [
+        {
+          "id": 127,
+          "name": "Public Accounts Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 1,
+              "name": "(HC) Public Standing Orders - Departmental"
+            }
+          ],
+          "isCommons": true,
+          "isLords": false,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 23633,
+          "name": null,
+          "startDate": "2023-04-27T00:00:00",
+          "endDate": "2023-04-27T00:00:00",
+          "startTime": "09:30:00",
+          "endTime": "10:00:00",
+          "startDateUtc": "2023-04-27T09:30:00+01:00",
+          "endDateUtc": "2023-04-27T10:00:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2023-03-22T14:51:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "The Grimond Room, Portcullis House",
+          "locationId": 10,
+          "eventId": 17959,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        },
+        {
+          "id": 23634,
+          "name": "Defra Recall (Waste crime, air quality, river protection, water supply, ELMs rollout)",
+          "startDate": "2023-04-27T00:00:00",
+          "endDate": "2023-04-27T00:00:00",
+          "startTime": "10:00:00",
+          "endTime": "12:00:00",
+          "startDateUtc": "2023-04-27T10:00:00+01:00",
+          "endDateUtc": "2023-04-27T12:00:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2023-03-22T14:53:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "The Grimond Room, Portcullis House",
+          "locationId": 10,
+          "eventId": 17959,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Department for Environment, Food and Rural Affairs",
+                  "role": "Permanent Secretary",
+                  "idmsId": "https://id.parliament.uk/Wr1dkWDb",
+                  "cisId": 29909
+                }
+              ],
+              "id": 19054,
+              "mnisPerson": null,
+              "person": {
+                "id": 61532,
+                "displayName": "Tamara Finkelstein CB",
+                "title": null,
+                "firstNames": "Tamara Finkelstein",
+                "lastName": "CB"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/61532"
+            },
+            {
+              "displayOrder": 3,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Department for Environment, Food and Rural Affairs",
+                  "role": "Director General for Food, Biosecurity and Trade",
+                  "idmsId": "https://id.parliament.uk/Wr1dkWDb",
+                  "cisId": 29909
+                }
+              ],
+              "id": 19148,
+              "mnisPerson": null,
+              "person": {
+                "id": 8107,
+                "displayName": "David Kennedy",
+                "title": "Mr",
+                "firstNames": "David",
+                "lastName": "Kennedy"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/8107"
+            },
+            {
+              "displayOrder": 4,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Department for Environment, Food and Rural Affairs",
+                  "role": "Director General for Environment",
+                  "idmsId": "https://id.parliament.uk/Wr1dkWDb",
+                  "cisId": 29909
+                }
+              ],
+              "id": 19149,
+              "mnisPerson": null,
+              "person": {
+                "id": 19129,
+                "displayName": "David Hill",
+                "title": null,
+                "firstNames": "David",
+                "lastName": "Hill"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/19129"
+            },
+            {
+              "displayOrder": 5,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Environment Agency",
+                  "role": "Executive Director of Environment & Business",
+                  "idmsId": "https://id.parliament.uk/0xO2vjEH",
+                  "cisId": 34035
+                }
+              ],
+              "id": 19267,
+              "mnisPerson": null,
+              "person": {
+                "id": 49740,
+                "displayName": "John Leyland",
+                "title": "Mr",
+                "firstNames": "John",
+                "lastName": "Leyland"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/49740"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 7317,
+              "cmsId": 0,
+              "title": "Defra Recall: Environmental protection",
+              "openDate": "2023-02-15T00:00:00",
+              "closedDate": "2024-05-28T00:00:00",
+              "prefix": "DEP",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                127
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2023-02-15T10:50:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": [
+            {
+              "id": 13110,
+              "meetingDate": "2023-04-27T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": "2023-05-10T13:11:56.2333333",
+              "hcNumber": {
+                "number": "HC 1306",
+                "sessionId": 37,
+                "sessionDescription": "2022-23"
+              },
+              "oralEvidenceWitnesses": [
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Department for Environment, Food and Rural Affairs",
+                      "role": "Permanent Secretary",
+                      "idmsId": "https://id.parliament.uk/Wr1dkWDb",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Department for Environment, Food and Rural Affairs",
+                      "role": "Director General for Food, Biosecurity and Trade",
+                      "idmsId": "https://id.parliament.uk/Wr1dkWDb",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Department for Environment, Food and Rural Affairs",
+                      "role": "Director General for Environment",
+                      "idmsId": "https://id.parliament.uk/Wr1dkWDb",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Environment Agency",
+                      "role": "Executive Director of Environment & Business",
+                      "idmsId": "https://id.parliament.uk/0xO2vjEH",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                }
+              ],
+              "isConfidential": false,
+              "document": {
+                "documentId": 194403,
+                "processingStatus": 5,
+                "files": [
+                  {
+                    "fileExtension": "pdf",
+                    "fileName": "OE00013110.pdf",
+                    "fileSize": 380823,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 7317,
+                  "cmsId": 0,
+                  "title": "Defra Recall: Environmental protection",
+                  "openDate": "2023-02-15T00:00:00",
+                  "closedDate": "2024-05-28T00:00:00",
+                  "prefix": "DEP",
+                  "contactName": null,
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    127
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2023-02-15T10:50:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 17964,
+      "name": null,
+      "startDate": "2023-04-27T00:00:00",
+      "endDate": "2023-04-27T00:00:00",
+      "startTime": "11:00:00",
+      "startDateUtc": "2023-04-27T11:00:00+01:00",
+      "endDateUtc": "2023-04-27T13:01:00+01:00",
+      "cancelledDate": null,
+      "endTime": "13:01:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "3-20 Millbank House",
+      "locationId": null,
+      "locationStatus": 2,
+      "publicationDateTime": "2023-04-20T10:46:00",
+      "eventType": {
+        "id": 7,
+        "name": "Formal meeting (private meeting)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": null,
+      "committees": [
+        {
+          "id": 448,
+          "name": "International Agreements Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 12,
+              "name": "(HL) Committee Office"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 23644,
+          "name": null,
+          "startDate": "2023-04-27T00:00:00",
+          "endDate": "2023-04-27T00:00:00",
+          "startTime": "11:00:00",
+          "endTime": "13:00:00",
+          "startDateUtc": "2023-04-27T11:00:00+01:00",
+          "endDateUtc": "2023-04-27T13:00:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": null,
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "3-20 Millbank House",
+          "locationId": null,
+          "eventId": 17964,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 17990,
+      "name": null,
+      "startDate": "2023-04-27T00:00:00",
+      "endDate": "2023-04-27T00:00:00",
+      "startTime": "11:00:00",
+      "startDateUtc": "2023-04-27T11:00:00+01:00",
+      "endDateUtc": "2023-04-27T13:00:00+01:00",
+      "cancelledDate": null,
+      "endTime": "13:00:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Room 3, Palace of Westminster",
+      "locationId": 26,
+      "locationStatus": 2,
+      "publicationDateTime": "2023-03-28T11:49:00",
+      "eventType": {
+        "id": 6,
+        "name": "Formal meeting (oral evidence session)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Hybrid",
+      "committees": [
+        {
+          "id": 647,
+          "name": "Education for 11–16 Year Olds Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 12,
+              "name": "(HL) Committee Office"
+            },
+            {
+              "id": 11,
+              "name": "(HL) Investigative"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 23874,
+          "name": null,
+          "startDate": "2023-04-27T00:00:00",
+          "endDate": "2023-04-27T00:00:00",
+          "startTime": "11:00:00",
+          "endTime": "11:15:00",
+          "startDateUtc": "2023-04-27T11:00:00+01:00",
+          "endDateUtc": "2023-04-27T11:15:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2023-04-20T07:54:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 3, Palace of Westminster",
+          "locationId": 26,
+          "eventId": 17990,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [
+            {
+              "id": 7268,
+              "cmsId": 0,
+              "title": "Education for 11-16 year olds",
+              "openDate": "2023-02-01T00:00:00",
+              "closedDate": null,
+              "prefix": "EDU",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                647
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2023-02-01T11:21:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": []
+        },
+        {
+          "id": 23875,
+          "name": null,
+          "startDate": "2023-04-27T00:00:00",
+          "endDate": "2023-04-27T00:00:00",
+          "startTime": "11:15:00",
+          "endTime": "12:15:00",
+          "startDateUtc": "2023-04-27T11:15:00+01:00",
+          "endDateUtc": "2023-04-27T12:15:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2023-04-20T07:54:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "Room 3, Palace of Westminster",
+          "locationId": 26,
+          "eventId": 17990,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 1,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "British Computer Society",
+                  "role": "Managing Director, Education & Public Benefit",
+                  "idmsId": "https://id.parliament.uk/rdJDn8n6",
+                  "cisId": 18558
+                }
+              ],
+              "id": 19429,
+              "mnisPerson": null,
+              "person": {
+                "id": 68892,
+                "displayName": "Julia Adamson",
+                "title": null,
+                "firstNames": "Julia",
+                "lastName": "Adamson"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/68892"
+            },
+            {
+              "displayOrder": 2,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "EngineeringUK",
+                  "role": "CEO",
+                  "idmsId": null,
+                  "cisId": 4034
+                }
+              ],
+              "id": 19430,
+              "mnisPerson": null,
+              "person": {
+                "id": 68893,
+                "displayName": "Dr Hilary Leevers",
+                "title": "Dr",
+                "firstNames": "Hilary",
+                "lastName": "Leevers"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/68893"
+            },
+            {
+              "displayOrder": 3,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Institute of Physics",
+                  "role": "Senior Education Special Advisor",
+                  "idmsId": "https://id.parliament.uk/GYM6VLH4",
+                  "cisId": 46556
+                }
+              ],
+              "id": 19438,
+              "mnisPerson": null,
+              "person": {
+                "id": 69010,
+                "displayName": "Charles Tracy OBE",
+                "title": null,
+                "firstNames": "Charles",
+                "lastName": "Tracy"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/69010"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 7268,
+              "cmsId": 0,
+              "title": "Education for 11-16 year olds",
+              "openDate": "2023-02-01T00:00:00",
+              "closedDate": null,
+              "prefix": "EDU",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                647
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2023-02-01T11:21:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": [
+            {
+              "id": 13095,
+              "meetingDate": "2023-04-27T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": "2023-05-05T10:05:48.2366667",
+              "hcNumber": null,
+              "oralEvidenceWitnesses": [
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "British Computer Society",
+                      "role": "Managing Director, Education & Public Benefit",
+                      "idmsId": "https://id.parliament.uk/rdJDn8n6",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "EngineeringUK",
+                      "role": "CEO",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Institute of Physics",
+                      "role": "Senior Education Special Advisor",
+                      "idmsId": "https://id.parliament.uk/GYM6VLH4",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                }
+              ],
+              "isConfidential": false,
+              "document": {
+                "documentId": 197127,
+                "processingStatus": 4,
+                "files": [
+                  {
+                    "fileExtension": "docx",
+                    "fileName": "OE00013095.docx",
+                    "fileSize": 56639,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 7268,
+                  "cmsId": 0,
+                  "title": "Education for 11-16 year olds",
+                  "openDate": "2023-02-01T00:00:00",
+                  "closedDate": null,
+                  "prefix": "EDU",
+                  "contactName": null,
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    647
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2023-02-01T11:21:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 23876,
+          "name": null,
+          "startDate": "2023-04-27T00:00:00",
+          "endDate": "2023-04-27T00:00:00",
+          "startTime": "12:15:00",
+          "endTime": "13:00:00",
+          "startDateUtc": "2023-04-27T12:15:00+01:00",
+          "endDateUtc": "2023-04-27T13:00:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2023-04-20T07:54:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 3, Palace of Westminster",
+          "locationId": 26,
+          "eventId": 17990,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    },
+    {
+      "id": 18121,
+      "name": null,
+      "startDate": "2023-04-27T00:00:00",
+      "endDate": "2023-04-27T00:00:00",
+      "startTime": "10:00:00",
+      "startDateUtc": "2023-04-27T10:00:00+01:00",
+      "endDateUtc": "2023-04-27T12:30:00+01:00",
+      "cancelledDate": null,
+      "endTime": "12:30:00",
+      "primaryDescription": null,
+      "secondaryDescription": null,
+      "isCommons": false,
+      "isLords": true,
+      "location": "Room 4, Palace of Westminster",
+      "locationId": 27,
+      "locationStatus": 2,
+      "publicationDateTime": "2023-04-17T09:32:00",
+      "eventType": {
+        "id": 6,
+        "name": "Formal meeting (oral evidence session)",
+        "description": "Formal meetings may be held in private (for example to consider a draft report) or in public (for example to hear oral evidence), and require a minimum number of members to be present.",
+        "isVisit": false
+      },
+      "notes": "Hybrid – Private support requested",
+      "committees": [
+        {
+          "id": 646,
+          "name": "AI in Weapon Systems Committee",
+          "isLead": true,
+          "category": null,
+          "committeeTypes": [
+            {
+              "id": 12,
+              "name": "(HL) Committee Office"
+            },
+            {
+              "id": 11,
+              "name": "(HL) Investigative"
+            }
+          ],
+          "isCommons": false,
+          "isLords": true,
+          "leadHouse": null
+        }
+      ],
+      "activities": [
+        {
+          "id": 23801,
+          "name": null,
+          "startDate": "2023-04-27T00:00:00",
+          "endDate": "2023-04-27T00:00:00",
+          "startTime": "10:00:00",
+          "endTime": "12:00:00",
+          "startDateUtc": "2023-04-27T10:00:00+01:00",
+          "endDateUtc": "2023-04-27T12:00:00+01:00",
+          "isPrivate": false,
+          "publicationDateTime": "2023-04-17T09:33:00",
+          "activityType": {
+            "id": 2,
+            "name": "Oral evidence",
+            "isPrivate": false
+          },
+          "locationName": "Room 4, Palace of Westminster",
+          "locationId": 27,
+          "eventId": 18121,
+          "notes": null,
+          "attendees": [
+            {
+              "displayOrder": 2,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Oxford Internet Institute",
+                  "role": "Associate Professor",
+                  "idmsId": "https://id.parliament.uk/uBFuvP1Q",
+                  "cisId": 63510
+                }
+              ],
+              "id": 19380,
+              "mnisPerson": null,
+              "person": {
+                "id": 68742,
+                "displayName": "Mariarosaria Taddeo",
+                "title": "Professor",
+                "firstNames": "Mariarosaria",
+                "lastName": "Taddeo"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/68742"
+            },
+            {
+              "displayOrder": 3,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Alan Turing Institute",
+                  "role": "Digital Ethics Research Fellow",
+                  "idmsId": "https://id.parliament.uk/Pc8r7E7x",
+                  "cisId": 11825
+                }
+              ],
+              "id": 19382,
+              "mnisPerson": null,
+              "person": {
+                "id": 68743,
+                "displayName": "Alexander Blanchard",
+                "title": "Dr",
+                "firstNames": "Alexander",
+                "lastName": "Blanchard"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/68743"
+            },
+            {
+              "displayOrder": 4,
+              "additionalContext": null,
+              "organisations": [
+                {
+                  "name": "Amnesty International, International Secretariat",
+                  "role": "Senior Campaigner/Advisor",
+                  "idmsId": null,
+                  "cisId": 97651
+                }
+              ],
+              "id": 19503,
+              "mnisPerson": null,
+              "person": {
+                "id": 68740,
+                "displayName": "Verity Coyle",
+                "title": null,
+                "firstNames": "Verity",
+                "lastName": "Coyle"
+              },
+              "personType": 0,
+              "photoUrl": "/committees/personimage/68740"
+            }
+          ],
+          "committeeBusinesses": [
+            {
+              "id": 7270,
+              "cmsId": 0,
+              "title": "AI in weapon systems",
+              "openDate": "2023-02-01T00:00:00",
+              "closedDate": "2023-11-23T00:00:00",
+              "prefix": "AIW",
+              "contactName": null,
+              "email": null,
+              "telephone": null,
+              "committees": [
+                646
+              ],
+              "committeeBusinessType": {
+                "id": 1,
+                "name": "Inquiry",
+                "isInquiry": true,
+                "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                "iconKey": null
+              },
+              "publicationDateTime": "2023-02-01T11:28:00",
+              "scope": null,
+              "hcNumbers": null,
+              "relatedInformation": [],
+              "publicationsCount": [],
+              "contentLinks": [],
+              "writtenEvidenceCount": 0,
+              "oralEvidenceCount": 0,
+              "hybridBillCount": 0,
+              "latestSubmissionPeriod": null,
+              "latestOralEvidence": null,
+              "latestReport": null,
+              "latestGovernmentResponse": null,
+              "bannerUrlDesktop": null,
+              "bannerUrlMobile": null
+            }
+          ],
+          "oralEvidences": [
+            {
+              "id": 13081,
+              "meetingDate": "2023-04-27T00:00:00",
+              "suffix": null,
+              "firstQuestionNumber": null,
+              "lastQuestionNumber": null,
+              "audioVisualLink": null,
+              "publicationDateTime": "2023-05-02T13:36:20.8266667",
+              "hcNumber": null,
+              "oralEvidenceWitnesses": [
+                {
+                  "submitterType": 1,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Oxford Internet Institute",
+                      "role": "Associate Professor",
+                      "idmsId": "https://id.parliament.uk/uBFuvP1Q",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": {
+                    "id": 68742,
+                    "displayName": "Mariarosaria Taddeo",
+                    "title": "Professor",
+                    "firstNames": "Mariarosaria",
+                    "lastName": "Taddeo"
+                  },
+                  "personType": 0,
+                  "photoUrl": "/committees/personimage/68742"
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Alan Turing Institute",
+                      "role": "Digital Ethics Research Fellow",
+                      "idmsId": "https://id.parliament.uk/Pc8r7E7x",
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                },
+                {
+                  "submitterType": 2,
+                  "displayOrder": 0,
+                  "additionalContext": null,
+                  "organisations": [
+                    {
+                      "name": "Amnesty International, International Secretariat",
+                      "role": "Senior Campaigner/Advisor",
+                      "idmsId": null,
+                      "cisId": null
+                    }
+                  ],
+                  "id": 0,
+                  "mnisPerson": null,
+                  "person": null,
+                  "personType": 0,
+                  "photoUrl": null
+                }
+              ],
+              "isConfidential": false,
+              "document": {
+                "documentId": 195110,
+                "processingStatus": 4,
+                "files": [
+                  {
+                    "fileExtension": "docx",
+                    "fileName": "OE00013081.docx",
+                    "fileSize": 51763,
+                    "convertibleFileFormat": 0
+                  }
+                ]
+              },
+              "eventId": 0,
+              "activityId": 0,
+              "activityInformation": null,
+              "committeeBusinesses": [
+                {
+                  "id": 7270,
+                  "cmsId": 0,
+                  "title": "AI in weapon systems",
+                  "openDate": "2023-02-01T00:00:00",
+                  "closedDate": "2023-11-23T00:00:00",
+                  "prefix": "AIW",
+                  "contactName": null,
+                  "email": null,
+                  "telephone": null,
+                  "committees": [
+                    646
+                  ],
+                  "committeeBusinessType": {
+                    "id": 1,
+                    "name": "Inquiry",
+                    "isInquiry": true,
+                    "description": "Inquiries allow committees to consider oral and written evidence on a particular topic. They usually result in the publication of a report.",
+                    "iconKey": null
+                  },
+                  "publicationDateTime": "2023-02-01T11:28:00",
+                  "scope": null,
+                  "hcNumbers": null,
+                  "relatedInformation": [],
+                  "publicationsCount": [],
+                  "contentLinks": [],
+                  "writtenEvidenceCount": 0,
+                  "oralEvidenceCount": 0,
+                  "hybridBillCount": 0,
+                  "latestSubmissionPeriod": null,
+                  "latestOralEvidence": null,
+                  "latestReport": null,
+                  "latestGovernmentResponse": null,
+                  "bannerUrlDesktop": null,
+                  "bannerUrlMobile": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 23803,
+          "name": null,
+          "startDate": "2023-04-27T00:00:00",
+          "endDate": "2023-04-27T00:00:00",
+          "startTime": "12:00:00",
+          "endTime": "12:30:00",
+          "startDateUtc": "2023-04-27T12:00:00+01:00",
+          "endDateUtc": "2023-04-27T12:30:00+01:00",
+          "isPrivate": true,
+          "publicationDateTime": "2023-04-17T09:35:00",
+          "activityType": {
+            "id": 1,
+            "name": "Private discussion",
+            "isPrivate": true
+          },
+          "locationName": "Room 4, Palace of Westminster",
+          "locationId": 27,
+          "eventId": 18121,
+          "notes": null,
+          "attendees": [],
+          "committeeBusinesses": [],
+          "oralEvidences": []
+        }
+      ],
+      "childEvents": [],
+      "parliamentTvUrl": null
+    }
+  ],
+  "totalResults": 7,
+  "pagination": {
+    "totalPages": 1,
+    "currentPage": 0,
+    "recordsPerPage": 7,
+    "firstPage": 0,
+    "lastPage": 7,
+    "nextPage": null,
+    "previousPage": 0
+  }
+}

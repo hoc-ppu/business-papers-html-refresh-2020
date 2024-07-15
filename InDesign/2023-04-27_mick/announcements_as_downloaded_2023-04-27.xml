@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrderPaper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <House>Commons</House>
+  <Type>Effectives</Type>
+  <Days>
+    <Day>
+      <Date>2023-04-27T00:00:00</Date>
+      <Sections>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50333</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Prayers</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time>09:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Followed by]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15356</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>Questions</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>49927</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Questions to the Secretary of State for Culture, Media and Sport</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Substantive Question</BusinessItemType>
+                <Time>09:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Culture, Media and Sport</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>49928</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Topical Questions to the Secretary of State for Culture, Media and Sport</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Substantive Question</BusinessItemType>
+                <Time>10:00:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Culture, Media and Sport</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>49929</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>Questions to Church Commissioners and Speaker’s Committee on the Electoral Commission</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Substantive Question</BusinessItemType>
+                <Time>10:10:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15357</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>Urgent Questions and Statements</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50334</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>Urgent Questions (if any)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time>10:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50335</DayItemId>
+              <TabledOrder>8</TabledOrder>
+              <Title>Business Question to the Leader of the House</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50336</DayItemId>
+              <TabledOrder>9</TabledOrder>
+              <Title>Ministerial Statements (if any)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15509</DayItemId>
+              <TabledOrder>10</TabledOrder>
+              <Title>Presentation of Bills</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50339</DayItemId>
+              <TabledOrder>11</TabledOrder>
+              <Title>Northern Ireland (Interim Arrangements) Bill</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>3977</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Chris Heaton-Harris</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 57</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Legislation</BusinessItemType>
+                <Time />
+                <Duration>No debate</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[A Bill to extend the period during which departmental functions may be exercised in the absence of Ministers to cover the whole of the current period in which there is no Executive; to give the Secretary of State power, during that period, to commission advice and information for the purpose of developing options for raising more public revenue in Northern Ireland or otherwise improving the sustainability of public finances in Northern Ireland; and to require certain accounts and related documents to be laid before the House of Commons in periods in which the Northern Ireland Assembly is not functioning.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15358</DayItemId>
+              <TabledOrder>12</TabledOrder>
+              <Title>Business of the Day</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50229</DayItemId>
+              <TabledOrder>13</TabledOrder>
+              <Title>BACKBENCH BUSINESS</Title>
+              <BusinessItemDetail>
+                <ChildDayItems>
+                  <DayItem>
+                    <DayItemType>BusinessItem</DayItemType>
+                    <DayItemId>50230</DayItemId>
+                    <TabledOrder>14</TabledOrder>
+                    <Title>Progress on reforms to NHS dentistry</Title>
+                    <BusinessItemDetail>
+                      <ChildDayItems />
+                      <Sponsors>
+                        <Sponsor>
+                          <MemberId>4069</MemberId>
+                          <SortOrder>1</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Peter Aldous</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                        <Sponsor>
+                          <MemberId>4391</MemberId>
+                          <SortOrder>0</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Judith Cummins</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                      </Sponsors>
+                      <StandingOrders />
+                      <Amendments />
+                      <Links />
+                      <RenderedFields />
+                      <BusinessItemType>Motion</BusinessItemType>
+                      <Notes>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</Notes>
+                      <Time />
+                      <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</AdditionalInformation>
+                      <DateSubmitted xsi:nil="true" />
+                      <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</RelevantDocuments>
+                      <ItemText><![CDATA[That this House has considered progress on reforms to NHS dentistry.]]></ItemText>
+                    </BusinessItemDetail>
+                  </DayItem>
+                  <DayItem>
+                    <DayItemType>BusinessItem</DayItemType>
+                    <DayItemId>50231</DayItemId>
+                    <TabledOrder>15</TabledOrder>
+                    <Title>Reducing plastic pollution in the oceans</Title>
+                    <BusinessItemDetail>
+                      <ChildDayItems />
+                      <Sponsors>
+                        <Sponsor>
+                          <MemberId>4863</MemberId>
+                          <SortOrder>0</SortOrder>
+                          <HasRelevantInterest>false</HasRelevantInterest>
+                          <Name>Selaine Saxby</Name>
+                          <LayingMinisterName />
+                        </Sponsor>
+                      </Sponsors>
+                      <StandingOrders />
+                      <Amendments />
+                      <Links />
+                      <RenderedFields />
+                      <BusinessItemType>Motion</BusinessItemType>
+                      <Notes>&lt;p&gt;The subjects for these debates were determined by the Backbench Business Committee.&lt;/p&gt;</Notes>
+                      <Time />
+                      <DateSubmitted xsi:nil="true" />
+                      <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</RelevantDocuments>
+                      <ItemText><![CDATA[That this House has considered the matter of reducing plastic pollution in the oceans.]]></ItemText>
+                    </BusinessItemDetail>
+                  </DayItem>
+                </ChildDayItems>
+                <Sponsors />
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 9(3)</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>Until 5.00pm</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15359</DayItemId>
+              <TabledOrder>16</TabledOrder>
+              <Title>Adjournment Debate</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50224</DayItemId>
+              <TabledOrder>17</TabledOrder>
+              <Title>Political and security situation in Georgia</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>1522</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Adam Holloway</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 9(7)</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Adjournment Debate</BusinessItemType>
+                <Time />
+                <Duration>Until 5.30pm or for half an hour (whichever is later)</Duration>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>1</SectionId>
+          <Name>Chamber</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15280</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Order of Business</Title>
+              <Notes>The sitting will last for up to three hours (Standing Order No. 10(1))</Notes>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>49595</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>That this House has considered the Third Report of the Justice Committee, IPP Sentences, HC 266, and the Government response, HC 933</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>1601</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Sir Robert Neill</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>Standing Order No. 10(1)</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Adjournment Debate</BusinessItemType>
+                <Notes>The subject of this debate was determined by the Liaison Committee.</Notes>
+                <Time>13:30:00</Time>
+                <Duration>90 minutes</Duration>
+                <DateSubmitted>2023-03-14T17:43:14.027</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>2</SectionId>
+          <Name>Westminster Hall</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15502</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Statements to be Made Today</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50321</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>NI Finances 2023-24</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2023-04-26T11:00:32.123</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Northern Ireland</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50338</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>UK COVID-19 Inquiry</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2023-04-26T15:08:27.147</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Prime Minister</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50341</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Tax administration and maintenance: Spring 2023</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2023-04-26T16:28:12.727</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Treasury</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50344</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>Independent Review of the Police-led Management of Registered Sex Offenders</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2023-04-26T17:12:11.203</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Home Office</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50340</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>Transport Update</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2023-04-26T15:24:02.95</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Transport</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50346</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>Health Update</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2023-04-26T18:10:11.563</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Health and Social Care</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>4</SectionId>
+          <Name>Written Statements</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15503</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Forthcoming End of Day Adjournment Debates</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50322</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>No title needed</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Applications for 30-minute end of day adjournment debates should be made to the Table Office by 7.00pm or rise of the House, whichever is the earlier, on the Wednesdays listed below. Members can submit their application via MemberHub, from their own email account or in hard copy. Application forms are available on the Table Office page on the Parliamentary intranet.&nbsp;
+
+The ballot takes place on the day following the deadline. Members who are successful will be contacted by the Speaker&rsquo;s Office.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50325</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Tuesday 9 to Monday 15 May (Ballot Closed)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<span style="color: #333333; font-size: 14px;">The ballot for Tuesday 9 to Monday 15 May is closed and will take place today.</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50323</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Tuesday 16 to Monday 22 May (deadline Wednesday 10 May 7.00pm or the rise of the House, whichever is earlier)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15505</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>Forthcoming Westminster Hall Debates</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50324</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>No title needed</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Applications for 90, 60 and 30-minute debates should be made to the Table Office by 10.00pm or rise of the House, whichever is the earlier, on the deadline dates listed below. Members&nbsp;can submit their&nbsp;application via MemberHub, from their own email account or in hard copy. Application forms&nbsp;are available on the Table Office page on the Parliamentary&nbsp;intranet.
+
+The ballot takes place on the day following the deadline. Members who are successful will be contacted by the Speaker&rsquo;s Office.&nbsp;]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50326</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>Tuesday 9 and Wednesday 10 May (deadline Tuesday 2 May 10.00pm or the rise of the House, whichever is earlier)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[The following Departments will answer: Business and Trade; Defence; Education; Energy Security and Net Zero; Foreign, Commonwealth and Development; Home Office; Justice; Levelling Up, Housing and Communities; Science, Innovation and Technology; Scotland; Transport]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50327</DayItemId>
+              <TabledOrder>8</TabledOrder>
+              <Title>Tuesday 16 and Wednesday 17 May (deadline Tuesday 9 May 10.00pm or the rise of the House, whichever is earlier)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[The following Departments will answer: Attorney General; Cabinet Office; Culture, Media and Sport; Environment, Food and Rural Affairs; Health and Social Care; Northern Ireland; Treasury; Wales; Women and Equalities; Work and Pensions]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15506</DayItemId>
+              <TabledOrder>9</TabledOrder>
+              <Title>Coronation and May Bank Holiday Adjournments - Tabling of Parliamentary Questions</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50328</DayItemId>
+              <TabledOrder>10</TabledOrder>
+              <Title>No title needed</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[The following arrangements will apply for the tabling of Questions for oral and written answer during the Coronation and May Bank Holiday Adjournments.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50329</DayItemId>
+              <TabledOrder>11</TabledOrder>
+              <Title>Questions for oral answer</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Notes>&lt;p&gt;* The latest time for tabling is 12.30pm on each of these days. ** (T) denotes that there are Topical questions for this Department.&lt;/p&gt;</Notes>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;Please format middle section as a table as usual. Please also check that the "r" in answer is visible in the middle column&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<table><tbody><tr><td>Last date of tabling*</td><td>Date for answer</td><td>Departments etc.</td></tr><tr><td>Thursday&nbsp;27 April</td><td>Wednesday 3 May</td><td>Science, Innovation and Technology&nbsp;(T)</td></tr><tr><td>Thursday&nbsp;27 April</td><td>Wednesday 3 May</td><td>Prime Minister</td></tr><tr><td>Tuesday 2 May</td><td>Wednesday&nbsp;10 May</td><td>Northern Ireland</td></tr><tr><td>Wednesday 3 May</td><td>Tuesday 9 May</td><td>Treasury&nbsp;(T)</td></tr><tr><td>Wednesday 3 May</td><td>Wednesday 10 May</td><td>Prime Minister</td></tr><tr><td>Wednesday 3 May</td><td>Thursday 11 May</td><td>Cabinet Office (T)</td></tr><tr><td>Tuesday&nbsp;9 May</td><td>Monday&nbsp;15 May</td><td>Defence&nbsp;(T)</td></tr><tr><td>Tuesday&nbsp;9 May</td><td>Wednesday 17 May</td><td>Scotland</td></tr></tbody></table>
+For further details of last tabling days for other departments and answering bodies, see the Order of Questions rota available on the Commons Business Paper website at https://commonsbusiness.parliament.uk]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50330</DayItemId>
+              <TabledOrder>12</TabledOrder>
+              <Title>Questions for written answer on a named day</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Notes>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</Notes>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</RelevantDocuments>
+                <ItemText><![CDATA[<table><tbody><tr><td>Time of tabling</td><td>Ordinary answer</td><td>Earliest date for Named Day answer</td></tr><tr><td>Thursday 27 April</td><td>Tuesday 2 May</td><td>Wednesday 3 May</td></tr><tr><td>Friday 28&nbsp;April</td><td>Wednesday 3 May</td><td>Tuesday 9 May</td></tr><tr><td>Tuesday 2 May</td><td>Tuesday 9 May</td><td>Tuesday 9 May</td></tr><tr><td>Wednesday 3 May</td><td>Tuesday 9 May</td><td>Wednesday 10 May</td></tr><tr><td>From rise of House on Wednesday 3 May until 2.30pm on Friday 5 May</td><td>Wednesday 10 May</td><td>Thursday 11 May</td></tr><tr><td>Tuesday 9 May</td><td>Thursday 11 May</td><td>Monday 15 May</td></tr><tr><td>Wednesday 10 May</td><td>Monday 15 May</td><td>Monday 15 May</td></tr><tr><td>Thursday 11 May</td><td>Monday 15 May</td><td>Tuesday 16 May</td></tr><tr><td>Friday 12 May</td><td>Tuesday 16 May</td><td>Wednesday 17 May</td></tr></tbody></table>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15507</DayItemId>
+              <TabledOrder>13</TabledOrder>
+              <Title>Coronation and May Bank Holiday Adjournments - Tabling of Amendments to Public Bills</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50331</DayItemId>
+              <TabledOrder>14</TabledOrder>
+              <Title>No title needed</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB;">Amendments should be submitted by email to </span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB;">pbohoc@parliament.uk</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB;">. Amendments can be accepted from a Member&rsquo;s Parliamentary network account, or from the network account of a member of staff who has been introduced by their Member to clerks in the Public Bill Office and has been specifically authorised to act on the Member&rsquo;s behalf.</span>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri;">There is no formal deadline for amendments to or in lieu of the Lords Amendments to the National Security Bill, which will be considered on Wednesday 3 May, but Members are encouraged to give notice of any such amendments as soon as possible.</span>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri;">If amendments are to be eligible for selection in proceedings on report stage of the Lifelong Learning (Higher Education Fee Limits) Bill on Wednesday 3 May, they should be tabled by the rising of the House on Thursday 27 April. </span>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri;">If amendments are to be eligible for selection in any proceedings in the Chamber on Tuesday 9 May, they should be tabled by the rising of the House on Wednesday 3 May.</span>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri;">If amendments are to be eligible for selection in any proceedings in the Chamber on Wednesday 10 May, they should be tabled by 4.30 pm on Thursday 4 May.</span>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri;">If amendments are to be eligible for selection in any proceedings in the Chamber on Thursday 11 May, they should be tabled by 4.30 pm on Friday 5 May.</span>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri;">Amendments tabled by these deadlines will be available on the </span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri;">relevant bill pages</span><span style="font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: Calibri;"> of the Parliamentary website from the morning after the deadline.</span>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>15508</DayItemId>
+              <TabledOrder>15</TabledOrder>
+              <Title>Election of the Chair of the Culture, Media and Sport Committee</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>50332</DayItemId>
+              <TabledOrder>16</TabledOrder>
+              <Title>Nominations and ballot</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <AdditionalInformation>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <RelevantDocuments>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</RelevantDocuments>
+                <ItemText><![CDATA[Nominations must be handed in to the Table Office or Public Bill Office on days when the House is sitting and at the latest by 12pm on Tuesday 16 May. Nomination forms are available in those offices and in the Vote Office.
+In accordance with the House&rsquo;s decision of 16 January 2020 only members of the Conservative Party may be candidates in this election.
+Each nomination shall consist of a signed&nbsp;declaration&nbsp;made by the candidate declaring their willingness to stand for election, accompanied by the signatures of fifteen Members elected to the House as members of the same party as the candidate.&nbsp;Nominations may (optionally) be accompanied by signatures of up to five Members elected to the House as members of any party other than that to which the candidate belongs, or members of no party.
+No Member may sign more than one candidate's nomination paper; if any Member does so, their signature will be invalidated for all nominations. Nominations may (optionally) be accompanied by a supporting statement of no more than 500 words: supporting statements are published online and, in the event of a contested election, in an election day booklet.
+If there is more than one candidate, the ballot will take place between 11.00am and 2.30pm on Wednesday&nbsp;17 May&nbsp;in the Aye division lobby.
+As soon as practicable after the votes have been counted the Speaker will announce to the House the results of the ballot.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>7</SectionId>
+          <Name>Announcements</Name>
+        </Section>
+      </Sections>
+    </Day>
+  </Days>
+</OrderPaper>
