@@ -1,4 +1,25 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.opensans {
+  font-family: "Open Sans", sans-serif;
+}
+p {
+  font-family: 'Open Sans', sans-serif !important;
+} 
+
+h1 {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
 @font-face {
   font-family: "National";
   src: url("https://commonsbusiness.parliament.uk/external/html-papers/v1.0/National-LFS-Book.eot");
