@@ -125,3 +125,4 @@ html_file = 'demo/index.html' # business-papers-redesign homepage
 
 read_indesign_folder(indesign_folder, csv_file)
 inject_csv_into_html(csv_file, html_file)
+
