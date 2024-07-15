@@ -3,12 +3,13 @@ InDesign
 2024-05-21
 
 Summary Agenda
- 
+
 
 Effectives
 
 Questions sub heading
 Oral questions to the Secretary of State . . . is coming in as bulleted bold not Heading3Underlined
+** I believe I have fixed the above
 
 Questions missing -
 18 Julian Sturdy (York Outer) (902946)
@@ -34,13 +35,14 @@ In this example Energy is out of order.
 Committee List
 Health and social Care Committee - National Guardianâ€™s Office Should be National Guardian's Office
 Treasury Committee - unnecessary ( at ) after name
+** I believe I have fixed both of the above issues
 
 Announcements
 May be a portal thing but in the Whitsun Adjournment the Bold dates do not have a space in front of them
-Should table heading be with a tinted background? 
+Should table heading be with a tinted background?
 
 Committee Reports
-Will need change case of the headings we receive from Word. 
+Will need change case of the headings we receive from Word.
 
 
 
