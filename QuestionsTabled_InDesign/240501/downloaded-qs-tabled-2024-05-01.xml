@@ -1,0 +1,3352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestionBlock xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionBlock>
+    <Date>2024-05-02</Date>
+    <Description>Questions for Written Answer</Description>
+    <Questions>
+      <Question>
+        <Member>Bob Seely</Member>
+        <Constituency>Isle of Wight</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, what information her Department holds on the average percentage of trade union members (a) voting in ballots and (b) voting in favour of industrial action in each month of 2023.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>1</Number>
+        <UIN>24297</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Bob Seely</Member>
+        <Constituency>Isle of Wight</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, what information her Department holds on how many industrial ballots did not meet the threshold set by the Trade Union Act 2016 for strike action in each month of 2023.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>2</Number>
+        <UIN>24298</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Bob Seely</Member>
+        <Constituency>Isle of Wight</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, what information her Department holds on the number of industrial ballots submitted by trade unions in each industrial sector in each month of 2024.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>3</Number>
+        <UIN>24300</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Bob Seely</Member>
+        <Constituency>Isle of Wight</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, whether her Department holds data on (a) the average proportion of trade union members (i) voting in ballots and (ii) voting in favour of industrial action in each month of 2024; and the number of industrial ballots that did not meet the threshold required for strike action under the Trade Union Act 2016 in the first quarter of 2024.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>4</Number>
+        <UIN>24301</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Alex Cunningham</Member>
+        <Constituency>Stockton North</Constituency>
+        <Text>To ask the Secretary of State for Education, whether her Department has made an assessment of the potential merits of specialist (a) training and (b) accreditation on (i) alcohol and (ii) other drugs for social workers.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>5</Number>
+        <UIN>24039</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Justin Madders</Member>
+        <Constituency>Ellesmere Port and Neston</Constituency>
+        <Text>To ask the Secretary of State for Energy Security and Net Zero, what recent assessment she has made of the level of competition in the fuel distribution services industry.</Text>
+        <AnsweringBody>Department for Energy Security and Net Zero</AnsweringBody>
+        <Number>6</Number>
+        <UIN>24253</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, pursuant to the Answer of 22 April 2024 to Question 21236 on Livestock: Exports, if he will make an assessment of the reasons for the change since 2020.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>7</Number>
+        <UIN>24290</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what guidance his Department issues to the police on their role in investigating allegations of bribery in local council operations; and what support his Department provides to local forces handling such cases.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>8</Number>
+        <UIN>24283</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what guidelines his Department issues to (a) local authorities and (b) police forces for handling allegations of bribery and corruption in council operations.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>9</Number>
+        <UIN>24285</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Tim Farron</Member>
+        <Constituency>Westmorland and Lonsdale</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, how many applications were (a) made and (b) rejected to access funding under schemes within the flood recovery framework in the last two years; what total amount was that has been paid out through the flood recovery framework; and how many and what proportion of applicants received the maximum pay out of £25,000 under the flood recovery framework.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>10</Number>
+        <UIN>24355</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir John Hayes</Member>
+        <Constituency>South Holland and The Deepings</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how many people have been prosecuted in relation to sham marriages or civil partnerships that have taken place for the purpose of remaining in the UK since 2019.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>11</Number>
+        <UIN>24182</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, if he will make an assessment of the implications for his policies of trends in the number of convictions for class (a) A and (b) B drug possession in the last five years.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>12</Number>
+        <UIN>24237</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jo Stevens</Member>
+        <Constituency>Cardiff Central</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, how many minimum wage investigations HMRC concluded in each financial year since 2019 in Wales.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>13</Number>
+        <UIN>24257</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+    </Questions>
+    <QuestionType>Written</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-07</Date>
+    <Description>Questions for Written Answer</Description>
+    <Questions>
+      <Question>
+        <Member>Christian Wakeford</Member>
+        <Constituency>Bury South</Constituency>
+        <Text>To ask the Minister for the Cabinet Office, if he will take steps with Cabinet colleagues to increase public sector pay in line with inflation.</Text>
+        <AnsweringBody>Cabinet Office</AnsweringBody>
+        <Number>1</Number>
+        <UIN>24591</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir Desmond Swayne</Member>
+        <Constituency>New Forest West</Constituency>
+        <Text>To ask the Member for South West Bedfordshire, representing the Church Commissioners, what representations the Church has made to the Israeli government to secure the release of Layan Nasir from administrative detention.</Text>
+        <AnsweringBody>Church Commissioners</AnsweringBody>
+        <Number>2</Number>
+        <UIN>24356</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, if she will make an assessment of the potential impact of inspection fees on food from (a) Eastern Europe and (b) other countries under the Border Target Operating Model on the cost of food.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>3</Number>
+        <UIN>24513</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir John Hayes</Member>
+        <Constituency>South Holland and The Deepings</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, what the cost to her Department was of (a) events, (b) activities, (c) merchandise and (d) other costs relating to Pride Month 2023.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>4</Number>
+        <UIN>24377</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Kevan Jones</Member>
+        <Constituency>North Durham</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, pursuant to the Answer of 19 February 2024 to Question 13544 on Export Credit Guarantees, whether (a) her Department or (b) UK Export Finance has unilaterally proposed a 100% guarantee in advance of negotiations with a company.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>5</Number>
+        <UIN>24406</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Helen Morgan</Member>
+        <Constituency>North Shropshire</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, whether her Department has made an impact assessment of changes to labelling costs for dairy businesses after 1 October 2024.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>6</Number>
+        <UIN>24597</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Helen Morgan</Member>
+        <Constituency>North Shropshire</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, whether her Department has made an assessment of the potential impact of changes to labelling requirements from 1 October 2024 on the financial viability of dairy businesses.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>7</Number>
+        <UIN>24598</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, whether she has made an assessment of the potential implications for her policies on small businesses of trends in the number of bank closures in the last two years.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>8</Number>
+        <UIN>24464</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Christian Wakeford</Member>
+        <Constituency>Bury South</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, if she will make an assessment of the adequacy of the investigation by the Competition and Markets Authority into the proposed merger between Vodafone and Three Mobile.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>9</Number>
+        <UIN>24593</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Christian Wakeford</Member>
+        <Constituency>Bury South</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, if she will make an assessment of the potential impact of the links between the Li family and the Chinese state on the proposed merger of Three Mobile with Vodafone.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>10</Number>
+        <UIN>24594</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Culture, Media and Sport, what assessment she has made of the impact of tourism on the local economy in (a) rural and (b) coastal communities.</Text>
+        <AnsweringBody>Department for Culture, Media and Sport</AnsweringBody>
+        <Number>11</Number>
+        <UIN>24461</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dan Jarvis</Member>
+        <Constituency>Barnsley Central</Constituency>
+        <Text>To ask the Secretary of State for Education, what steps her Department is taking to ensure that changes to parent fines for missing school do not unintentionally impact children who are absent from school due to prolonged illness.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>12</Number>
+        <UIN>24478</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Justin Madders</Member>
+        <Constituency>Ellesmere Port and Neston</Constituency>
+        <Text>To ask the Secretary of State for Education, what assessment she has made of the potential impact of ending funding for the National Tutoring Programme on the attainment gap in 2024.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>13</Number>
+        <UIN>24488</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Seema Malhotra</Member>
+        <Constituency>Feltham and Heston</Constituency>
+        <Text>To ask the Secretary of State for Education, how many businesses can be involved in the provision of (a) a T Level industry placement and (b) flexi-job apprenticeships.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>14</Number>
+        <UIN>24481</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Education, if she will make an assessment of the adequacy of resources for teaching children about allergies in primary schools.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>15</Number>
+        <UIN>24462</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Education, if she will make an assessment of the potential impact of studying religious education at key stage (a) 4 and (b) 5 on the educational attainment of disadvantaged pupils.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>16</Number>
+        <UIN>24473</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Education, if she will have discussions with the Chancellor of the Exchequer on the potential merits of increasing funding through the Barnett formula to assist schools in Northern Ireland with the cost of heating and electricity.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>17</Number>
+        <UIN>24476</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir Robert Goodwill</Member>
+        <Constituency>Scarborough and Whitby</Constituency>
+        <Text>To ask the Secretary of State for Energy Security and Net Zero, how many submissions to the second hydrogen allocation round her Department received by 19 April; what the total production capacity of the projects in those submissions is; and if she will provide a breakdown of the locations of those projects by region.</Text>
+        <AnsweringBody>Department for Energy Security and Net Zero</AnsweringBody>
+        <Number>18</Number>
+        <UIN>24437</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Wera Hobhouse</Member>
+        <Constituency>Bath</Constituency>
+        <Text>To ask the Secretary of State for Energy Security and Net Zero, with reference to page 7 of the Boiler Upgrade Scheme Consultation Response, published on 14 March 2024, on what evidential basis her Department removed the requirement to fulfil the recommendations for loft and cavity wall insulation provided on an energy performance certificate for new applicants for the boiler upgrade scheme.</Text>
+        <AnsweringBody>Department for Energy Security and Net Zero</AnsweringBody>
+        <Number>19</Number>
+        <UIN>24602</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Kenny MacAskill</Member>
+        <Constituency>East Lothian</Constituency>
+        <Text>To ask the Secretary of State for Energy Security and Net Zero, pursuant to the Answer of 1 May 2024 to Question 23954 on Energy: Debts, what allowance for servicing consumer debt is permitted by Ofgem in setting the level of the Default Tariff Cap.</Text>
+        <AnsweringBody>Department for Energy Security and Net Zero</AnsweringBody>
+        <Number>20</Number>
+        <UIN>24573</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Energy Security and Net Zero, what estimate she has made of the number of (a) new and (b) used electric vehicles bought in the last 12 months.</Text>
+        <AnsweringBody>Department for Energy Security and Net Zero</AnsweringBody>
+        <Number>21</Number>
+        <UIN>24475</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Barry Sheerman</Member>
+        <Constituency>Huddersfield</Constituency>
+        <Text>To ask the Secretary of State for Energy Security and Net Zero, if she will take steps to reduce the energy use of outdoor digital billboards.</Text>
+        <AnsweringBody>Department for Energy Security and Net Zero</AnsweringBody>
+        <Number>22</Number>
+        <UIN>24382</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sarah Champion</Member>
+        <Constituency>Rotherham</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, how many Dog Legislation Officers there were on 15 September 2023; how many and what proportion of those Dog Legislation Officers have received training in the identification standard for an XL Bully; and how many new Dog Legislation Officers have been trained since 1 January 2024.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>23</Number>
+        <UIN>24482</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Brendan Clarke-Smith</Member>
+        <Constituency>Bassetlaw</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, what recent discussions his Department has had with the Environment Agency on trends in the level of (a) dredging and (b) desilting as a means of flood prevention.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>24</Number>
+        <UIN>24564</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stella Creasy</Member>
+        <Constituency>Walthamstow</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, what his planned timetable is for issuing invoices for the Common User Charge for shipments entering the UK on 1 May 2024.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>25</Number>
+        <UIN>24448</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stella Creasy</Member>
+        <Constituency>Walthamstow</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, if he will publish the (a) cost of construction and (b) estimated annual running cost of the Sevington Border Control Post.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>26</Number>
+        <UIN>24449</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stella Creasy</Member>
+        <Constituency>Walthamstow</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, with reference to the Border Target Operating Model, whether he has issued guidance to border control staff on the acceptable level of errors in a customs declaration for goods coming in to the UK.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>27</Number>
+        <UIN>24450</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stella Creasy</Member>
+        <Constituency>Walthamstow</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, what the cost to the public purse was for the administration of the Import of products, animals, food and feed system in each year since 2019.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>28</Number>
+        <UIN>24451</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stella Creasy</Member>
+        <Constituency>Walthamstow</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, if he will make an assessment of the impact of current operating hours of privately-run Border Control Posts on just-in-time supply chains.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>29</Number>
+        <UIN>24452</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Judith Cummins</Member>
+        <Constituency>Bradford South</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, if he will make an assessment of the adequacy of existing legislation to tackle common nuisances such as (a) smoke, (b) bonfires, (c) smells and fumes, (d) accumulation of rubbish, (e) infestations and (f) litter.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>30</Number>
+        <UIN>24486</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, what discussions he had with food import businesses before implementation of physical checks on (a) animal and (b) plant products entering from the EU.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>31</Number>
+        <UIN>24514</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Anneliese Dodds</Member>
+        <Constituency>Oxford East</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, whether he has had recent discussions with Ofwat on water companies outsourcing capital programmes to separate companies.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>32</Number>
+        <UIN>24537</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Chris Grayling</Member>
+        <Constituency>Epsom and Ewell</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, when he plans to bring forward secondary legislation under the Environment Act 2021 on forest risk commodities.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>33</Number>
+        <UIN>24404</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jane Hunt</Member>
+        <Constituency>Loughborough</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, if he will make an assessment of the potential merits of extending the short-term pause in the determination of applications for environmental permits for certain types of waste incineration facilities in England beyond 24 May.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>34</Number>
+        <UIN>24588</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Ruth Jones</Member>
+        <Constituency>Newport West</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, how many XL Bullies registered with the exemption scheme have not been neutered.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>35</Number>
+        <UIN>24561</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Ruth Jones</Member>
+        <Constituency>Newport West</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, whether he plans to make an assessment of the potential merits of measures to reduce the need to seize dogs which are likely to be exempted from Section 1 of the Dangerous Dogs Act 1991.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>36</Number>
+        <UIN>24562</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Ruth Jones</Member>
+        <Constituency>Newport West</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, if he will make an assessment of the potential merits of making the use of catapults to harm wildlife illegal.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>37</Number>
+        <UIN>24563</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Ian Liddell-Grainger</Member>
+        <Constituency>Bridgwater and West Somerset</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, what criteria his Department use to assess whether to build solar farms on productive farmland.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>38</Number>
+        <UIN>24397</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Helen Morgan</Member>
+        <Constituency>North Shropshire</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, what assessment he has made of the potential impact of the end of the air quality grant scheme on pollution levels.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>39</Number>
+        <UIN>24600</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>James Murray</Member>
+        <Constituency>Ealing North</Constituency>
+        <Text>To ask the Secretary of State for Environment, Food and Rural Affairs, when he plans to answer Question 21855, tabled by the hon. Member for Ealing North on 15 April 2024.</Text>
+        <AnsweringBody>Department for Environment, Food and Rural Affairs</AnsweringBody>
+        <Number>40</Number>
+        <UIN>24586</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mike Amesbury</Member>
+        <Constituency>Weaver Vale</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what data his Department holds on the number of residents who have been ordered to leave their flats in the last three years.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>41</Number>
+        <UIN>24538</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mike Amesbury</Member>
+        <Constituency>Weaver Vale</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, with reference to his Department's statistics entitled Statutory homelessness in England: October to December 2023, published on 30 April 2024, what steps his Department is taking to (a) help prevent more households being forced into temporary accommodation and (b) financially support local authorities facing an increase demand for temporary accomodation.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>42</Number>
+        <UIN>24539</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mike Amesbury</Member>
+        <Constituency>Weaver Vale</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, if he will make an assessment of the adequacy of support for residents ordered to leave their flats because of (a) structural and (b) fire risks.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>43</Number>
+        <UIN>24540</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what data his Department holds on the number of empty dwellings in the UK in the last 6 months.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>44</Number>
+        <UIN>24516</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, if he will make an assessment of the effectiveness of his Department's policies on reducing the number of empty homes in the UK.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>45</Number>
+        <UIN>24517</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what steps he is taking to encourage occupation of long term empty homes.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>46</Number>
+        <UIN>24518</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what assessment his Department has made of the potential barriers to reducing the number of empty dwellings in high-demand housing areas.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>47</Number>
+        <UIN>24519</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tobias Ellwood</Member>
+        <Constituency>Bournemouth East</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what guidance is available to local authorities on valuations when selling (a) land and (b) property.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>48</Number>
+        <UIN>24409</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tobias Ellwood</Member>
+        <Constituency>Bournemouth East</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, whether he (a) has had or (b) plans to have discussions with Bournemouth, Christchurch and Poole Council on selling land designated for employment use as storage land.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>49</Number>
+        <UIN>24410</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tobias Ellwood</Member>
+        <Constituency>Bournemouth East</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what guidance is available to local authorities on the utilisation of land sold as storage land.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>50</Number>
+        <UIN>24411</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Helen Morgan</Member>
+        <Constituency>North Shropshire</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, how many councils had a completed audit on time for the financial year 2023-2024.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>51</Number>
+        <UIN>24599</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, whether he has had discussions with the Northern Ireland Housing Executive on tackling homelessness and rough sleeping in the devolved nations.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>52</Number>
+        <UIN>24465</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, if he will make an estimate of the number and proportion of people under the age of 40 who (a) lived in private rented accommodation and (b) had a mortgage in each of the last five years.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>53</Number>
+        <UIN>24468</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Barry Sheerman</Member>
+        <Constituency>Huddersfield</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what assessment he has made of the implications for his policies of the research by Adfree cities which found that outdoor advertising is disproportionately placed in areas of existing deprivation, published in March 2024.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>54</Number>
+        <UIN>24383</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Barry Sheerman</Member>
+        <Constituency>Huddersfield</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, if he will make an assessment of the potential merits of including provisions within the High Streets (Designation, Review and Improvement Plan) Bill on outdoor advertising.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>55</Number>
+        <UIN>24384</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Barry Sheerman</Member>
+        <Constituency>Huddersfield</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, if he will bring forward legislative proposals to restrict outdoor advertising.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>56</Number>
+        <UIN>24385</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Barry Sheerman</Member>
+        <Constituency>Huddersfield</Constituency>
+        <Text>To ask the Secretary of State for Science, Innovation and Technology, whether her Department holds information on the use of outdoor advertising infrastructure for digital data capture.</Text>
+        <AnsweringBody>Department for Science, Innovation and Technology</AnsweringBody>
+        <Number>57</Number>
+        <UIN>24388</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Gregory Campbell</Member>
+        <Constituency>East Londonderry</Constituency>
+        <Text>To ask the Secretary of State for Transport, whether he plans to publish revised national road traffic projections before the Summer recess.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>58</Number>
+        <UIN>24401</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tanmanjeet Singh Dhesi</Member>
+        <Constituency>Slough</Constituency>
+        <Text>To ask the Secretary of State for Transport, whether he is taking steps to mitigate the potential impact of increases in import costs at Dover on the efficiency of haulage operations.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>59</Number>
+        <UIN>24515</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fabian Hamilton</Member>
+        <Constituency>Leeds North East</Constituency>
+        <Text>To ask the Secretary of State for Transport, if he will make an assessment of the implications for his policies of the report by the Centre for Economic Business Research entitled The pothole crisis is costing £14.4 billion a year in economic damage in England alone, published on 29 April 2024.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>60</Number>
+        <UIN>24394</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for Transport, what steps he is taking to promote job creation in British ports.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>61</Number>
+        <UIN>24520</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for Transport, what steps he is taking to help improve port infrastructure in (a) Portsmouth and (b) across the UK.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>62</Number>
+        <UIN>24521</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Grahame Morris</Member>
+        <Constituency>Easington</Constituency>
+        <Text>To ask the Secretary of State for Transport, how many and what proportion of vehicles on the Driver and Vehicle Standards Agency database do not have a valid MOT in (a) England and (b) Easington constituency.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>63</Number>
+        <UIN>24444</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Grahame Morris</Member>
+        <Constituency>Easington</Constituency>
+        <Text>To ask the Secretary of State for Transport, how many and what proportion of vehicles on the Driver and Vehicle Licensing Agency database are not taxed in (a) England and (b) Easington constituency.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>64</Number>
+        <UIN>24445</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Christian Wakeford</Member>
+        <Constituency>Bury South</Constituency>
+        <Text>To ask the Secretary of State for Transport, if he will make it his policy to help support train companies to (a) buy rather than lease trains and (b) purchase UK-made trains.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>65</Number>
+        <UIN>24592</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir Gavin Williamson</Member>
+        <Constituency>South Staffordshire</Constituency>
+        <Text>To ask the Secretary of State for Transport, whether the Network North budget allocated to connect Manchester to Liverpool applies to the entire section of Northern Powerhouse Rail.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>66</Number>
+        <UIN>24453</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir Gavin Williamson</Member>
+        <Constituency>South Staffordshire</Constituency>
+        <Text>To ask the Secretary of State for Transport, if he will have discussions with the Leader of the House on making parliamentary time available for debate on a motion to formalise the point of truncation of Nothern Powerhouse Rail and the former HS2 Phase 2b; and what plans he has to (a) publish a supplementary environmental statement and (b) consult on that issue.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>67</Number>
+        <UIN>24454</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir Gavin Williamson</Member>
+        <Constituency>South Staffordshire</Constituency>
+        <Text>To ask the Secretary of State for Transport, when strategic development of the Parish of Millington and Rostherne to Liverpool section of Northern Powerhouse Rail commenced; who is responsible for overseeing that work; what the estimated timeline for completing the work is; and what budget his Department has allocated for delivering that section.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>68</Number>
+        <UIN>24455</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir Gavin Williamson</Member>
+        <Constituency>South Staffordshire</Constituency>
+        <Text>To ask the Secretary of State for Transport, when strategic development of the Manchester Piccadilly to West Yorkshire section of Northern Powerhouse Rail commenced; who is responsible for overseeing that work; what the estimated timeline for completing the work is; and what budget his Department has allocated for delivering that section.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>69</Number>
+        <UIN>24456</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Neil Coyle</Member>
+        <Constituency>Bermondsey and Old Southwark</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, how much his Department has spent on its Disability Confident employer scheme.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>70</Number>
+        <UIN>24484</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Drew Hendry</Member>
+        <Constituency>Inverness, Nairn, Badenoch and Strathspey</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, how many people in employment receive Personal Independence Payments.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>71</Number>
+        <UIN>24492</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Drew Hendry</Member>
+        <Constituency>Inverness, Nairn, Badenoch and Strathspey</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, what assessment his Department has made of the potential impact of Personal Independence Payments on trends in the number of claimants (a) in and (b) seeking employment.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>72</Number>
+        <UIN>24493</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Lloyd Russell-Moyle</Member>
+        <Constituency>Brighton, Kemptown</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, what recent assessment he has made of the potential impact of the benefit cap on people living in regions with high housing costs outside of Greater London; and if he will make an assessment of the potential merits of (a) aligning the benefit cap with Local Housing Allowance rates and (b) exempting housing-related benefits from a benefits cap set at a lower rate.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>73</Number>
+        <UIN>24509</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Lloyd Russell-Moyle</Member>
+        <Constituency>Brighton, Kemptown</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, whether he has plans to distinguish between (a) studio and (b) one bedroom apartments in Local Housing Allowance rates.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>74</Number>
+        <UIN>24510</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Work and Pensions, whether his Department issues guidance to Departments on supporting candidates with autism through job recruitment boards.</Text>
+        <AnsweringBody>Department for Work and Pensions</AnsweringBody>
+        <Number>75</Number>
+        <UIN>24470</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Gregory Campbell</Member>
+        <Constituency>East Londonderry</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, whether he expects to receive the outcome of the Group B Streptococcus trial before the House rises for the Summer adjournment.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>76</Number>
+        <UIN>24400</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Daisy Cooper</Member>
+        <Constituency>St Albans</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will make an assessment of the potential merits of providing access to pelvic floor (a) training and (b) physiotherapy for every new mother.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>77</Number>
+        <UIN>24565</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir John Hayes</Member>
+        <Constituency>South Holland and The Deepings</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what estimate she has made of the number of admissions to hospital for cannabis use in the last five years.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>78</Number>
+        <UIN>24379</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir John Hayes</Member>
+        <Constituency>South Holland and The Deepings</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, whether she has made a recent assessment of the potential impact of cannabis usage on mental health.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>79</Number>
+        <UIN>24380</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir Greg Knight</Member>
+        <Constituency>East Yorkshire</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what steps her Department is taking to help reduce waiting times in ambulance and emergency departments in Yorkshire.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>80</Number>
+        <UIN>24396</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mark Logan</Member>
+        <Constituency>Bolton North East</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what steps her Department is taking to help support people with post-polio syndrome in the North West; and if she will make an assessment of the adequacy of the care provided to those people.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>81</Number>
+        <UIN>24587</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Helen Morgan</Member>
+        <Constituency>North Shropshire</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, how many women were turned away from mammogram screening tests because they were unable to hold the required position for sufficient time in each of the last five years.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>82</Number>
+        <UIN>24596</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Caroline Nokes</Member>
+        <Constituency>Romsey and Southampton North</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, pursuant to the Answer of 30 April 2024 to Question 23729 on the National Learning Disability Board, for what reason the National Learning Disability Board was disbanded in 2016.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>83</Number>
+        <UIN>24446</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Caroline Nokes</Member>
+        <Constituency>Romsey and Southampton North</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what steps her Department takes to involve people with learning disabilities in the development and implementation of measures to reduce their health inequalities.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>84</Number>
+        <UIN>24447</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will make an assessment of the potential merits of making laser treatment for prostate cancer available on the NHS.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>85</Number>
+        <UIN>24459</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what measures his department is taking to support patients with inflammatory skin conditions to manage the impact of their condition on their mental health.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>86</Number>
+        <UIN>24460</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will introduce a national register of people with silicosis.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>87</Number>
+        <UIN>24463</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, whether her Department plans to update the National Safety Standards for Invasive Procedures in relation to the potential risk surgical of fires.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>88</Number>
+        <UIN>24469</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, how many people have been diagnosed with type 2 diabetes in the last three years, broken down by (a) age and (b) gender.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>89</Number>
+        <UIN>24471</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Barry Sheerman</Member>
+        <Constituency>Huddersfield</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will make an assessment of the potential impact of advertising on the mental health of children and young people.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>90</Number>
+        <UIN>24386</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Barry Sheerman</Member>
+        <Constituency>Huddersfield</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will take steps with Cabinet colleagues to help tackle the potential impact of outdoor advertising on children’s (a) diet and (b) obesity levels.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>91</Number>
+        <UIN>24387</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Karin Smyth</Member>
+        <Constituency>Bristol South</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what her planned timetable is for publication of the implementation plan for the Medical Technology Strategy.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>92</Number>
+        <UIN>24491</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Alison Thewliss</Member>
+        <Constituency>Glasgow Central</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will make an assessment of the implications for her policies of the development of intelligent liver function tests by the University of Dundee; and if she will make it her policy to increase the rollout of these tests in areas with the highest levels of liver disease in England.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>93</Number>
+        <UIN>24489</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Derek Thomas</Member>
+        <Constituency>St Ives</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will (a) respond to the letter of 21 February 2024 from Parliamentarians on Excess Deaths and (b) direct the other recipients to respond.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>94</Number>
+        <UIN>24505</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Owen Thompson</Member>
+        <Constituency>Midlothian</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what steps her Department is taking to ensure myalgic encephalomyelitis receives a proportionate share of National Institute for Health and Care Research funding.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>95</Number>
+        <UIN>24494</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Owen Thompson</Member>
+        <Constituency>Midlothian</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will instruct the National Institute for Health and Care Research to increase the level of funding available for myalgic encephalomyelitis research.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>96</Number>
+        <UIN>24495</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Catherine West</Member>
+        <Constituency>Hornsey and Wood Green</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what steps she is taking to increase breastfeeding rates.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>97</Number>
+        <UIN>24502</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Catherine West</Member>
+        <Constituency>Hornsey and Wood Green</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, whether she has had recent discussions with representatives of Unicef on (a) its Baby Friendly initiative and (b) trends in breastfeeding rates in the UK.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>98</Number>
+        <UIN>24503</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Catherine West</Member>
+        <Constituency>Hornsey and Wood Green</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, whether her Department takes steps to support breastfeeding (a) support groups and (b) charities in Hornsey and Wood Green constituency.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>99</Number>
+        <UIN>24504</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir Gavin Williamson</Member>
+        <Constituency>South Staffordshire</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, what steps her Department is taking to help increase the provision of covid-19 booster vaccinations to community pharmacies.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>100</Number>
+        <UIN>24457</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Ms Lyn Brown</Member>
+        <Constituency>West Ham</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, whether he has (a) made an assessment of the adequacy of resources available to the BBC World Service in advance of the next Spending Review and (b) had recent discussions with the BBC on the potential impact of its resourcing decisions on the UK's soft power.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>101</Number>
+        <UIN>24443</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Gregory Campbell</Member>
+        <Constituency>East Londonderry</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, if he will make an assessment of the potential impact of trends in the level of gold purchased by the Chinese government on the risk of a conflict in Taiwan.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>102</Number>
+        <UIN>24403</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Daisy Cooper</Member>
+        <Constituency>St Albans</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, if he will make an assessment of the implications for his policies on funding for UNRWA of the final report of the Independent Review of Mechanisms and Procedures to Ensure Adherence by UNRWA to the Humanitarian Principle of Neutrality, published on 22 April 2024.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>103</Number>
+        <UIN>24566</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fabian Hamilton</Member>
+        <Constituency>Leeds North East</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, what assessment he has made of the potential implications for his policies of the suspension of foreign media access in Burkina Faso.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>104</Number>
+        <UIN>24389</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fabian Hamilton</Member>
+        <Constituency>Leeds North East</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, whether he has had discussions with his Iranian counterpart on Toomaj Salehi’s death sentence.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>105</Number>
+        <UIN>24390</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fabian Hamilton</Member>
+        <Constituency>Leeds North East</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, if he will make an assessment of the (a) adequacy of the transparency of the Chinese government on their handling of the covid-19 outbreak and (b) implications for his policies of the protest by Zhang Yongzhen.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>106</Number>
+        <UIN>24391</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fabian Hamilton</Member>
+        <Constituency>Leeds North East</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, what discussions he has had with his Georgian counterpart on the recent riots in that country relating to the On Transparency of Foreign Influence bill.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>107</Number>
+        <UIN>24392</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fabian Hamilton</Member>
+        <Constituency>Leeds North East</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, what support his Department plans to provide to (a) Fritz Bélizaire, (b) Edgard Leblanc and (c) the Transitional Council in Haiti.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>108</Number>
+        <UIN>24393</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Daniel Kawczynski</Member>
+        <Constituency>Shrewsbury and Atcham</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, if he will make it his policy to recognise Emirati sovereignty of Abu Musa, Greater Tunb, and Lesser Tunb.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>109</Number>
+        <UIN>24438</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Daniel Kawczynski</Member>
+        <Constituency>Shrewsbury and Atcham</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, whether he has made an assessment of the legality of Iran’s military occupation of Abu Musa, Greater Tunb and Lesser Tunb; and if he will raise that matter with his Gulf Cooperation Council partners.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>110</Number>
+        <UIN>24439</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Daniel Kawczynski</Member>
+        <Constituency>Shrewsbury and Atcham</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, if he will make it his policy to assume responsibility for mediating Iran’s withdrawal from Abu Musa, Greater Tunb and Lesser Tunb.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>111</Number>
+        <UIN>24440</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Daniel Kawczynski</Member>
+        <Constituency>Shrewsbury and Atcham</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, if he will publish (a) historic documents and (b) maps held by his Department that demonstrate that Abu Musa, Greater Tunb and Lesser Tunb fell under UK protection as part of the Trucial States up to 1971.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>112</Number>
+        <UIN>24441</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Kenny MacAskill</Member>
+        <Constituency>East Lothian</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, pursuant to the Answer of 24 April 2024 to Question 22165 on Israel Defense Forces: Private Military and Security Companies, for what reason the Israeli Ministry of Foreign Affairs informed his Department of the number of British Nationals who immigrated to Israel on their own to serve in the IDF in September 2023.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>113</Number>
+        <UIN>24569</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Kenny MacAskill</Member>
+        <Constituency>East Lothian</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, pursuant to the Answer of 24 April 2024 to Question 22165 on Israel Defense Forces: Private Military and Security Companies, who in his Department did the Israeli Ministry of Foreign Affairs inform of the number of British Nationals who immigrated to Israel on their own to serve in the IDF in September 2023.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>114</Number>
+        <UIN>24570</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Kenny MacAskill</Member>
+        <Constituency>East Lothian</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, pursuant to the Answer of 24 April 2024 to Question 22165 on Israel Defense Forces: Private Military and Security Companies, whether the Israeli Ministry of Foreign Affairs has given his Department the names of 80 British Nationals who immigrated to Israel on their own to serve in the IDF in September 2023.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>115</Number>
+        <UIN>24571</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Kenny MacAskill</Member>
+        <Constituency>East Lothian</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, if he will make representations to his Bahraini counterpart on the release of (a) Sheikh Ali Salman, (b) Abdulhadi al-Khawaja, (c) Hassan Mushaima and (d) other members of the political opposition in that country.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>116</Number>
+        <UIN>24574</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Seema Malhotra</Member>
+        <Constituency>Feltham and Heston</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, what recent assessment he has made of the impact of UK Official Development Assistance spending on the resilience of primary and secondary school education in crisis-affected countries.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>117</Number>
+        <UIN>24479</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Seema Malhotra</Member>
+        <Constituency>Feltham and Heston</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, how many girls have been supported by UK Official Development Assistance funding to enter or continue education.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>118</Number>
+        <UIN>24480</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, if he will take steps with international partners to (a) press Pakistan to stop deportation of Afghan people and (b) develop a longer-term strategy on the situation in Afghanistan.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>119</Number>
+        <UIN>24526</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, what assessment he has made of the adequacy of access to food in Gaza.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>120</Number>
+        <UIN>24527</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, what diplomatic representations he has made to Israel on allowing 500 aid trucks a day to enter Gaza.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>121</Number>
+        <UIN>24528</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Chi Onwurah</Member>
+        <Constituency>Newcastle upon Tyne Central</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, pursuant to the Answer of 25 April 2024 to Question 22306 on Gaza; Aid Workers, whether the Secretary of State for Foreign, Commonwealth and Development maintains his comment of 5 April 2024 that findings of Israel’s review into the killing of aid workers must be published in full and followed up with a wholly independent review to ensure the utmost transparency and accountability.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>122</Number>
+        <UIN>24458</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Liz Saville Roberts</Member>
+        <Constituency>Dwyfor Meirionnydd</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, what steps his Department is taking to stop settler violence against farmers in the West Bank.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>123</Number>
+        <UIN>24501</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Deputy Foreign Secretary, if he will make an assessment of the potential impact of the decision to suspend funding to UNRWA on religious minorities.</Text>
+        <AnsweringBody>Foreign, Commonwealth and Development Office</AnsweringBody>
+        <Number>124</Number>
+        <UIN>24472</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dr Rosena Allin-Khan</Member>
+        <Constituency>Tooting</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, what airline took an asylum seeker to Rwanda on 30 April 2024.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>125</Number>
+        <UIN>24506</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dr Rosena Allin-Khan</Member>
+        <Constituency>Tooting</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how much was spent on sending an asylum seeker to Rwanda on 30 April 2024.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>126</Number>
+        <UIN>24507</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dr Rosena Allin-Khan</Member>
+        <Constituency>Tooting</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, on what grounds the asylum seeker sent to Rwanda on 30 April 2024 had claimed asylum.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>127</Number>
+        <UIN>24508</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dawn Butler</Member>
+        <Constituency>Brent Central</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, if he will publish a breakdown of how the £171,000 per person deported to Rwanda agreed in the UK-Rwanda Migration and Economic Development Partnership will be spent.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>128</Number>
+        <UIN>24412</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dawn Butler</Member>
+        <Constituency>Brent Central</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, where refugees coming from Rwanda to the UK will be housed.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>129</Number>
+        <UIN>24413</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dawn Butler</Member>
+        <Constituency>Brent Central</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, with reference to the UK-Rwanda Migration and Economic Development Partnership, what care and support will be provided for for refugees coming from Rwanda to the UK.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>130</Number>
+        <UIN>24414</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dawn Butler</Member>
+        <Constituency>Brent Central</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how much will people whose claims have been rejected be offered to move to Rwanda voluntarily.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>131</Number>
+        <UIN>24415</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dawn Butler</Member>
+        <Constituency>Brent Central</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, who will conduct initial asylum screenings under the UK-Rwanda Migration and Economic Development Partnership.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>132</Number>
+        <UIN>24416</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Daisy Cooper</Member>
+        <Constituency>St Albans</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how many asylum seekers were subject to electronic tagging as part of his Department's pilot programme between 15 June 2022 and 31 December 2023.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>133</Number>
+        <UIN>24567</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Daisy Cooper</Member>
+        <Constituency>St Albans</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, if he will make an assessment of the implications for his policies of the enforcement notice issued by the Information Commissioner's Office on 21 March 2024 on the privacy risks posed by the electronic monitoring of people arriving in the UK by unauthorised means.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>134</Number>
+        <UIN>24568</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir John Hayes</Member>
+        <Constituency>South Holland and The Deepings</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, what recent assessment his Department has made of the potential impact of cannabis use on violent crime.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>135</Number>
+        <UIN>24381</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Andrea Jenkyns</Member>
+        <Constituency>Morley and Outwood</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, what recent assessment he has made of the impact of illegal immigration on (a) society and (b) the economy.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>136</Number>
+        <UIN>24496</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Diana Johnson</Member>
+        <Constituency>Kingston upon Hull North</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, pursuant to the Answer of 26 April 2024 to Question 23168 on Asylum: Rwanda, how many immigration removal centres make up the detention capacity of around 2200 people; and if he will list those centres.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>137</Number>
+        <UIN>24418</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Diana Johnson</Member>
+        <Constituency>Kingston upon Hull North</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, if he will publish the operational agreement with the Irish government on the return of asylum seekers.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>138</Number>
+        <UIN>24419</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Diana Johnson</Member>
+        <Constituency>Kingston upon Hull North</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how many detention spaces are reserved for individuals seeking asylum who are designated for deportation to Rwanda.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>139</Number>
+        <UIN>24420</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Diana Johnson</Member>
+        <Constituency>Kingston upon Hull North</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how many individuals seeking asylum have been detained pending deportation to Rwanda.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>140</Number>
+        <UIN>24421</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Diana Johnson</Member>
+        <Constituency>Kingston upon Hull North</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, whether (a) Ministers and (b) officials in his Department have met with representatives of Pornhub since 2018.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>141</Number>
+        <UIN>24422</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Gen Kitchen</Member>
+        <Constituency>Wellingborough</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, whether any asylum seekers in Wellingborough constituency have been (a) identified and (b) detained for deportation to Rwanda.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>142</Number>
+        <UIN>24601</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how many outages have affected the Police National Computer in each year since 2015.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>143</Number>
+        <UIN>24358</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, what assessment he has made of the adequacy of security measures in place for the Police National Computer.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>144</Number>
+        <UIN>24359</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how many back-up servers are in operation for the Police National Computer.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>145</Number>
+        <UIN>24360</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, whether he has made an assessment of the potential merits of of scrapping the £200 summary offence rule for shoplifting and theft.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>146</Number>
+        <UIN>24524</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, what steps he is taking to reduce rates of shoplifting in Portsmouth.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>147</Number>
+        <UIN>24525</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, whether he has had recent discussions with the Police Service of Northern Ireland on tackling underage drinking in Northern Ireland.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>148</Number>
+        <UIN>24466</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how many thefts from retail businesses there have been in each of the last three years.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>149</Number>
+        <UIN>24474</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Cat Smith</Member>
+        <Constituency>Lancaster and Fleetwood</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, when he plans to announce whether he plans to extend the seasonal agricultural workers scheme beyond December 2024.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>150</Number>
+        <UIN>24490</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Emily Thornberry</Member>
+        <Constituency>Islington South and Finsbury</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, with reference to the UK-France Joint Leader's Declaration, published by the Prime Minister's Office on 10 March 2023, from which budget the UK's contribution to the joint funding arrangement for the operational plan on illegal migration will come; and whether details of those payments are published regularly in transparency data.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>151</Number>
+        <UIN>24423</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Christian Wakeford</Member>
+        <Constituency>Bury South</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, with reference to the Animals in Science Regulation Unit annual report 2022, published on 25 April 2024, if he will make it his policy to initiate an investigation into the reasons for the rise in non-compliance cases since 2021.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>152</Number>
+        <UIN>24595</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir Bill Wiggin</Member>
+        <Constituency>North Herefordshire</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how many people have died while attempting to cross the English Channel to the UK illegally in each year since 2020.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>153</Number>
+        <UIN>24405</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Hywel Williams</Member>
+        <Constituency>Arfon</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, what guidance his Department has issued on the provision of culturally appropriate oral and written professional translation when communicating with (a) applicants for asylum, (b) people in immigration detention, (c) people appealing application decisions and (d) people identified for deportation to Rwanda.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>154</Number>
+        <UIN>24398</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Hywel Williams</Member>
+        <Constituency>Arfon</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, what culturally appropriate oral and written professional translation services are provided by his Department when communicating with (a) applicants for asylum, (b) people in immigration detention, (c) people appealing application decisions and (d) people identified for deportation to Rwanda.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>155</Number>
+        <UIN>24399</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sarah Atherton</Member>
+        <Constituency>Wrexham</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many military personnel were waiting for dental treatment as of 1 May 2024.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>156</Number>
+        <UIN>24589</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tobias Ellwood</Member>
+        <Constituency>Bournemouth East</Constituency>
+        <Text>To ask the Secretary of State for Defence, what system the E7 Wedgetail uses for mid-air refuelling.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>157</Number>
+        <UIN>24407</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Tobias Ellwood</Member>
+        <Constituency>Bournemouth East</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many (a) Typhoon and b) F-35 aircraft are operational.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>158</Number>
+        <UIN>24408</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sir John Hayes</Member>
+        <Constituency>South Holland and The Deepings</Constituency>
+        <Text>To ask the Secretary of State for Defence, what the cost to his Department was of (a) events, (b) activities, (c) merchandise and (d) other costs relating to Pride Month 2023.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>159</Number>
+        <UIN>24378</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Daniel Kawczynski</Member>
+        <Constituency>Shrewsbury and Atcham</Constituency>
+        <Text>To ask the Secretary of State for Defence, if he will conduct a freedom of navigation exercise around Abu Musa, Greater Tunb and Lesser Tunb for the purpose of establishing their non-Iranian status.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>160</Number>
+        <UIN>24442</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many callouts has the National Roadside Repair and Recovery Scheme received per region of the UK in each year since 2015; and what the cost to the public purse is of this service.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>161</Number>
+        <UIN>24361</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Defence, which vehicles are covered by the National Roadside Repair and Recovery Scheme.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>162</Number>
+        <UIN>24362</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Defence, with reference to the Answer of 24 October 2023 to Question 202827 on Armed Forces: Motor Vehicles, what the circumstances were that led to a vehicle being supported by the National Roadside Repair and Recovery Scheme in Morocco in 2018-19.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>163</Number>
+        <UIN>24363</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Defence, if he will provide a breakdown by vehicle type of the vehicles supported by the National Roadside Repair and Recovery Scheme in each year since 2015.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>164</Number>
+        <UIN>24364</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many applications to join the Armed Forces were rejected due to previous criminal convictions in each year since 2015.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>165</Number>
+        <UIN>24365</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many applications to join the armed forces were rejected due to poor fitness in every year since 2015.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>166</Number>
+        <UIN>24366</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many and what proportion of members of the armed forces were graded as unconditioned following a conditioning review in each year since 2018.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>167</Number>
+        <UIN>24367</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for Defence, whether the Royal Fleet Auxiliary will be exempt from the Government's proposed cuts to the civil service to fund the increase in defence spending.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>168</Number>
+        <UIN>24522</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for Defence, what plans his Department has to continue Operation Interflex beyond September 2024.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>169</Number>
+        <UIN>24523</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for Defence, when the last delivery of aid by the Royal Air Force to Gaza took place; and how frequently aid will be delivered in the coming months.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>170</Number>
+        <UIN>24529</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for Defence, how the Royal Fleet Auxiliary will support the delivery of aid to Gaza.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>171</Number>
+        <UIN>24530</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for Defence, how long RFA Cardigan Bay will be deployed to Gaza; and what role will the armed forces will play in the construction of the temporary pier.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>172</Number>
+        <UIN>24531</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for Defence, when he expects the temporary pier in Gaza to be operational; and whether UK troops will have a role in protecting it.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>173</Number>
+        <UIN>24532</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for Defence, what steps he is taking to ensure the protection of British troops deployed in the Middle East.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>174</Number>
+        <UIN>24533</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Morgan</Member>
+        <Constituency>Portsmouth South</Constituency>
+        <Text>To ask the Secretary of State for Defence, what threat assessment has made of Houthi military capabilities; and whether he has plans for further strikes in Yemen.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>175</Number>
+        <UIN>24534</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many callouts have been made to Catterick Garrison for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>176</Number>
+        <UIN>24545</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many callouts have been made to Army Foundation College for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>177</Number>
+        <UIN>24546</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many callouts have been made to Albermarle Barracks for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>178</Number>
+        <UIN>24547</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many callouts have been made to Ypres Barracks for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>179</Number>
+        <UIN>24548</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many service personnel are based at Catterick Garrison as of 29 April 2024.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>180</Number>
+        <UIN>24549</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many (a) service personnel and (b) Army recruits are based at Army Foundation College as of 1 May 2024.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>181</Number>
+        <UIN>24550</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many service personnel are based at Albermarle Barracks as of 1 May 2024.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>182</Number>
+        <UIN>24551</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many service personnel are based at Ypres Barracks as of 1 May 2024.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>183</Number>
+        <UIN>24552</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, what the cost to the public purse was of improvements to service accommodation at Catterick Garrison since April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>184</Number>
+        <UIN>24553</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, what the cost to the public purse was of improvements to service accommodation at the Army Foundation College since April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>185</Number>
+        <UIN>24554</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, what the cost to the public purse was of improvements to service accommodation at Albermarle Barracks since April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>186</Number>
+        <UIN>24555</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, what the cost to the public purse was of improvements to service accommodation at Ypres Barracks since April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>187</Number>
+        <UIN>24556</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, what the cost to the public purse was of improvements to service accommodation at Weeton Barracks since April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>188</Number>
+        <UIN>24557</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many service personnel are based at Weeton Barracks.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>189</Number>
+        <UIN>24558</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many callouts have been made to Weeton Barracks for maintenance issues relating to (a) roofing, (b) loss of heating and hot water, (c) electrics, (d) pest control and (e) damp and mould since April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>190</Number>
+        <UIN>24559</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Ben Wallace</Member>
+        <Constituency>Wyre and Preston North</Constituency>
+        <Text>To ask the Secretary of State for Defence, which equipment programs within (a) the Army, (b) Strategic Command, (c) the Royal Air Force and (d) the Royal Navy have been deferred as part of the latest annual budget cycle round.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>191</Number>
+        <UIN>24424</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Ben Wallace</Member>
+        <Constituency>Wyre and Preston North</Constituency>
+        <Text>To ask the Secretary of State for Defence, with reference to the funding to Ukraine announced by the Prime Minister on 23 April 2024, what proportion of that funding will be spent on equipment to be donated to the Ukrainian Government and forces.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>192</Number>
+        <UIN>24425</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Ben Wallace</Member>
+        <Constituency>Wyre and Preston North</Constituency>
+        <Text>To ask the Secretary of State for Defence, what progress has been made on establishing the National Cyber Force headquarters at Salmesbury.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>193</Number>
+        <UIN>24428</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Ben Wallace</Member>
+        <Constituency>Wyre and Preston North</Constituency>
+        <Text>To ask the Secretary of State for Defence, whether he has plans to procure F35A aircraft.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>194</Number>
+        <UIN>24429</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Ben Wallace</Member>
+        <Constituency>Wyre and Preston North</Constituency>
+        <Text>To ask the Secretary of State for Defence, what equipment programmes within the (a) Royal Navy, (b) Army, (b) Strategic Command and (d) Royal Air Force were deleted following the most recent annual budget cycle round.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>195</Number>
+        <UIN>24430</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fleur Anderson</Member>
+        <Constituency>Putney</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many and what proportion of prisoners at HMP Wandsworth are on remand awaiting trial; and what is the average length of time such prisoners have been on remand.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>196</Number>
+        <UIN>24578</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fleur Anderson</Member>
+        <Constituency>Putney</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many and what proportion of prisoners at HMP Wandsworth who have been convicted are awaiting sentencing.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>197</Number>
+        <UIN>24579</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fleur Anderson</Member>
+        <Constituency>Putney</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many and what proportion of prisoners at HMP Wandsworth who have been sentenced are awaiting prison category assessment.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>198</Number>
+        <UIN>24580</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fleur Anderson</Member>
+        <Constituency>Putney</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many and what proportion of prisoners at HMP Wandsworth are awaiting dispersal to another category of prison following an assessment.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>199</Number>
+        <UIN>24581</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fleur Anderson</Member>
+        <Constituency>Putney</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many and what proportion of prisoners at HMP Wandsworth have been recalled to custody while on release on temporary licence.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>200</Number>
+        <UIN>24582</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fleur Anderson</Member>
+        <Constituency>Putney</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many and what proportion of prisoners at HMP Wandsworth have been recalled to custody having been released as part of the early release scheme.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>201</Number>
+        <UIN>24583</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fleur Anderson</Member>
+        <Constituency>Putney</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many and what proportion of prisoners at HMP Wandsworth are serving (a) Imprisonment for Public Protection and (b) Detention for Public Protection sentences.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>202</Number>
+        <UIN>24584</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Fleur Anderson</Member>
+        <Constituency>Putney</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many and what proportion of foreign national prisoners at HMP Wandsworth are (a) post-sentence awaiting deportation and (b) serving current sentences.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>203</Number>
+        <UIN>24585</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Ruth Cadbury</Member>
+        <Constituency>Brentford and Isleworth</Constituency>
+        <Text>To ask the Secretary of State for Justice, whether his Department have made a risk assessment of prison officer vacancies in the Long Term High Security Estate.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>204</Number>
+        <UIN>24485</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Crabb</Member>
+        <Constituency>Preseli Pembrokeshire</Constituency>
+        <Text>To ask the Secretary of State for Justice, if he will make an estimate of the proportion of prison officers who are searched upon entry to prison by an x-ray body scanner.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>205</Number>
+        <UIN>24432</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Crabb</Member>
+        <Constituency>Preseli Pembrokeshire</Constituency>
+        <Text>To ask the Secretary of State for Justice, what steps his Department is taking to help tackle the illegal entry of (a) drugs and (b) communication devices into prisons by prison staff.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>206</Number>
+        <UIN>24433</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Crabb</Member>
+        <Constituency>Preseli Pembrokeshire</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many prison (a) officers and (b) other staff have been (i) investigated and (ii) dismissed in relation to (a) the conveyance of drugs and (b) conducting inappropriate relationships with prisoners in Wales in each year since 2019.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>207</Number>
+        <UIN>24434</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Crabb</Member>
+        <Constituency>Preseli Pembrokeshire</Constituency>
+        <Text>To ask the Secretary of State for Justice, what steps he is taking to (a) monitor and (b) improve response times to prisoner medical emergencies.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>208</Number>
+        <UIN>24435</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Crabb</Member>
+        <Constituency>Preseli Pembrokeshire</Constituency>
+        <Text>To ask the Secretary of State for Justice, what steps his Department is taking to help reduce the number of drug-related deaths in prisons in Wales.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>209</Number>
+        <UIN>24436</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many prison cell fires there were, broken down by institution, in each year since 2015.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>210</Number>
+        <UIN>24357</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many people have taken part in his Department's Intensive Supervision Courts pilot.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>211</Number>
+        <UIN>24368</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Justice, if he will publish a breakdown of drug incidents in prison by (a) drug type and (b) class since 2010.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>212</Number>
+        <UIN>24369</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Justice, if he will publish a breakdown by substance type of the number of finds of controlled substances in prison since 2010.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>213</Number>
+        <UIN>24370</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many prison staff (a) in total and (b) as a proportion of the prison workforce had received training to deal with extremist prisoners as of 26 April in each year since 2017.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>214</Number>
+        <UIN>24371</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many people who had been convicted of offences under the Terrorism Act 2006 and related offences were being monitored by the Probation Service in each year since 2015.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>215</Number>
+        <UIN>24372</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Justice, if he will publish a breakdown by weapons type of weapons incidents in prisons since 2015.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>216</Number>
+        <UIN>24373</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many former prison guards were found guilty of criminal offences in each year since 2015.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>217</Number>
+        <UIN>24374</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many offenders who received a community sentence in each of the last five years had previously received (a) one, (b) two, (c) three, (d) four, (e) five or more community sentences.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>218</Number>
+        <UIN>24375</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Dame Siobhain McDonagh</Member>
+        <Constituency>Mitcham and Morden</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many offenders breached the terms of their community order in each of the last five years.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>219</Number>
+        <UIN>24376</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Gregory Campbell</Member>
+        <Constituency>East Londonderry</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, whether he expects the pilot No Interest Loan Scheme run by Fair4AllFinance to be launched in Northern Ireland before the end of the calendar year.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>220</Number>
+        <UIN>24402</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Kenny MacAskill</Member>
+        <Constituency>East Lothian</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, pursuant to the Answer of 30 April 2024 to Question 23805 on Oil: Imports, when he plans to publish the UK Strategic Export Controls Annual Report 2023.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>221</Number>
+        <UIN>24572</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Holly Mumby-Croft</Member>
+        <Constituency>Scunthorpe</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, if he will publish any (a) internal reviews and (b) audits conducted by the Financial Conduct Authority on the consistency of the redress scheme for British Steel Pension Scheme members.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>222</Number>
+        <UIN>24590</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Sarah Owen</Member>
+        <Constituency>Luton North</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, whether he plans to bring forward a workforce strategy for social care.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>223</Number>
+        <UIN>24577</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, what assessment has been made on the levels of household disposable income as a result of the potential impact of the OBR's forecasts on household income.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>224</Number>
+        <UIN>24467</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Munira Wilson</Member>
+        <Constituency>Twickenham</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, how many paper self-assessment tax returns for were erroneously dispatched by HMRC to people who normally complete their self-assessment tax returns online for 2023-24.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>225</Number>
+        <UIN>24575</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Munira Wilson</Member>
+        <Constituency>Twickenham</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, if he will make an estimate of the cost to the public purse of HMRC sending (a) paper self-assessment tax returns to people who complete their tax returns online for the 2023-24 financial year and (b) correction letters to those people.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>226</Number>
+        <UIN>24576</UIN>
+        <DeclaredInterest />
+        <Type>ORDINARY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+    </Questions>
+    <QuestionType>Written</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-07</Date>
+    <Time>2:30 pm</Time>
+    <Description>Oral Questions to the Chancellor of the Exchequer</Description>
+    <Questions>
+      <Question>
+        <Member>Allan Dorans</Member>
+        <Constituency>Ayr, Carrick and Cumnock</Constituency>
+        <Text>What assessment he has made of the potential impact of increases in the cost of living on households in 2024. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>1</Number>
+        <UIN>902662</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Jim McMahon</Member>
+        <Constituency>Oldham West and Royton</Constituency>
+        <Text>What assessment he has made of the contribution of the co-operative sector to the economy.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>2</Number>
+        <UIN>902663</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Dr Rupa Huq</Member>
+        <Constituency>Ealing Central and Acton</Constituency>
+        <Text>What steps he is taking to ensure value for money in public spending.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>3</Number>
+        <UIN>902664</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Owen Thompson</Member>
+        <Constituency>Midlothian</Constituency>
+        <Text>If he will make an assessment of the implications for his policies of regional variations in trends in the number of free-to-use ATMs.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>4</Number>
+        <UIN>902665</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Kerry McCarthy</Member>
+        <Constituency>Bristol East</Constituency>
+        <Text>What recent assessment he has made of the potential impact of his tax policies on living standards.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>5</Number>
+        <UIN>902666</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>John Penrose</Member>
+        <Constituency>Weston-super-Mare</Constituency>
+        <Text>If he will use outcome evaluations to assess the effectiveness of the Public Sector Productivity Programme.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>6</Number>
+        <UIN>902667</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Maggie Throup</Member>
+        <Constituency>Erewash</Constituency>
+        <Text>What steps his Department is taking to reduce taxes. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>7</Number>
+        <UIN>902668</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Chris Loder</Member>
+        <Constituency>West Dorset</Constituency>
+        <Text>Whether his Department has made a recent assessment of the adequacy of its guidance entitled The Green Book.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>8</Number>
+        <UIN>902669</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Stephen Crabb</Member>
+        <Constituency>Preseli Pembrokeshire</Constituency>
+        <Text>What fiscal steps his Department is taking to support small businesses. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>9</Number>
+        <UIN>902670</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Joanna Cherry</Member>
+        <Constituency>Edinburgh South West</Constituency>
+        <Text>What assessment he has made of the potential impact of increases in the cost of living on households in 2024. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>10</Number>
+        <UIN>902671</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Liz Twist</Member>
+        <Constituency>Blaydon</Constituency>
+        <Text>What recent fiscal steps he has taken to help reduce regional economic inequalities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>11</Number>
+        <UIN>902672</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Mrs Flick Drummond</Member>
+        <Constituency>Meon Valley</Constituency>
+        <Text>What fiscal steps he is taking to support households with the cost of living.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>12</Number>
+        <UIN>902673</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Kate Osborne</Member>
+        <Constituency>Jarrow</Constituency>
+        <Text>What recent fiscal steps he has taken to help reduce regional economic inequalities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>13</Number>
+        <UIN>902674</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Vicky Foxcroft</Member>
+        <Constituency>Lewisham, Deptford</Constituency>
+        <Text>Whether he has taken recent steps with Cabinet colleagues to ensure that people with disabilities can access their Child Trust Fund when they turn 18.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>14</Number>
+        <UIN>902675</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Andrew Rosindell</Member>
+        <Constituency>Romford</Constituency>
+        <Text>Whether he plans to reintroduce VAT-free shopping for international visitors.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>15</Number>
+        <UIN>902676</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Dr James Davies</Member>
+        <Constituency>Vale of Clwyd</Constituency>
+        <Text>What fiscal steps his Department is taking to help increase the level of business investment.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>16</Number>
+        <UIN>902677</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Mrs Heather Wheeler</Member>
+        <Constituency>South Derbyshire</Constituency>
+        <Text>What assessment he has made of the impact of raising the high income child benefit charge threshold on household incomes. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>17</Number>
+        <UIN>902678</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Tom Randall</Member>
+        <Constituency>Gedling</Constituency>
+        <Text>What progress he has made on reducing inflation.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>18</Number>
+        <UIN>902679</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Dr Alan Whitehead</Member>
+        <Constituency>Southampton, Test</Constituency>
+        <Text>What recent fiscal steps he has taken to help reduce regional economic inequalities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>19</Number>
+        <UIN>902680</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Paul Blomfield</Member>
+        <Constituency>Sheffield Central</Constituency>
+        <Text>What recent assessment he has made of the potential impact of his tax policies on living standards.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>20</Number>
+        <UIN>902681</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Nadia Whittome</Member>
+        <Constituency>Nottingham East</Constituency>
+        <Text>What fiscal steps he is taking to support households with increases in the cost of living.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>21</Number>
+        <UIN>902682</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Marion Fellows</Member>
+        <Constituency>Motherwell and Wishaw</Constituency>
+        <Text>What assessment he has made of the potential impact of increases in the cost of living on households in 2024. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>22</Number>
+        <UIN>902683</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Ruth Edwards</Member>
+        <Constituency>Rushcliffe</Constituency>
+        <Text>What fiscal steps his Department is taking to support small businesses. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>23</Number>
+        <UIN>902684</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Jamie Stone</Member>
+        <Constituency>Caithness, Sutherland and Easter Ross</Constituency>
+        <Text>What fiscal steps he is taking to support lower-income households.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>24</Number>
+        <UIN>902685</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Patricia Gibson</Member>
+        <Constituency>North Ayrshire and Arran</Constituency>
+        <Text>What assessment he has made of the potential impact of increases in the cost of living on households in 2024. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>25</Number>
+        <UIN>902686</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+    </Questions>
+    <QuestionType>Substantive Oral</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-07</Date>
+    <Time>3:15 pm</Time>
+    <Description>Topical Questions to the Chancellor of the Exchequer</Description>
+    <Questions>
+      <Question>
+        <Member>Debbie Abrahams</Member>
+        <Constituency>Oldham East and Saddleworth</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>1</Number>
+        <UIN>902687</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Richard Burgon</Member>
+        <Constituency>Leeds East</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>2</Number>
+        <UIN>902688</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Kerry McCarthy</Member>
+        <Constituency>Bristol East</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>3</Number>
+        <UIN>902689</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Damien Egan</Member>
+        <Constituency>Kingswood</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>4</Number>
+        <UIN>902690</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Carla Lockhart</Member>
+        <Constituency>Upper Bann</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>5</Number>
+        <UIN>902691</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>John Penrose</Member>
+        <Constituency>Weston-super-Mare</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>6</Number>
+        <UIN>902692</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Andrew Gwynne</Member>
+        <Constituency>Denton and Reddish</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>7</Number>
+        <UIN>902693</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Dr Thérèse Coffey</Member>
+        <Constituency>Suffolk Coastal</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>8</Number>
+        <UIN>902694</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Julian Sturdy</Member>
+        <Constituency>York Outer</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>9</Number>
+        <UIN>902695</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Jeff Smith</Member>
+        <Constituency>Manchester, Withington</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>10</Number>
+        <UIN>902696</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+    </Questions>
+    <QuestionType>Topical Oral</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-08</Date>
+    <Description>Questions for Written Answer</Description>
+    <Questions>
+      <Question>
+        <Member>Bob Seely</Member>
+        <Constituency>Isle of Wight</Constituency>
+        <Text>To ask the Secretary of State for Business and Trade, what information her Department holds on how many trade union ballots in each industrial sector there were in each month of 2023.</Text>
+        <AnsweringBody>Department for Business and Trade</AnsweringBody>
+        <Number>1</Number>
+        <UIN>24296</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>true</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Darren Jones</Member>
+        <Constituency>Bristol North West</Constituency>
+        <Text>To ask the Secretary of State for Education, what steps her Department is taking to support young people with autism spectrum conditions who have Educated otherwise than at school plans.</Text>
+        <AnsweringBody>Department for Education</AnsweringBody>
+        <Number>2</Number>
+        <UIN>24512</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>George Galloway</Member>
+        <Constituency>Rochdale</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, what recent assessment his Department has made of trends in the level of mould in the (a) owner-occupied, (b) private rented and (c) social rented sector.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>3</Number>
+        <UIN>24395</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Kerry McCarthy</Member>
+        <Constituency>Bristol East</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, if he will make an assessment of the potential merits of implementing a cross-departmental strategy to end youth homelessness.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>4</Number>
+        <UIN>24417</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Layla Moran</Member>
+        <Constituency>Oxford West and Abingdon</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, if he will make an assessment on the potential impact of increased service charges on (a) leaseholders and (b) local authorities in Oxfordshire.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>5</Number>
+        <UIN>24535</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Layla Moran</Member>
+        <Constituency>Oxford West and Abingdon</Constituency>
+        <Text>To ask the Secretary of State for Levelling Up, Housing and Communities, if he will take steps to ensure low income households can appeal increased service charges.</Text>
+        <AnsweringBody>Department for Levelling Up, Housing and Communities</AnsweringBody>
+        <Number>6</Number>
+        <UIN>24536</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Darren Jones</Member>
+        <Constituency>Bristol North West</Constituency>
+        <Text>To ask the Secretary of State for Transport, what steps his Department is taking to help limit noise pollution for people who live near motorways.</Text>
+        <AnsweringBody>Department for Transport</AnsweringBody>
+        <Number>7</Number>
+        <UIN>24511</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Wes Streeting</Member>
+        <Constituency>Ilford North</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, how many community diagnostic centres are providing bone density scans.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>8</Number>
+        <UIN>24497</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Wes Streeting</Member>
+        <Constituency>Ilford North</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will make an estimate of the number of bone density scans conducted in community diagnostic centres in the last 12 months.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>9</Number>
+        <UIN>24498</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Wes Streeting</Member>
+        <Constituency>Ilford North</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will make an estimate of the number of scans for suspected prostate cancer performed by the NHS in each of the last five years.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>10</Number>
+        <UIN>24499</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Wes Streeting</Member>
+        <Constituency>Ilford North</Constituency>
+        <Text>To ask the Secretary of State for Health and Social Care, if she will make an estimate of the number of (a) MRI and (b) CT scans for suspected prostate cancer performed by the NHS in each of the last five years.</Text>
+        <AnsweringBody>Department of Health and Social Care</AnsweringBody>
+        <Number>11</Number>
+        <UIN>24500</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Imran Hussain</Member>
+        <Constituency>Bradford East</Constituency>
+        <Text>To ask the Secretary of State for the Home Department, how many people received (a) less than £10,000, (b) £10,000-£20,000, (c) £20,000-£50,000, (d) £50,000-£100,000 and (e) more than £100,000 in each quarter since the Windrush Compensation scheme was launched.</Text>
+        <AnsweringBody>Home Office</AnsweringBody>
+        <Number>12</Number>
+        <UIN>24487</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many callouts have been made to the Royal Citadel in Plymouth for maintenance issues relating to (a) roofing, (b) loss of (i) heating and (ii) hot water, (c) electrics (d) pest control and (e) damp and mould since 1 April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>13</Number>
+        <UIN>24541</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how many service personnel are based at the Royal Citadel in Plymouth as of 1 May 2024.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>14</Number>
+        <UIN>24542</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Secretary of State for Defence, how much his Department has spent on improving service accommodation at the Royal Citadel in Plymouth since 1 April 2022.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>15</Number>
+        <UIN>24543</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Ben Wallace</Member>
+        <Constituency>Wyre and Preston North</Constituency>
+        <Text>To ask the Secretary of State for Defence, with reference to the funding for Ukraine announced by the Prime Minister on 23 April 2024, what proportion of that funding will be used to replace UK (a) ammunition stocks and (b) vehicles.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>16</Number>
+        <UIN>24426</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Mr Ben Wallace</Member>
+        <Constituency>Wyre and Preston North</Constituency>
+        <Text>To ask the Secretary of State for Defence, what his latest estimate is of the (a) cost and (b) delivery timetable for the E&amp; aircraft.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>17</Number>
+        <UIN>24427</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Stephen Kinnock</Member>
+        <Constituency>Aberavon</Constituency>
+        <Text>To ask the Secretary of State for Justice, how many asylum claimants, excluding foreign national offenders, have been subject to electronic monitoring as a condition of immigration bail since 1 January 2024.</Text>
+        <AnsweringBody>Ministry of Justice</AnsweringBody>
+        <Number>18</Number>
+        <UIN>24483</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, how many self assessment forms for the 2023-2024 tax year were sent in error in April 2024.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>19</Number>
+        <UIN>24544</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+      <Question>
+        <Member>Luke Pollard</Member>
+        <Constituency>Plymouth, Sutton and Devonport</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, how many tax self-assessment forms for the 2023-24 financial year were sent in error in April 2024.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>20</Number>
+        <UIN>24560</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+    </Questions>
+    <QuestionType>Written</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-09</Date>
+    <Description>Questions for Written Answer</Description>
+    <Questions>
+      <Question>
+        <Member>Mr Ben Wallace</Member>
+        <Constituency>Wyre and Preston North</Constituency>
+        <Text>To ask the Secretary of State for Defence, what progress his Department has made on the Anglo-French Future Cruise-Anti-Ship Weapon programme.</Text>
+        <AnsweringBody>Ministry of Defence</AnsweringBody>
+        <Number>1</Number>
+        <UIN>24431</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+    </Questions>
+    <QuestionType>Written</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-13</Date>
+    <Description>Questions for Written Answer</Description>
+    <Questions>
+      <Question>
+        <Member>Jim Shannon</Member>
+        <Constituency>Strangford</Constituency>
+        <Text>To ask the Chancellor of the Exchequer, what assessment he has made of the potential merits of restructuring the Barnett Formula for education.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>1</Number>
+        <UIN>24477</UIN>
+        <DeclaredInterest />
+        <Type>NAMEDDAY</Type>
+        <IsTransfer>false</IsTransfer>
+      </Question>
+    </Questions>
+    <QuestionType>Written</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+</ArrayOfQuestionBlock>
