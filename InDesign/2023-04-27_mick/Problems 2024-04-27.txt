@@ -1,0 +1,26 @@
+There is a marked up pdf in pdfs to check OP230427
+
+Contents
+Future Business has wrong character style
+
+Urgent Questions and Statements
+
+Subheadings came in as BoldTimingHeading
+
+I've added in the updated text and styled it up how I think it should look with Heading3Underlined where there is a following item of business
+
+The problem is that the Business Question to the Leader of the House becomes lost if it does not have an Heading3Underline
+
+Business of the day
+
+The bulleted items came in that way. I know there was some debate about whether they should be bulleted.
+
+Written statements
+Changed the subheading to Heading3Underlined
+
+Announcements
+
+Sub headings coming in as Heading2Grey - manually changed to Heading3Underlined
+Made table headers rows and put in 20% tint
+
+Created HTML if required. 

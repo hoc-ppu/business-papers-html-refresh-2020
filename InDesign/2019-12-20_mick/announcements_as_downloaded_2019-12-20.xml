@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrderPaper xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <House>Commons</House>
+  <Type>Effectives</Type>
+  <Days>
+    <Day>
+      <Date>2019-12-20T00:00:00</Date>
+      <Sections>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30506</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Prayers</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time>09:30:00</Time>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Followed by]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>9076</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>Business of the Day</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30570</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>ADJOURNMENT (CHRISTMAS)	</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4099</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Sir Jacob Rees-Mogg</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>(Standing Order No. 25)</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>No debate</Duration>
+                <DateSubmitted>2019-12-19T17:37:44.907</DateSubmitted>
+                <ItemText><![CDATA[That this House, at its rising on Friday 20 December 2019, do adjourn until Tuesday 7&nbsp;January 2020.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30571</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>ALLOCATION OF SELECT COMMITTEE CHAIRS (TIMING)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4099</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Sir Jacob Rees-Mogg</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>(Standing Order No. 9(3))</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>Until 2.30pm</Duration>
+                <DateSubmitted>2019-12-19T17:42:22.79</DateSubmitted>
+                <ItemText><![CDATA[That the following provisions shall have effect in this Parliament in relation to&nbsp;Standing Order No. 122B (Election of select committee chairs);
+
+(1) In paragraph (3), the reference to &ldquo;a week&rdquo; shall be read as &ldquo;three weeks&rdquo;; and&nbsp;
+
+(2) In paragraph (5), the reference to &ldquo;two weeks&rdquo; shall be read as &ldquo;four weeks&rdquo;.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30573</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>EUROPEAN UNION (WITHDRAWAL AGREEMENT) BILL: SECOND READING</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Notes>The Speaker has not yet considered this Bill for certification.
+Queen's consent to be signified on Third Reading.</Notes>
+                <Time />
+                <Duration>Until any hour (if the 2.30pm Business of the House motion is agreed to).</Duration>
+                <DateSubmitted>2019-12-19T17:47:57.557</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30582</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>{no title required}</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4390</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Ian Blackford</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4357</MemberId>
+                    <SortOrder>1</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Kirsty Blackman</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4466</MemberId>
+                    <SortOrder>2</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Peter Grant</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4419</MemberId>
+                    <SortOrder>3</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Joanna Cherry</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4738</MemberId>
+                    <SortOrder>4</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Alyn Smith</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4432</MemberId>
+                    <SortOrder>5</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Patrick Grady</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4486</MemberId>
+                    <SortOrder>6</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Hannah Bardell</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4421</MemberId>
+                    <SortOrder>7</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Mhairi Black</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4748</MemberId>
+                    <SortOrder>8</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Steven Bonnar</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4417</MemberId>
+                    <SortOrder>9</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Deidre Brock</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4470</MemberId>
+                    <SortOrder>10</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Alan Brown</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4770</MemberId>
+                    <SortOrder>11</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Amy Callaghan</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4412</MemberId>
+                    <SortOrder>12</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Dr Lisa Cameron</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4402</MemberId>
+                    <SortOrder>13</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Douglas Chapman</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4465</MemberId>
+                    <SortOrder>14</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Ronnie Cowan</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4469</MemberId>
+                    <SortOrder>15</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Angela Crawley</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4488</MemberId>
+                    <SortOrder>16</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Martyn Day</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4374</MemberId>
+                    <SortOrder>17</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Martin Docherty-Hughes</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4736</MemberId>
+                    <SortOrder>18</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Dave Doogan</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4740</MemberId>
+                    <SortOrder>19</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Allan Dorans</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4440</MemberId>
+                    <SortOrder>20</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Marion Fellows</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4386</MemberId>
+                    <SortOrder>21</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Margaret Ferrier</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4735</MemberId>
+                    <SortOrder>22</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Stephen Flynn</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4435</MemberId>
+                    <SortOrder>23</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Patricia Gibson</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4365</MemberId>
+                    <SortOrder>24</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Neil Gray</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4467</MemberId>
+                    <SortOrder>25</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Drew Hendry</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>1514</MemberId>
+                    <SortOrder>26</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Stewart Hosie</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4403</MemberId>
+                    <SortOrder>27</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Chris Law</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4640</MemberId>
+                    <SortOrder>28</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>David Linden</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4772</MemberId>
+                    <SortOrder>29</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Kenny MacAskill</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>1546</MemberId>
+                    <SortOrder>30</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Angus Brendan MacNeil</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4461</MemberId>
+                    <SortOrder>31</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Stewart Malcolm McDonald</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4393</MemberId>
+                    <SortOrder>32</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Stuart C McDonald</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4437</MemberId>
+                    <SortOrder>33</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Anne McLaughlin</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4424</MemberId>
+                    <SortOrder>34</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>John McNally</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4443</MemberId>
+                    <SortOrder>35</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Carol Monaghan</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4420</MemberId>
+                    <SortOrder>36</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Gavin Newlands</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4415</MemberId>
+                    <SortOrder>37</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>John Nicolson</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4371</MemberId>
+                    <SortOrder>38</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Brendan O'Hara</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4413</MemberId>
+                    <SortOrder>39</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Kirsten Oswald</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4453</MemberId>
+                    <SortOrder>40</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Tommy Sheppard</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4463</MemberId>
+                    <SortOrder>41</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Chris Stephens</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4430</MemberId>
+                    <SortOrder>42</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Alison Thewliss</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4482</MemberId>
+                    <SortOrder>43</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Owen Thompson</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4796</MemberId>
+                    <SortOrder>44</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Richard Thomson</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4385</MemberId>
+                    <SortOrder>45</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Dr Philippa Whitford</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>1440</MemberId>
+                    <SortOrder>46</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Pete Wishart</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <SponsorNotes>On behalf of </SponsorNotes>
+                <Time />
+                <AdditionalInformation>no title required as with Motions for Unopposed Returns</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[That this House declines to give the European Union (Withdrawal Agreement) Bill a Second Reading because 62 per cent of voters in Scotland supported remaining in the European Union in the 2016 European Union referendum and 74 per cent of the voters in Scotland supported political parties that proposed either remaining in the European Union or a second referendum on European Union membership in the 2019 General Election; and agrees that the United Kingdom must not leave the European Union before gaining the legislative consent of the Scottish Parliament.'.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30584</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>{no title required}</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>650</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Sir Jeffrey M Donaldson</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>1593</MemberId>
+                    <SortOrder>1</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Sammy Wilson</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>1409</MemberId>
+                    <SortOrder>2</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Mr Gregory Campbell</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4360</MemberId>
+                    <SortOrder>3</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Gavin Robinson</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4633</MemberId>
+                    <SortOrder>4</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Paul Girvan</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4129</MemberId>
+                    <SortOrder>5</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Ian Paisley</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4131</MemberId>
+                    <SortOrder>6</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Jim Shannon</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4857</MemberId>
+                    <SortOrder>7</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Carla Lockhart</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <SponsorNotes>On behalf of </SponsorNotes>
+                <Time />
+                <AdditionalInformation>no title required as with Motions for Unopposed Returns</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[That this House declines to give a Second Reading to the European Union (Withdrawal Agreement) Bill because the Withdrawal Agreement of October 2019 substantively concludes arrangements for Northern Ireland prior to agreement on the future relationship between the European Union and the United Kingdom and without adequate provision for applying the consent mechanisms in the Belfast Agreement as given effect by the Northern Ireland Act 1998.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30585</DayItemId>
+              <TabledOrder>8</TabledOrder>
+              <Title>{no title required}</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>188</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Ed Davey</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>1442</MemberId>
+                    <SortOrder>1</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Mr Alistair Carmichael</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>1591</MemberId>
+                    <SortOrder>2</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Tim Farron</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4634</MemberId>
+                    <SortOrder>3</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Christine Jardine</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4656</MemberId>
+                    <SortOrder>4</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Layla Moran</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4602</MemberId>
+                    <SortOrder>5</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Wera Hobhouse</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4612</MemberId>
+                    <SortOrder>6</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Jamie Stone</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4591</MemberId>
+                    <SortOrder>7</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Sarah Olney</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4776</MemberId>
+                    <SortOrder>8</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Munira Wilson</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4769</MemberId>
+                    <SortOrder>9</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Daisy Cooper</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                  <Sponsor>
+                    <MemberId>4765</MemberId>
+                    <SortOrder>10</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Wendy Chamberlain</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <SponsorNotes>On behalf of </SponsorNotes>
+                <Time />
+                <AdditionalInformation>no title required as with Motions for Unopposed Returns</AdditionalInformation>
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[That this House declines to give the European Union (Withdrawal Agreement) Bill a Second Reading because it does not give the people of the United Kingdom the final say on the Withdrawal Agreement through a public vote with the option to remain in the European Union, because it fails to ensure continued tariff-free access to the Customs Union and Single Market, because it fails to guarantee the rights of UK citizens in the EU and EU citizens in the UK, and because it erodes protections for workers&rsquo; rights, children&rsquo;s rights and the environment.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>9148</DayItemId>
+              <TabledOrder>9</TabledOrder>
+              <Title>Business to be Taken at 2.30pm</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30572</DayItemId>
+              <TabledOrder>10</TabledOrder>
+              <Title>BUSINESS OF THE HOUSE</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>1423</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Boris Johnson</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text>(Standing Order No. 15 and No. 41A(3))</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>No debate</Duration>
+                <DateSubmitted>2019-12-19T17:45:47.03</DateSubmitted>
+                <ItemText><![CDATA[That at this day&rsquo;s sitting, proceedings on the Second Reading of the European Union (Withdrawal Agreement) Bill may be proceeded with, though opposed, until any hour, and Standing Order No. 41A (Deferred divisions) shall not apply.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>9149</DayItemId>
+              <TabledOrder>11</TabledOrder>
+              <Title>Business of the Day</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30576</DayItemId>
+              <TabledOrder>12</TabledOrder>
+              <Title>EUROPEAN UNION (WITHDRAWAL AGREEMENT) BILL:  PROGRAMME</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>4095</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Steve Barclay</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text> (Standing Order No. 83A(7))</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>No debate</Duration>
+                <DateSubmitted>2019-12-19T18:00:53.653</DateSubmitted>
+                <ItemText><![CDATA[That the following provisions shall apply to the European Union (Withdrawal Agreement) Bill:
+Committal
+(1) The Bill shall be committed to a Committee of the whole House.
+
+Proceedings in Committee
+(2) Proceedings in Committee of the whole House shall be completed in two days.
+(3) The proceedings shall be taken on each of those days as shown in the first column of the following Table and in the order so shown.
+(4) The proceedings shall (so far as not previously concluded) be brought to a conclusion at the times specified in the second column of the Table.
+
+TABLE
+
+<table><colgroup><col /><col /></colgroup><tbody><tr><td>Proceedings
+</td><td>Time for conclusion of proceedings
+</td></tr><tr><td>First day
+</td><td>&nbsp;
+</td></tr><tr><td>Clauses 1 to 6; new Clauses relating to Part 1 or 2; new Schedules relating to Part 1 or 2
+</td><td>Four hours after the commencement of proceedings on the Bill on the first day.
+</td></tr><tr><td>Clauses 7 to 14; Schedule 1; Clause 15; Schedule 2; Clauses 16 and 17; new Clauses relating to Part 3; new Schedules relating to Part 3
+</td><td>Eight hours after the commencement of proceedings on the Bill on the first day
+</td></tr><tr><td>Second day
+</td><td>&nbsp;
+</td></tr><tr><td>Clauses 18 to 23; Schedule 3; Clauses 24 to 37; new Clauses relating to Part 4; new Schedules relating to Part 4
+</td><td>Two hours after the commencement of proceedings on the Bill on the second day.
+</td></tr><tr><td>Clauses 38 to 40; Schedule 4; Clause 41; Schedule 5; Clause 42; new Clauses relating to Part 5; new Schedules relating to Part 5
+</td><td>Five hours after the commencement of proceedings on the Bill on the second day.
+</td></tr><tr><td>Remaining new Clauses, remaining new Schedules, remaining proceedings in Committee on the Bill
+</td><td>Eight hours after the commencement of proceedings on the Bill on the second day.
+</td></tr></tbody></table>
+Proceedings on Consideration and up to and including Third Reading
+(5) Any proceedings on Consideration, any proceedings in legislative grand committee and proceedings on Third Reading shall be taken in one day in accordance with the following provisions of this Order.
+(6) Any proceedings on Consideration and any proceedings in legislative grand committee shall (so far as not previously concluded) be brought to a conclusion two hours before the moment of interruption on that day.
+(7) Proceedings on Third Reading shall (so far as not previously concluded) be brought to a conclusion at the moment of interruption on that day.
+
+Programming committee
+(8) Standing Order No. 83B (Programming committees) shall not apply to proceedings in Committee of the whole House, to any proceedings on Consideration or to other proceedings up to and including Third Reading.
+
+Consideration of Lords Amendments
+(9) Any proceedings on consideration of Lords Amendments shall (so far as not previously concluded) be brought to a conclusion one hour after their commencement.
+
+Subsequent stages
+(10) Any further Message from the Lords may be considered forthwith without any Question being put.
+
+(11) The proceedings on any further Message from the Lords shall (so far as not previously concluded) be brought to a conclusion one hour after their commencement.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30577</DayItemId>
+              <TabledOrder>13</TabledOrder>
+              <Title>EUROPEAN UNION (WITHDRAWAL AGREEMENT) BILL: MONEY</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>3991</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Jesse Norman</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text> (Standing Order No. 52(1)(A))</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>No debate</Duration>
+                <DateSubmitted>2019-12-19T18:03:12.423</DateSubmitted>
+                <ItemText><![CDATA[That, for the purposes of any Act resulting from the European Union (Withdrawal
+Agreement) Bill, it is expedient to authorise:
+
+(1) any sum that is required to be paid to the EU or an EU entity to meet any
+obligation that the United Kingdom has by virtue of the withdrawal agreement to be
+charged on and paid out of the Consolidated Fund or, if the Treasury so decides, the
+National Loans Fund;
+
+(2) the payment out of money provided by Parliament of&mdash;
+
+(a) any expenditure which is incurred by a Minister of the Crown,
+government department or other public authority by virtue of the Act;
+and
+(b) any increase attributable to the Act in the sums payable by virtue of any
+other Act out of money so provided;
+
+(3) any other charge on the Consolidated Fund or the National Loans Fund, or
+any other charge on the public revenue, arising by virtue of the Act.
+
+Notes:
+
+Queen&rsquo;s Recommendation signified.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30579</DayItemId>
+              <TabledOrder>14</TabledOrder>
+              <Title>EUROPEAN UNION (WITHDRAWAL AGREEMENT) BILL: WAYS AND MEANS</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>3991</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Jesse Norman</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders>
+                  <StandingOrder>
+                    <Text> (Standing Order No. 52(1)(A))</Text>
+                    <SortOrder>0</SortOrder>
+                  </StandingOrder>
+                </StandingOrders>
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Motion</BusinessItemType>
+                <Time />
+                <Duration>No debate</Duration>
+                <DateSubmitted>2019-12-19T18:07:27.023</DateSubmitted>
+                <ItemText><![CDATA[That, for the purposes of any Act resulting from the European Union (Withdrawal
+Agreement) Bill, it is expedient to authorise:
+
+(1) any taxation, fees or charges or any other charge on the people arising by
+virtue of the Act;
+
+(2) the payment of sums into the Consolidated Fund or the National Loans Fund.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>9077</DayItemId>
+              <TabledOrder>15</TabledOrder>
+              <Title>Adjournment Debate</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30501</DayItemId>
+              <TabledOrder>16</TabledOrder>
+              <Title>Progress of Southend towards city status</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors>
+                  <Sponsor>
+                    <MemberId>44</MemberId>
+                    <SortOrder>0</SortOrder>
+                    <HasRelevantInterest>false</HasRelevantInterest>
+                    <Name>Sir David Amess</Name>
+                    <LayingMinisterName />
+                  </Sponsor>
+                </Sponsors>
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Adjournment Debate</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>1</SectionId>
+          <Name>Chamber</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>9103</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Statements to be Made Today</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30516</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>Dedicated Schools Grant for 2020-21</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T10:14:54.763</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Education</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30517</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>General Affairs Council: November and December 2019</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T11:13:00.14</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Exiting the European Union </AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30519</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Government's Legislative Programme (Northern Ireland) </Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T12:30:45.967</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Northern Ireland</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30518</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>Government’s Legislative Programme (Scotland)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T12:29:17.337</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Scotland</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30522</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>NATO Leaders' Meeting 3-4 December 2019</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T14:29:47.39</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Foreign and Commonwealth Office</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30549</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>Post EU Energy Council update</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T16:14:51.14</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Business, Energy and Industrial Strategy</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30548</DayItemId>
+              <TabledOrder>8</TabledOrder>
+              <Title>Advance from the Contingencies Fund</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T16:04:04.7</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Chancellor of the Duchy of Lancaster and Minister for the Cabinet Office</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30539</DayItemId>
+              <TabledOrder>9</TabledOrder>
+              <Title>Government's Legislative Programme (Wales) </Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T15:43:44.153</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Wales</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30534</DayItemId>
+              <TabledOrder>10</TabledOrder>
+              <Title>Future Nuclear Deterrent Annual Update 2019</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T15:31:09.993</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Defence</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30530</DayItemId>
+              <TabledOrder>11</TabledOrder>
+              <Title>Armed Forces Covenant Annual Report 2019</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T15:28:08.017</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Defence</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30558</DayItemId>
+              <TabledOrder>12</TabledOrder>
+              <Title>London Croughton Annex</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T16:46:07.963</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Foreign and Commonwealth Office</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30567</DayItemId>
+              <TabledOrder>13</TabledOrder>
+              <Title>Oversight of Investigatory Powers </Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T16:56:32.417</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Prime Minister</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30568</DayItemId>
+              <TabledOrder>14</TabledOrder>
+              <Title>Treasury Update</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T17:22:54.087</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Treasury</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30574</DayItemId>
+              <TabledOrder>15</TabledOrder>
+              <Title>Local government update</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T17:48:53.003</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Housing, Communities and Local Government</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30578</DayItemId>
+              <TabledOrder>16</TabledOrder>
+              <Title>Economic Update</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T18:06:51.447</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Treasury</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30575</DayItemId>
+              <TabledOrder>17</TabledOrder>
+              <Title>The Government’s Legislative Programme 2019</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T18:00:37.797</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Leader of the House</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30588</DayItemId>
+              <TabledOrder>18</TabledOrder>
+              <Title>Kensington &amp; Chelsea College </Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T18:48:22.493</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Education</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30587</DayItemId>
+              <TabledOrder>19</TabledOrder>
+              <Title> Government Transparency and Accountability</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Written Statement</BusinessItemType>
+                <Time />
+                <DateSubmitted>2019-12-19T18:47:25.67</DateSubmitted>
+                <ItemText><![CDATA[]]></ItemText>
+                <AnsweringBodyName>Chancellor of the Duchy of Lancaster and Minister for the Cabinet Office</AnsweringBodyName>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>4</SectionId>
+          <Name>Written Statements</Name>
+        </Section>
+        <Section>
+          <DayItems>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>9098</DayItemId>
+              <TabledOrder>1</TabledOrder>
+              <Title>Forthcoming End of Day Adjournment Debates</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30509</DayItemId>
+              <TabledOrder>2</TabledOrder>
+              <Title>Tuesday 14 January to Monday 20 January (deadline 8 January)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Applications should be made in writing to the Table Office by 7.00pm or rise of the House, whichever is the earlier, on Wednesday 8 January.&nbsp; The ballot will take place on Thursday 9 January.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30510</DayItemId>
+              <TabledOrder>3</TabledOrder>
+              <Title>Tuesday 21 January to Monday 27 January (deadline 15 January)</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Applications should be made in writing to the Table Office by 7.00pm or rise of the House, whichever is the earlier, on Wednesday 15 January.&nbsp; The ballot will take place on Thursday 16 January.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>9099</DayItemId>
+              <TabledOrder>4</TabledOrder>
+              <Title>Forthcoming Westminster Hall Debates</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30511</DayItemId>
+              <TabledOrder>5</TabledOrder>
+              <Title>No title</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Debates in Westminster Hall will commence after the conclusion of the debate on the Queen&rsquo;s speech.
+Applications for debates in Westminster Hall should be made to the Table Office. The rota for Departments responding in Westminster Hall and deadline for the first ballot for debates will be published in the Announcements section of the Order Paper when the timings for the debate on the Queen&rsquo;s Speech have been confirmed.
+Application forms, and further information about these debates (which are opportunities for backbenchers to raise certain matters with Ministers) are available on the intranet, in the Table Office and from the SuperHub.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>9100</DayItemId>
+              <TabledOrder>6</TabledOrder>
+              <Title>Private Members' Bills</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30507</DayItemId>
+              <TabledOrder>7</TabledOrder>
+              <Title>Ballot Bills</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<table><tbody><tr><td>Event</td><td>Date</td><td>Time</td><td>Location</td></tr><tr><td>Ballot book signing</td><td>Tuesday 7 January and Wednesday 8 January</td><td>11.30am until the rise of the House</td><td>&lsquo;No&rsquo; Division Lobby until 6.00pm, Public Bill Office thereafter</td></tr><tr><td>Ballot draw</td><td>Thursday 9 January</td><td>9.00am</td><td>Grimond Room, Portcullis House</td></tr><tr><td>Presentation of ballot bills</td><td>Wednesday 5 February</td><td>(subject to sittings), immediately after questions and statements (if any)</td><td>Chamber</td></tr></tbody></table>
+Members may enter in the list only one name, either their own or that of another Member who has authorised them to do so, and no name may appear more than once.
+On the day of the ballot, the Chairman of Ways and Means will draw twenty names in reverse order. At about 9.30am on that day the list of successful Members will be posted in the No Division Lobby and copies of this list will be available in the Vote Office and on the internet. Members who win a place in the Ballot will be contacted by the clerk in charge of Private Members&rsquo; Bills about the subsequent procedure.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30598</DayItemId>
+              <TabledOrder>8</TabledOrder>
+              <Title>Ten Minute Rule motions and Presentation of non-ballot bills</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Notes>Arrangements made according to Standing Order No.14(10) and (11).</Notes>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<table><tbody><tr><td>Event</td><td>Date</td><td>Time</td><td>Location</td></tr><tr><td>Giving notice of ten minute rule motions</td><td>Thursday 6 February</td><td>(subject to sittings), from 10.00am</td><td>Public Bill Office</td></tr><tr><td>Giving notice of presentation bills</td><td>Thursday 6 February</td><td>(subject to sittings), from 10.00am</td><td>Public Bill Office</td></tr></tbody></table>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>9101</DayItemId>
+              <TabledOrder>9</TabledOrder>
+              <Title>Election of Deputy Speakers</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30512</DayItemId>
+              <TabledOrder>10</TabledOrder>
+              <Title>Election of Deputy Speakers</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Information on arrangements for the election of Deputy Speakers will be announced when timings have been confirmed.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>SectionDayDivider</DayItemType>
+              <DayItemId>9102</DayItemId>
+              <TabledOrder>11</TabledOrder>
+              <Title>Christmas Adjournment - Tabling of Parliamentary Questions</Title>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30513</DayItemId>
+              <TabledOrder>12</TabledOrder>
+              <Title>No title needed</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Members wishing to table questions in person may do so in the usual way through the Table Office until the rising of the House on Friday 20 December.&nbsp;Thereafter, Members may table Questions for oral and written answer electronically or by post.
+Questions for written answer received after the rising of the House on 20 December and before 4.30pm on Monday 6 January will be treated as having been tabled on 6 January.]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30514</DayItemId>
+              <TabledOrder>13</TabledOrder>
+              <Title>Questions for oral answer</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Notes>* The latest time for tabling is 12.30pm on each of these days.
+** First sitting day after adjournment.
+*** (T) indicates that there are also Topical Questions for that Department.</Notes>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[Under Standing Order No. 22(6), the Speaker has made the following arrangements for tabling Questions for oral answer when the House returns.&nbsp;
+<table><tbody><tr><td>Last date of tabling*</td><td>Date for answer</td><td>Departments etc.</td></tr><tr><td>Friday 20 December</td><td>Tuesday 7 January</td><td>Treasury (T)***</td></tr><tr><td>Friday&nbsp;20 December</td><td>Wednesday 8 January</td><td>Scotland&nbsp;</td></tr><tr><td>Friday 20 December</td><td>Wednesday 8 January</td><td>Prime Minister</td></tr><tr><td>Friday 20 December</td><td>Thursday 9 January</td><td>Exiting the European Union (T)</td></tr><tr><td>Tuesday&nbsp;7 January**</td><td>Monday 13 January</td><td>Housing, Communities and Local Government (T)</td></tr><tr><td>Tuesday 7 January</td><td>Wednesday 15 January</td><td>Wales</td></tr></tbody></table>
+The results of the shuffles on&nbsp;20 December&nbsp;will be published on the internet at http://www.publications.parliament.uk/pa/cm/cmfutoral/futoral.pdf
+
+For further details of last tabling days for other departments and answering bodies, see the Order of Questions rota available from the Vote Office and on the internet at http://www.parliament.uk/documents/commons-table-office/Oral-questions-rota.pdf
+
+&nbsp;
+
+&nbsp;]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+            <DayItem>
+              <DayItemType>BusinessItem</DayItemType>
+              <DayItemId>30515</DayItemId>
+              <TabledOrder>14</TabledOrder>
+              <Title>Questions for written answer on a named day</Title>
+              <BusinessItemDetail>
+                <ChildDayItems />
+                <Sponsors />
+                <StandingOrders />
+                <Amendments />
+                <Links />
+                <RenderedFields />
+                <BusinessItemType>Announcement</BusinessItemType>
+                <Time />
+                <DateSubmitted xsi:nil="true" />
+                <ItemText><![CDATA[<table><tbody><tr><td>Time of tabling</td><td>Earliest date for named day answer</td></tr><tr><td>Thursday 19 December&nbsp;</td><td>Tuesday 7 January</td></tr><tr><td>Friday 20 December</td><td>Tuesday 7 January</td></tr><tr><td>From rise of House on Friday 20 December to 4.30pm on Monday 6 January</td><td>Thursday 9 January (each Member may table up to five named day questions during this period)</td></tr><tr><td>Tuesday 7 January</td><td>Monday 13 January</td></tr></tbody></table>]]></ItemText>
+              </BusinessItemDetail>
+            </DayItem>
+          </DayItems>
+          <SectionId>7</SectionId>
+          <Name>Announcements</Name>
+        </Section>
+      </Sections>
+    </Day>
+  </Days>
+</OrderPaper>

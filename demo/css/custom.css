@@ -21,3 +21,7 @@ details {
   summary::-webkit-details-marker {
     display: none;
   }
+
+p, h1, h2, h3, h4, div {
+  font-family: 'Open Sans', sans-serif !important;
+} 

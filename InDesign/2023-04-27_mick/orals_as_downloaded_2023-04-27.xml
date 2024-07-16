@@ -1,0 +1,358 @@
+<OrderBk2Doc>
+  <HeadInfo>
+    <BeginDate>
+      <DayName>Thursday</DayName>
+      <DayNum>27</DayNum>
+      <Month>April</Month>
+      <Year>2023</Year>
+    </BeginDate>
+    <AnsFromDate>
+      <DayName>Thursday</DayName>
+      <DayNum>27</DayNum>
+      <Month>April</Month>
+      <Year>2023</Year>
+    </AnsFromDate>
+  </HeadInfo>
+  <AnsDaySec Date="27/04/2023">
+    <AnsDate>
+      <DayName>Thursday</DayName>
+      <DayNum>27</DayNum>
+      <Month>April</Month>
+    </AnsDate>
+    <OralSec>
+      <TargetGroup>
+        <TargetHead IsTopical="N" DeptCount="1">the Secretary of State for Culture, Media and Sport</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title>Dame</Title>
+            <Fnames>Diana</Fnames>
+            <Sname>Johnson</Sname>
+            <Constit>Kingston upon Hull North</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="Y">What discussions she has had with the BBC on its proposed cuts to local radio services.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904659</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title>Mr</Title>
+            <Fnames>Louie</Fnames>
+            <Sname>French</Sname>
+            <Constit>Old Bexley and Sidcup</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="Y">What steps her Department is taking to encourage community participation in the celebration of the coronation of His Majesty King Charles III.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904660</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Rob</Fnames>
+            <Sname>Roberts</Sname>
+            <Constit>Delyn</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="Y">What steps her Department is taking to increase children’s participation in grassroots sport.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904661</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Nicola</Fnames>
+            <Sname>Richards</Sname>
+            <Constit>West Bromwich East</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="Y">What steps her Department is taking to support grassroots sport.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904663</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title>Dr</Title>
+            <Fnames>Rupa</Fnames>
+            <Sname>Huq</Sname>
+            <Constit>Ealing Central and Acton</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="Y">What steps she is taking to support musicians from Ukraine and Europe to tour in the UK.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904664</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Esther</Fnames>
+            <Sname>McVey</Sname>
+            <Constit>Tatton</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="Y">What steps her Department is taking to support grassroots sport.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904668</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Mary Kelly</Fnames>
+            <Sname>Foy</Sname>
+            <Constit>City of Durham</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="Y">What steps she is taking to support cultural and charitable organisations with increases in the cost of living.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904669</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Nickie</Fnames>
+            <Sname>Aiken</Sname>
+            <Constit>Cities of London and Westminster</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="Y">What steps her Department is taking to encourage community participation in the celebration of the coronation of His Majesty King Charles III.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904675</UIN>
+        </OralQn>
+      </TargetGroup>
+      <TargetGroup>
+        <Time>10:00 am</Time>
+        <TargetHead IsTopical="Y" DeptCount="1">the Secretary of State for Culture, Media and Sport</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Kevin</Fnames>
+            <Sname>Brennan</Sname>
+            <Constit>Cardiff West</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="Y">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904676</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Andrew</Fnames>
+            <Sname>Lewer</Sname>
+            <Constit>Northampton South</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904680</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title>Mrs</Title>
+            <Fnames>Emma</Fnames>
+            <Sname>Lewell-Buck</Sname>
+            <Constit>South Shields</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904681</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Peter</Fnames>
+            <Sname>Aldous</Sname>
+            <Constit>Waveney</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904682</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title>Mr</Title>
+            <Fnames>Tanmanjeet Singh</Fnames>
+            <Sname>Dhesi</Sname>
+            <Constit>Slough</Constit>
+          </Member>
+          <Target QnDispStyle="Topical">the Secretary of State for Culture, Media and Sport</Target>
+          <QnText PrintText="N">If she will make a statement on her departmental responsibilities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904683</UIN>
+        </OralQn>
+      </TargetGroup>
+      <TargetGroup>
+        <Time>10:10 am</Time>
+        <TargetHead IsTopical="N" DeptCount="1">the hon. Member for Lancaster and Fleetwood, representing the Speaker's Committee on the Electoral Commission and the Member for South West Bedfordshire, representing the Church Commissioners</TargetHead>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>1</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Tim</Fnames>
+            <Sname>Loughton</Sname>
+            <Constit>East Worthing and Shoreham</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Member for South West Bedfordshire, representing the Church Commissioners</Target>
+          <QnText PrintText="Y">To ask the hon. Member for South West Bedfordshire, representing the Church Commissioners, what discussions the Church of England has had with international counterparts on the desecration of religious sites in the Holy Land.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904699</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>2</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Fiona</Fnames>
+            <Sname>Bruce</Sname>
+            <Constit>Congleton</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Member for South West Bedfordshire, representing the Church Commissioners</Target>
+          <QnText PrintText="Y">To ask the hon. Member for South West Bedfordshire, representing the Church Commissioners, what discussions the Church of England has had with the Church of Nigeria on the killing and abduction of Christians in that country.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904700</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>3</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Kevin</Fnames>
+            <Sname>Brennan</Sname>
+            <Constit>Cardiff West</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the hon. Member for Lancaster and Fleetwood, representing the Speaker's Committee on the Electoral Commission</Target>
+          <QnText PrintText="Y">To ask the hon. Member for Lancaster and Fleetwood, representing the Speaker's Committee on the Electoral Commission, what recent discussions the Committee has had with the Electoral Commission on the security of postal votes.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904701</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>4</Num>
+          <Member>
+            <Title>Sir</Title>
+            <Fnames>Desmond</Fnames>
+            <Sname>Swayne</Sname>
+            <Constit>New Forest West</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Member for South West Bedfordshire, representing the Church Commissioners</Target>
+          <QnText PrintText="Y">To ask the hon. Member for South West Bedfordshire, representing the Church Commissioners, what discussions the Church of England has had with international counterparts on the desecration of religious sites in the Holy Land.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904702</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>5</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Selaine</Fnames>
+            <Sname>Saxby</Sname>
+            <Constit>North Devon</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Member for South West Bedfordshire, representing the Church Commissioners</Target>
+          <QnText PrintText="Y">To ask the hon. Member for South West Bedfordshire, representing the Church Commissioners, how the Church of England plans to spend grant funding from local authorities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904703</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>6</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Martin</Fnames>
+            <Sname>Vickers</Sname>
+            <Constit>Cleethorpes</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Member for South West Bedfordshire, representing the Church Commissioners</Target>
+          <QnText PrintText="Y">To ask the hon. Member for South West Bedfordshire, representing the Church Commissioners, what steps the Church of England is taking to strengthen its parish ministry.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904704</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>7</Num>
+          <Member>
+            <Title>Mr</Title>
+            <Fnames>Philip</Fnames>
+            <Sname>Hollobone</Sname>
+            <Constit>Kettering</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Member for South West Bedfordshire, representing the Church Commissioners</Target>
+          <QnText PrintText="Y">To ask the hon. Member for South West Bedfordshire, representing the Church Commissioners, whether the Church of England is taking steps to plant more trees on its land.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904705</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>8</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Kirsten</Fnames>
+            <Sname>Oswald</Sname>
+            <Constit>East Renfrewshire</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the hon. Member for Lancaster and Fleetwood, representing the Speaker's Committee on the Electoral Commission</Target>
+          <QnText PrintText="Y">To ask the hon. Member for Lancaster and Fleetwood, representing the Speaker's Committee on the Electoral Commission, what recent discussions the Committee has had with the Electoral Commission on the implementation of voter ID in (a) Scotland, (b) Wales and (c) England ahead of local and national elections.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904707</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>9</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Jerome</Fnames>
+            <Sname>Mayhew</Sname>
+            <Constit>Broadland</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Member for South West Bedfordshire, representing the Church Commissioners</Target>
+          <QnText PrintText="Y">To ask the hon. Member for South West Bedfordshire, representing the Church Commissioners, how the Church of England plans to spend grant funding from local authorities.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904708</UIN>
+        </OralQn>
+        <OralQn Type="O">
+          <TblDate>01/01/0001</TblDate>
+          <Num>10</Num>
+          <Member>
+            <Title></Title>
+            <Fnames>Michael</Fnames>
+            <Sname>Fabricant</Sname>
+            <Constit>Lichfield</Constit>
+          </Member>
+          <Target QnDispStyle="Default">the Member for South West Bedfordshire, representing the Church Commissioners</Target>
+          <QnText PrintText="Y">To ask the hon. Member for South West Bedfordshire, representing the Church Commissioners, what steps the Church of England plans to take to mark the coronation of His Majesty King Charles III in (a) cathedrals and (b) other places of worship outside of London; and if he will make a statement.</QnText>
+          <QnRubric RID="N" UNSDate="NULL" RSTDate="NULL" TRNDate="NULL" BRFDate="NULL" DEFDate="NULL" />
+          <UIN>904709</UIN>
+        </OralQn>
+      </TargetGroup>
+    </OralSec>
+  </AnsDaySec>
+</OrderBk2Doc>

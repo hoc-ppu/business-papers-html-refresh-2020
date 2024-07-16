@@ -1,0 +1,24 @@
+<OrderBk2Doc>
+  <HeadInfo>
+    <BeginDate>
+      <DayName>Friday</DayName>
+      <DayNum>20</DayNum>
+      <Month>December</Month>
+      <Year>2019</Year>
+    </BeginDate>
+    <AnsFromDate>
+      <DayName>Friday</DayName>
+      <DayNum>20</DayNum>
+      <Month>December</Month>
+      <Year>2019</Year>
+    </AnsFromDate>
+  </HeadInfo>
+  <AnsDaySec Date="20/12/2019">
+    <AnsDate>
+      <DayName>Friday</DayName>
+      <DayNum>20</DayNum>
+      <Month>December</Month>
+    </AnsDate>
+    <OralSec />
+  </AnsDaySec>
+</OrderBk2Doc>
