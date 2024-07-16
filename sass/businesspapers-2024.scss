@@ -6,6 +6,14 @@
 
 /*#endregion Variables */
 
+/*#region Layout */
+
+.OP-left-margin {
+    margin-left: 0 !important;
+}
+
+/*#endregion Layout */
+
 /*#region Headings */
 
 .DocumentTitle {
@@ -115,22 +123,30 @@
 
 /*#region Tables */
 
-.Basic-Text-Frame table {
+.Basic-Text-Frame table,
+.StandardTable {
     border: 0;
     border-collapse: collapse;
     border-spacing: 0;
-    margin-top: 45px;
+    margin-top: 0 !important;
     margin-bottom: 27px;
     width: 100%;
 }
 
-.Basic-Text-Frame table td {
-    border: 0;
-    padding: 0.5em;
-    vertical-align: top;
+.StandardTable {
+    margin-left: 0 !important;
 }
 
-.Basic-Text-Frame table thead td {
+.Basic-Text-Frame table td,
+.StandardTable td {
+    border: 0;
+    padding: 0.5em 1em 0.5em 0;
+    vertical-align: top;
+    width: auto;
+}
+
+.Basic-Text-Frame table thead td,
+.StandardTable thead td {
     background-color: #EAEAEA;
     font-weight: 500;
 }
