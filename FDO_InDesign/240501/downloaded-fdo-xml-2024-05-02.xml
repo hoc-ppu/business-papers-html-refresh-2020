@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestionBlock xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuestionBlock>
+    <Date>2024-05-07</Date>
+    <Time>2:30 pm</Time>
+    <Description>Oral Questions to the Chancellor of the Exchequer</Description>
+    <Questions>
+      <Question>
+        <Member>Allan Dorans</Member>
+        <Constituency>Ayr, Carrick and Cumnock</Constituency>
+        <Text>What assessment he has made of the potential impact of increases in the cost of living on households in 2024. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>1</Number>
+        <UIN>902662</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Jim McMahon</Member>
+        <Constituency>Oldham West and Royton</Constituency>
+        <Text>What assessment he has made of the contribution of the co-operative sector to the economy.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>2</Number>
+        <UIN>902663</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Dr Rupa Huq</Member>
+        <Constituency>Ealing Central and Acton</Constituency>
+        <Text>What steps he is taking to ensure value for money in public spending.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>3</Number>
+        <UIN>902664</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Owen Thompson</Member>
+        <Constituency>Midlothian</Constituency>
+        <Text>If he will make an assessment of the implications for his policies of regional variations in trends in the number of free-to-use ATMs.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>4</Number>
+        <UIN>902665</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Kerry McCarthy</Member>
+        <Constituency>Bristol East</Constituency>
+        <Text>What recent assessment he has made of the potential impact of his tax policies on living standards.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>5</Number>
+        <UIN>902666</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>John Penrose</Member>
+        <Constituency>Weston-super-Mare</Constituency>
+        <Text>If he will use outcome evaluations to assess the effectiveness of the Public Sector Productivity Programme.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>6</Number>
+        <UIN>902667</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Maggie Throup</Member>
+        <Constituency>Erewash</Constituency>
+        <Text>What steps his Department is taking to reduce taxes. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>7</Number>
+        <UIN>902668</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Chris Loder</Member>
+        <Constituency>West Dorset</Constituency>
+        <Text>Whether his Department has made a recent assessment of the adequacy of its guidance entitled The Green Book.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>8</Number>
+        <UIN>902669</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Stephen Crabb</Member>
+        <Constituency>Preseli Pembrokeshire</Constituency>
+        <Text>What fiscal steps his Department is taking to support small businesses. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>9</Number>
+        <UIN>902670</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Joanna Cherry</Member>
+        <Constituency>Edinburgh South West</Constituency>
+        <Text>What assessment he has made of the potential impact of increases in the cost of living on households in 2024. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>10</Number>
+        <UIN>902671</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Liz Twist</Member>
+        <Constituency>Blaydon</Constituency>
+        <Text>What recent fiscal steps he has taken to help reduce regional economic inequalities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>11</Number>
+        <UIN>902672</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Mrs Flick Drummond</Member>
+        <Constituency>Meon Valley</Constituency>
+        <Text>What fiscal steps he is taking to support households with the cost of living.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>12</Number>
+        <UIN>902673</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Kate Osborne</Member>
+        <Constituency>Jarrow</Constituency>
+        <Text>What recent fiscal steps he has taken to help reduce regional economic inequalities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>13</Number>
+        <UIN>902674</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Vicky Foxcroft</Member>
+        <Constituency>Lewisham, Deptford</Constituency>
+        <Text>Whether he has taken recent steps with Cabinet colleagues to ensure that people with disabilities can access their Child Trust Fund when they turn 18.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>14</Number>
+        <UIN>902675</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Andrew Rosindell</Member>
+        <Constituency>Romford</Constituency>
+        <Text>Whether he plans to reintroduce VAT-free shopping for international visitors.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>15</Number>
+        <UIN>902676</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Dr James Davies</Member>
+        <Constituency>Vale of Clwyd</Constituency>
+        <Text>What fiscal steps his Department is taking to help increase the level of business investment.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>16</Number>
+        <UIN>902677</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Mrs Heather Wheeler</Member>
+        <Constituency>South Derbyshire</Constituency>
+        <Text>What assessment he has made of the impact of raising the high income child benefit charge threshold on household incomes. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>17</Number>
+        <UIN>902678</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Tom Randall</Member>
+        <Constituency>Gedling</Constituency>
+        <Text>What progress he has made on reducing inflation.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>18</Number>
+        <UIN>902679</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Dr Alan Whitehead</Member>
+        <Constituency>Southampton, Test</Constituency>
+        <Text>What recent fiscal steps he has taken to help reduce regional economic inequalities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>19</Number>
+        <UIN>902680</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Paul Blomfield</Member>
+        <Constituency>Sheffield Central</Constituency>
+        <Text>What recent assessment he has made of the potential impact of his tax policies on living standards.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>20</Number>
+        <UIN>902681</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Nadia Whittome</Member>
+        <Constituency>Nottingham East</Constituency>
+        <Text>What fiscal steps he is taking to support households with increases in the cost of living.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>21</Number>
+        <UIN>902682</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Marion Fellows</Member>
+        <Constituency>Motherwell and Wishaw</Constituency>
+        <Text>What assessment he has made of the potential impact of increases in the cost of living on households in 2024. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>22</Number>
+        <UIN>902683</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Ruth Edwards</Member>
+        <Constituency>Rushcliffe</Constituency>
+        <Text>What fiscal steps his Department is taking to support small businesses. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>23</Number>
+        <UIN>902684</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Jamie Stone</Member>
+        <Constituency>Caithness, Sutherland and Easter Ross</Constituency>
+        <Text>What fiscal steps he is taking to support lower-income households.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>24</Number>
+        <UIN>902685</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Patricia Gibson</Member>
+        <Constituency>North Ayrshire and Arran</Constituency>
+        <Text>What assessment he has made of the potential impact of increases in the cost of living on households in 2024. </Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>25</Number>
+        <UIN>902686</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+    </Questions>
+    <QuestionType>Substantive Oral</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-07</Date>
+    <Time>3:15 pm</Time>
+    <Description>Topical Questions to the Chancellor of the Exchequer</Description>
+    <Questions>
+      <Question>
+        <Member>Debbie Abrahams</Member>
+        <Constituency>Oldham East and Saddleworth</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>1</Number>
+        <UIN>902687</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Richard Burgon</Member>
+        <Constituency>Leeds East</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>2</Number>
+        <UIN>902688</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Kerry McCarthy</Member>
+        <Constituency>Bristol East</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>3</Number>
+        <UIN>902689</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Damien Egan</Member>
+        <Constituency>Kingswood</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>4</Number>
+        <UIN>902690</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Carla Lockhart</Member>
+        <Constituency>Upper Bann</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>5</Number>
+        <UIN>902691</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>John Penrose</Member>
+        <Constituency>Weston-super-Mare</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>6</Number>
+        <UIN>902692</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Andrew Gwynne</Member>
+        <Constituency>Denton and Reddish</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>7</Number>
+        <UIN>902693</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Dr Thérèse Coffey</Member>
+        <Constituency>Suffolk Coastal</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>8</Number>
+        <UIN>902694</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Julian Sturdy</Member>
+        <Constituency>York Outer</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>9</Number>
+        <UIN>902695</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Jeff Smith</Member>
+        <Constituency>Manchester, Withington</Constituency>
+        <Text>If he will make a statement on his departmental responsibilities.</Text>
+        <AnsweringBody>Treasury</AnsweringBody>
+        <Number>10</Number>
+        <UIN>902696</UIN>
+        <DeclaredInterest />
+        <Type>TOPICAL</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+    </Questions>
+    <QuestionType>Topical Oral</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+  <QuestionBlock>
+    <Date>2024-05-08</Date>
+    <Time>11:30 am</Time>
+    <Description>Oral Questions to the Secretary of State for Wales</Description>
+    <Questions>
+      <Question>
+        <Member>Andrew Rosindell</Member>
+        <Constituency>Romford</Constituency>
+        <Text>What recent discussions he has had with the Welsh Government on the impact of the 20mph speed limit on residential roads and pedestrian streets in Wales on road users.</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>1</Number>
+        <UIN>902647</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Mr Barry Sheerman</Member>
+        <Constituency>Huddersfield</Constituency>
+        <Text>What discussions he has had with the Welsh Government on the biodiversity of Welsh rivers and streams.</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>2</Number>
+        <UIN>902648</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Liz Twist</Member>
+        <Constituency>Blaydon</Constituency>
+        <Text>What recent discussions he has had with Cabinet colleagues on the cost of living in Wales. 
+</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>3</Number>
+        <UIN>902649</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Philip Dunne</Member>
+        <Constituency>Ludlow</Constituency>
+        <Text>What discussions he has had with the Welsh Government on the River Wye Action Plan.</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>4</Number>
+        <UIN>902650</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Theresa Villiers</Member>
+        <Constituency>Chipping Barnet</Constituency>
+        <Text>What recent discussions he has had with the Welsh Government on NHS waiting times.</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>5</Number>
+        <UIN>902651</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Bob Blackman</Member>
+        <Constituency>Harrow East</Constituency>
+        <Text>What recent discussions he has had with the Cabinet Secretary for North Wales and Transport on the impact of the 20mph speed limit on residential roads and pedestrian streets in Wales on road users.</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>6</Number>
+        <UIN>902652</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Tonia Antoniazzi</Member>
+        <Constituency>Gower</Constituency>
+        <Text>What steps he is taking to help support victims of crime in Wales. </Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>7</Number>
+        <UIN>902653</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Wayne David</Member>
+        <Constituency>Caerphilly</Constituency>
+        <Text>What recent discussions he has had with Cabinet colleagues on the cost of living in Wales</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>8</Number>
+        <UIN>902654</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Dr Luke Evans</Member>
+        <Constituency>Bosworth</Constituency>
+        <Text>What recent discussions he has had with the Welsh Government on the impact of the 20mph speed limit on residential roads and pedestrian streets in Wales on road users.</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>9</Number>
+        <UIN>902655</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Matt Western</Member>
+        <Constituency>Warwick and Leamington</Constituency>
+        <Text>What recent discussions he has had with Cabinet colleagues on the future of the steelmaking industry in Wales.</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>10</Number>
+        <UIN>902656</UIN>
+        <DeclaredInterest>UK steel is important to manufacturing and energy businesses based in my constituency</DeclaredInterest>
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Rachel Hopkins</Member>
+        <Constituency>Luton South</Constituency>
+        <Text>What recent discussions he has had with Cabinet colleagues on the future of the steelmaking industry in Wales.</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>11</Number>
+        <UIN>902657</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Patrick Grady</Member>
+        <Constituency>Glasgow North</Constituency>
+        <Text>What recent assessment he has made of the impact of increases in the cost of living on people in Wales.</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>12</Number>
+        <UIN>902658</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Ruth Jones</Member>
+        <Constituency>Newport West</Constituency>
+        <Text>What steps he is taking to help support victims of crime in Newport West constituency.</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>13</Number>
+        <UIN>902659</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+      <Question>
+        <Member>Ben Lake</Member>
+        <Constituency>Ceredigion</Constituency>
+        <Text>What recent discussions he has had with Cabinet colleagues on support for the rural economy in Wales.</Text>
+        <AnsweringBody>Wales Office</AnsweringBody>
+        <Number>14</Number>
+        <UIN>902660</UIN>
+        <DeclaredInterest />
+        <Type>SUBSTANTIVE</Type>
+        <IsTransfer>false</IsTransfer>
+        <Status>ToBeAsked</Status>
+      </Question>
+    </Questions>
+    <QuestionType>Substantive Oral</QuestionType>
+    <ContainsWithdrawnQuestions>false</ContainsWithdrawnQuestions>
+  </QuestionBlock>
+</ArrayOfQuestionBlock>
