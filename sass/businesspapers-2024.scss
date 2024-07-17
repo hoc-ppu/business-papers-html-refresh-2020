@@ -200,11 +200,12 @@ table.StandardTable thead td {
 
 /*#region Dividers */
 
-hr.Line_Interstitial {
+.Line_Interstitial {
     border-top: 1px solid;
     display: block;
     height: 1px;
     margin: 1.55em 0 !important;
+    overflow: hidden;
     padding: 0 !important;
     width: 3em;
 }
