@@ -116,6 +116,10 @@ $font-bold: 500;
     font-weight: $font-bold
 }
 
+.paraMotionSub-Sub-Paragraph {
+    margin-left: $indent-amount;
+}
+
 .paraMotionSubSub-Paragraph {
     margin-left: $indent-amount * 2;
 }
