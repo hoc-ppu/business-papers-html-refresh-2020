@@ -229,7 +229,8 @@ table.StandardTable thead td {
 
 /*#region Dividers */
 
-.Line_Interstitial {
+.Line_Interstitial,
+.ShortDevider {
     border-top: 1px solid;
     display: block;
     height: 1px;
