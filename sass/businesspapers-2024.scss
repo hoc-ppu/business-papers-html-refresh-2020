@@ -68,8 +68,8 @@ $font-bold: 500;
 .paraBusinessSub-SectionHeading {
     margin-left: 0 !important;
     text-align: center;
-    padding-left: 1em !important;
-    padding-right: 1em !important;
+    line-height: 1.1;
+    padding: 0.1em 1.5em 0.2em 1.5em !important;
 }
 
 .paraBusinessItemHeading {
@@ -80,13 +80,14 @@ $font-bold: 500;
     display: inline-block !important;
     height: 1em;
     padding-right: 0 !important;
-    padding-left: 0.5em !important;
+    padding-left: 0 !important;
     position: relative;
 }
 
 .anchor-link::after {
     display: block;
     margin-top: -0.075em;
+    padding-left: 0.5em;
     position: absolute;
 }
 
