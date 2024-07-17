@@ -16,6 +16,12 @@ $font-bold: 500;
     margin-left: 0 !important;
 }
 
+.questionsSection {
+    margin-top: 1.55em;
+    border-top: 1px solid;
+    padding-top: 1.55em;
+}
+
 /*#endregion Layout */
 
 /*#region Headings */
@@ -39,6 +45,16 @@ $font-bold: 500;
     font-weight: 500;
     line-height: 1.5 !important;
     padding-bottom: 0.5em;
+}
+
+.questionsSection h2.date {
+    border-bottom: none !important;
+    font-weight: 400 !important;
+    padding-bottom: 0 !important;
+}
+
+.questionsSection h3.target {
+    font-size: 1em;
 }
 
 .paraBusinessSub-SectionHeading {
@@ -80,20 +96,6 @@ $font-bold: 500;
 
 .paraBusinessItemHeading {
     text-transform: none;
-}
-
-.EDMTitle {
-    font-size: 1em !important;
-    line-height: 1.5 !important;
-    margin-bottom: 0 !important;
-    padding-left: 3em;
-}
-
-.EDMTitle .UIN {
-    display: inline-block;
-    margin-right: 0.5em;
-    margin-left: -3em;
-    min-width: 2.5em;
 }
 
 .anchor-link {
@@ -180,6 +182,31 @@ $font-bold: 500;
 
 .hanging1 {
     padding-right: 0.5em;
+}
+
+.EDMTitle {
+    font-size: 1em !important;
+    line-height: 1.5 !important;
+    margin-bottom: 0 !important;
+    padding-left: 3em;
+}
+
+.EDMTitle .UIN {
+    display: inline-block;
+    margin-right: 0.5em;
+    margin-left: -3em;
+    min-width: 2.5em;
+}
+
+.questionContainer {
+    padding-left: 2em;
+}
+
+.questionNumber {
+    display: inline-block;
+    margin-right: 0.5em;
+    margin-left: -2em;
+    min-width: 1.5em;
 }
 
 /*#endregion Paragraphs */
