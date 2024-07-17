@@ -132,6 +132,10 @@ $font-bold: 500;
 
 /*#region Tables */
 
+.Front-Page-Table td {
+    vertical-align: top;
+}
+
 .Basic-Text-Frame table,
 table.StandardTable {
     border: 0;
@@ -171,7 +175,7 @@ table.StandardTable thead td {
 
 /*#region Dividers */
 
-p.Line_Interstitial {
+hr.Line_Interstitial {
     border-top: 1px solid;
     display: block;
     height: 1px;
