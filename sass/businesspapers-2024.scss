@@ -20,18 +20,24 @@ $font-bold: 500;
 
 /*#region Headings */
 
-.DocumentTitle {
+.DocumentTitle,
+.Title {
     border-bottom: 1px solid;
     font-weight: 500;
     letter-spacing: 0.05em;
+    margin-bottom: $para-spacing !important;
     padding-bottom: 0.5em;
     text-transform: uppercase;
 }
 
-.MainTitle {
+.MainTitle,
+.mainTitle,
+#content-goes-here h2 {
     border-bottom: 1px solid;
-    font-size: 1.618em;
+    color: #4d4d4d !important;
+    font-size: 1.618em !important;
     font-weight: 500;
+    line-height: 1.5 !important;
     padding-bottom: 0.5em;
 }
 
@@ -76,6 +82,20 @@ $font-bold: 500;
     text-transform: none;
 }
 
+.EDMTitle {
+    font-size: 1em !important;
+    line-height: 1.5 !important;
+    margin-bottom: 0 !important;
+    padding-left: 3em;
+}
+
+.EDMTitle .UIN {
+    display: inline-block;
+    margin-right: 0.5em;
+    margin-left: -3em;
+    min-width: 2.5em;
+}
+
 .anchor-link {
     display: inline-block !important;
     height: 1em;
@@ -89,6 +109,15 @@ $font-bold: 500;
     margin-top: -0.075em;
     padding-left: 0.5em;
     position: absolute;
+}
+
+.Tabled-Names {
+    margin-bottom: $para-spacing/2;
+    text-align: left;
+}
+
+.Tabled-Names .Roman {
+    margin-left: 3em;
 }
 
 /*#endregion Headings */
