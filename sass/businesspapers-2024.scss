@@ -1,8 +1,12 @@
-@import 'businesspapers.scss';
-
 /*#region Variables */
 
+// standard indent level
+$indent-amount: 2.2rem;
 
+// default margin bottom from design system
+$para-spacing: 18px;
+
+$font-bold: 500;
 
 /*#endregion Variables */
 
@@ -108,7 +112,7 @@
 }
 
 .paraAmendmentSponsor {
-    @include font-bold();
+    font-weight: $font-bold
 }
 
 .paraMotionSubSub-Paragraph {
@@ -124,29 +128,32 @@
 /*#region Tables */
 
 .Basic-Text-Frame table,
-.StandardTable {
+table.StandardTable {
     border: 0;
     border-collapse: collapse;
     border-spacing: 0;
+    display: block;
     margin-top: 0 !important;
     margin-bottom: 27px;
-    width: 100%;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    white-space: nowrap;
 }
 
-.StandardTable {
+table.StandardTable {
     margin-left: 0 !important;
 }
 
 .Basic-Text-Frame table td,
-.StandardTable td {
-    border: 0;
-    padding: 0.5em 1em 0.5em 0;
+table.StandardTable td {
+    border: 1px solid;
+    padding: 0.5em 0.75em;
     vertical-align: top;
     width: auto;
 }
 
 .Basic-Text-Frame table thead td,
-.StandardTable thead td {
+table.StandardTable thead td {
     background-color: #EAEAEA;
     font-weight: 500;
 }
