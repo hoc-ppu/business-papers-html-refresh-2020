@@ -112,20 +112,45 @@ $font-bold: 500;
     margin-left: $indent-amount;
 }
 
-.paraAmendmentSponsor {
+.paraAmendmentSponsor,
+.A2A-Sponsor {
     font-weight: $font-bold
 }
 
-.paraMotionSub-Sub-Paragraph {
-    margin-left: $indent-amount;
+.paraMotionSubSub-Paragraph,
+.paraMotionSub-Sub-Paragraph,
+.A2A-Normal,
+.A2A-Sponsor,
+.A2A-SponsorGroup {
+    margin-left: $indent-amount * 2;
 }
 
-.paraMotionSubSub-Paragraph {
-    margin-left: $indent-amount * 2;
+.paraAmendmentSponsor,
+.A2A-Sponsor {
+    margin-bottom: 0;
 }
 
 .MotionSponsorGroup_indent {
     margin-left: $indent-amount;
+}
+
+.MotionSponsorGroup_indent,
+.A2A-SponsorGroup {
+    margin-top: $para-spacing;
+}
+
+.MotionSponsorGroup_indent span,
+.A2A-SponsorGroup span {
+    padding-right: $indent-amount !important;
+    padding-left: 0 !important;
+}
+
+.paraMotionSub-Sub-Sub-Paragraph {
+    margin-left: $indent-amount * 3;
+}
+
+.hanging1 {
+    padding-right: 0.5em;
 }
 
 /*#endregion Paragraphs */
